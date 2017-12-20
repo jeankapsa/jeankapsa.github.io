@@ -27,3 +27,6 @@ a:hover {
 	text-decoration: underline;
 }
 
+img {
+  width: 560px; height: auto;
+}
