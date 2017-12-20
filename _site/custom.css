@@ -1,9 +1,28 @@
+@import url("https://use.typekit.net/cuv3jmw.css");
+
 body {
-	font-size:14px;
+	font-family:"ff-meta-serif-web-pro", serif;
+	font-size:18px;
 	font-weight:500;
 }
 
-img {
-  width: 560px; height: auto;
+a.site-title, .site-nav {
+	font-family: "ff-meta-web-pro",sans-serif;
+  	font-weight: 700;
+  	letter-spacing:normal;
 }
 
+h1,h2,h3,h4,h5,h6 {
+	font-family: "ff-meta-web-pro",sans-serif;
+  	font-weight: 700;
+}
+
+a, a:visited {
+    color: #FF404C;
+    text-decoration: none;
+    }
+
+a:hover {
+	color: #111;
+	text-decoration: underline;
+}
