@@ -1,19 +1,17 @@
-@import url("https://use.typekit.net/cuv3jmw.css");
-
 body {
-	font-family:"ff-meta-serif-web-pro", serif;
+	font-family: 'Overpass' , sans-serif;
 	font-size:18px;
 	font-weight:500;
 }
 
 a.site-title, .site-nav {
-	font-family: "ff-meta-web-pro",sans-serif;
+	font-family: 'Overpass' ,sans-serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: "ff-meta-web-pro",sans-serif;
+	font-family: 'Overpass' ,sans-serif;
   	font-weight: 700;
 }
 
@@ -26,3 +24,4 @@ a:hover {
 	color: #111;
 	text-decoration: underline;
 }
+
