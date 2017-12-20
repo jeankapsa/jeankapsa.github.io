@@ -1,0 +1,89 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Jean Kapsa",
+	"home_page_url": "http://blog.jeankapsa.com/",
+	"feed_url": "http://blog.jeankapsa.com/feed.json",
+	"items": [
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/29/pleyel.html",
+	      	
+			"content_html": "<p>Pleyel</p>\n\n<p><img src=\"http://blog.jeankapsa.com/uploads/2017/154177f981.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-29T12:54:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/29/pleyel.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/10/recife-brsil.html",
+	      	
+			"content_html": "<p>Recife, Brésil</p>\n\n<p><img src=\"http://blog.jeankapsa.com/uploads/2017/711842e15a.jpg\" width=\"600\" height=\"397\" /></p>\n",
+			"date_published": "2017-11-10T19:01:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/10/recife-brsil.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/07/cecina-italie.html",
+	      	
+			"content_html": "<p>Cecina, Italie</p>\n\n<p><img src=\"http://blog.jeankapsa.com/uploads/2017/d2beb7bed2.jpg\" width=\"600\" height=\"397\" /></p>\n",
+			"date_published": "2017-11-07T20:03:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/07/cecina-italie.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/06/bronx-ny.html",
+	      	
+			"content_html": "<p>Bronx, NY</p>\n\n<p><img src=\"http://blog.jeankapsa.com/uploads/2017/fef476394d.jpg\" width=\"397\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-06T19:19:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/06/bronx-ny.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/05/le-prochain-album.html",
+	      	
+			"content_html": "<p>Le prochain album avec Festen « Inside Stanley Kubrick » est enregistré et masterisé. Sortie prévue début 2018.</p>\n",
+			"date_published": "2017-11-05T18:42:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/05/le-prochain-album.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/04/204318.html",
+	      	
+			"content_html": "<p><img src=\"http://blog.jeankapsa.com/uploads/2017/29fa0ddea4.jpg\" width=\"397\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-04T21:43:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/04/204318.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/03/061805.html",
+	      	
+			"content_html": "<p><img src=\"http://blog.jeankapsa.com/uploads/2017/a9bfb06ebf.jpg\" width=\"600\" height=\"397\" /></p>\n",
+			"date_published": "2017-11-03T07:18:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/03/061805.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/11/02/165749.html",
+	      	
+			"content_html": "<p><img src=\"http://blog.jeankapsa.com/uploads/2017/b582a72b31.jpg\" width=\"397\" height=\"600\" /></p>\n",
+			"date_published": "2017-11-02T17:57:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/11/02/165749.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/10/25/sarrter-chess-forumhttpswwwchessforumcom.html",
+	      	
+			"content_html": "<p>S’arrêter à <a href=\"https://www.chessforum.com\">Chess Forum</a> dans Greenwich Village.</p>\n",
+			"date_published": "2017-10-25T21:34:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/10/25/sarrter-chess-forumhttpswwwchessforumcom.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/10/06/210302.html",
+	      	
+			"content_html": "<p><img src=\"http://blog.jeankapsa.com/uploads/2017/cf417f6d0e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2017-10-06T22:03:00+01:00",
+			"url": "http://blog.jeankapsa.com/2017/10/06/210302.html"
+		}
+		
+	]
+}
