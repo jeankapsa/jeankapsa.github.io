@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Alegreya|Philosopher|Playfair+Display|Vollkorn');
+@import url('https://fonts.googleapis.com/css?family=Overpass');
 
 body {
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Overpass', sans-serif;
 	font-size:16px;
 	font-weight:500;
 }
 
 a.site-title, .site-nav {
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Overpass', sans-serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Philosopher', sans-serif;
+	font-family: 'Overpass', sans-serif;
   	font-weight: 700;
 }
 
@@ -30,4 +30,5 @@ a:hover {
 img {
   width: 560px; height: auto;
 }
+
 
