@@ -3,16 +3,16 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 4
-date: 2017-12-22 00:29 +0100
+date: 2017-12-22 00:33 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
-<br/>
 [L'alliance](https://vimeo.com/127064120), clip réalisé par le Collectif Scale (2015)  
 [Hypnose](https://vimeo.com/23105476), clip réalisé par Smith & Natlacen (2011)  
-<br/>
 Trois morceaux enregistrés en live dans la Matinale Culturelle sur France Musique (2015) :  
 [L'alliance](https://vimeo.com/126383401) // [Don't Speak Too Soon](https://vimeo.com/128343194) // [Mimesis](https://vimeo.com/128343311)  
 <br/>
 **Festen**  
-
+[Black Rain](https://www.youtube.com/watch?v=-qg0tvUv5jk), clip réalisé par Yoann Garel (2016)  
+[Shadow Boxing](https://www.youtube.com/watch?v=fYARATjbBhU), clip réalisé par Yoann Garel (2014)  
+[We Are](https://www.youtube.com/watch?v=LUeAWpnyhBk), vidéo 360 VR réalisée par Benjamin Courtadon (2016)
