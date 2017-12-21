@@ -3,7 +3,7 @@
 body {
 	font-family: 'Vollkorn', serif;
 	font-size:16px;
-	font-weight:500;
+	font-weight:400;
 }
 
 a.site-title, .site-nav {
@@ -30,4 +30,5 @@ a:hover {
 img {
   width: 560px; height: auto;
 }
+
 
