@@ -3,12 +3,14 @@ title: "Musique"
 permalink: "/musique/"
 layout: page
 order: 3
-date: 2017-12-21 01:18 +0100
+date: 2017-12-22 00:20 +0100
 ---
 # Solo #  
 [_Improvisations_](https://jeankapsa.bandcamp.com/album/improvisations-vol-1-2) (2012)  
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1097424824/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/improvisations-vol-1-2">Improvisations, Vol. 1 & 2 by JEAN KAPSA</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1097424824/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/improvisations-vol-1-2">Improvisations, Vol. 1 & 2 by JEAN KAPSA</a></iframe>  
+
+<br/>
   
 Improvisations  
  
@@ -26,15 +28,19 @@ Eda Öztürk, le 4 juillet 2013.
 # Kapsa Reininger Fleau #  
 [_Greenland Road_](https://jeankapsa.bandcamp.com/album/greenland-road) (2009)  
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4112750339/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/greenland-road">Greenland Road by KAPSA REININGER FLEAU</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4112750339/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/greenland-road">Greenland Road by KAPSA REININGER FLEAU</a></iframe>  
+
+<br/>
 
 [_Parhélie_](https://jeankapsa.bandcamp.com/album/parh-lie) (2011)  
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3359810778/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/parh-lie">Parhélie by KAPSA REININGER FLEAU</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3359810778/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/parh-lie">Parhélie by KAPSA REININGER FLEAU</a></iframe>  
+
+<br/>
 
 [_La Ligne de Kármán_](https://jeankapsa.bandcamp.com/album/la-ligne-de-k-rm-n) (2015)  
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3930777542/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/la-ligne-de-k-rm-n">La Ligne de Kármán by KAPSA REININGER FLEAU</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3930777542/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/la-ligne-de-k-rm-n">La Ligne de Kármán by KAPSA REININGER FLEAU</a></iframe>  
 
 <br/>
   
@@ -47,11 +53,15 @@ Tels sont les mots qu’inspire aux Inrocks l’éblouissant second album de ce 
 # Festen #  
 [_Festen_](https://jeankapsa.bandcamp.com/album/festen) (2010)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2067446856/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/festen">Festen by FESTEN</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2067446856/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/festen">Festen by FESTEN</a></iframe>  
+
+<br/>
 
 [_Family Tree_](https://jeankapsa.bandcamp.com/album/family-tree) (2013)
 
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=250233516/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/family-tree">Family Tree by FESTEN</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=250233516/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/family-tree">Family Tree by FESTEN</a></iframe>  
+
+<br/>
 
 [_Mad System_](https://jeankapsa.bandcamp.com/album/mad-system) (2015)
 
