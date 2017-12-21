@@ -18,17 +18,15 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a, a:visited {
-    color: #FF404C;
+    color: #E52A8B;
     text-decoration: none;
     }
 
 a:hover {
-	color: #111;
 	text-decoration: underline;
 }
 
 img {
   width: 560px; height: auto;
 }
-
 
