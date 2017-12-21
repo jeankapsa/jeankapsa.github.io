@@ -31,4 +31,10 @@ img {
   width: 560px; height: auto;
 }
 
-site-title, site-title:visited { color: #101010; }
+blockquote { font-size: 16px; letter-spacing: normal; font-style: normal; }
+
+.site-title { letter-spacing: normal; }
+
+.post-title { letter-spacing: normal; }
+
+.site-title, .site-title:visited { color: #101010; }
