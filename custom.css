@@ -23,6 +23,7 @@ a, a:visited {
     }
 
 a:hover {
+    color: #E52A8B;
 	text-decoration: underline;
 }
 
@@ -30,3 +31,4 @@ img {
   width: 560px; height: auto;
 }
 
+site-title, site-title:visited { color: #101010; }
