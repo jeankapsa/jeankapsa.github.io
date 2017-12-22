@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+English');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica');
 
 body {
-	font-family: 'IM Fell English', serif;
-	font-size:14px;
+	font-family: 'IM Fell DW Pica', serif;
+	font-size:16px;
 	font-weight:500;
 }
 
 a.site-title, .site-nav {
-	font-family: 'IM Fell English', serif;
+	font-family: 'IM Fell DW Pica', serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'IM Fell English', serif;
+	font-family: 'IM Fell DW Pica', serif;
   	font-weight: 700;
 }
 
@@ -31,7 +31,7 @@ img {
   width: 560px; height: auto;
 }
 
-blockquote { font-size: 14px; letter-spacing: normal; font-style: normal; }
+blockquote { font-size: 16px; letter-spacing: normal; font-style: normal; }
 
 .site-title { letter-spacing: normal; }
 
@@ -40,3 +40,5 @@ blockquote { font-size: 14px; letter-spacing: normal; font-style: normal; }
 .site-title, .site-title:visited { color: #101010; }
 
 .site-header { border-top: 5px solid #fdfdfd; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
+
+
