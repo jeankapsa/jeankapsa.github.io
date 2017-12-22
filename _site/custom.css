@@ -31,10 +31,12 @@ img {
   width: 560px; height: auto;
 }
 
-blockquote { font-size: 16px; letter-spacing: normal; font-style: normal; }
+blockquote { font-size: 14px; letter-spacing: normal; font-style: normal; }
 
 .site-title { letter-spacing: normal; }
 
 .post-title { letter-spacing: normal; }
 
 .site-title, .site-title:visited { color: #101010; }
+
+.site-header { border-top: 5px solid #ffffff; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
