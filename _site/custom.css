@@ -4,6 +4,7 @@ body {
 	font-family: 'IM Fell DW Pica', serif;
 	font-size:16px;
 	font-weight:500;
+  	color: #333333;
 }
 
 a.site-title, .site-nav {
@@ -37,7 +38,7 @@ blockquote { font-size: 16px; letter-spacing: normal; font-style: normal; }
 
 .post-title { letter-spacing: normal; }
 
-.site-title, .site-title:visited { color: #101010; }
+.site-title, .site-title:visited { color: #333333; }
 
 .site-header { border-top: 5px solid #fdfdfd; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
 
