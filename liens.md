@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 4
-date: 2017-12-22 01:46 +0100
+date: 2017-12-22 19:17 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -15,7 +15,7 @@ Trois morceaux enregistrés en live dans la Matinale Culturelle sur France Musiq
 **Festen**  
 [Black Rain](https://www.youtube.com/watch?v=-qg0tvUv5jk), clip réalisé par Yoann Garel (2016)  
 [Shadow Boxing](https://www.youtube.com/watch?v=fYARATjbBhU), clip réalisé par Yoann Garel (2014)  
-[Spartacus](https://vimeo.com/208452879), vidéo live réalisée par le Jardin Imparfait.  
+[Spartacus](https://vimeo.com/208452879), vidéo live réalisée par le Jardin Imparfait (2017)  
 [We Are](https://www.youtube.com/watch?v=LUeAWpnyhBk), vidéo 360 VR réalisée par Benjamin Courtadon (2016)  
 <br/>
 **Avec Nils Frahm**  
