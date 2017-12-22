@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 4
-date: 2017-12-22 01:41 +0100
+date: 2017-12-22 01:46 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -50,7 +50,7 @@ _B-Sides_, Festen (EP Vinyle 33T 4 titres, 2016)
 **Kapsa Reininger Fleau**  
 Louis-Julien Nicolaou – Les Inrocks (juin 2015)  
 
-> Leur musique, gracieuse comme un lointain envol, se déroule à la manière d’une large fresque tendue dans les airs d’un hémisphère à l’autre, entraînant l’auditeur à suivre attentivement ses plus infimes frémissements… Lire l’article  
+> Leur musique, gracieuse comme un lointain envol, se déroule à la manière d’une large fresque tendue dans les airs d’un hémisphère à l’autre, entraînant l’auditeur à suivre attentivement ses plus infimes frémissements… [Lire l’article](http://www.lesinrocks.com/2015/06/16/musique/10-albums-pour-decouvrir-le-jazz-daujourdhui-11753946/)  
 
 Pianiste Magazine (avril 2015)  
 
@@ -58,19 +58,19 @@ Pianiste Magazine (avril 2015)
 
 Cédric David – FIP Radio – album de la semaine (avril 2015)  
 
-> Une musicalité et une sonorité rares qui vous pousse inéxorablement à réécouter ces douzes compositions originales… Lire l’article  
+> Une musicalité et une sonorité rares qui vous pousse inéxorablement à réécouter ces douzes compositions originales… [Lire l’article](http://www.fipradio.fr/decouvrir/album-jazz/la-ligne-de-karman-17789)  
 
 Denis Desassis – Citizen Jazz (Élu – juin 2015)  
 
-> Kapsa, Reininger et Fleau se lancent un défi comparable : dominer l’évanescence ou la futilité des choses du quotidien pour inventer un langage personnel, si possible compris du plus grand nombre, le plus longtemps possible. Ils y parviennent de très belle manière… Lire l’article  
+> Kapsa, Reininger et Fleau se lancent un défi comparable : dominer l’évanescence ou la futilité des choses du quotidien pour inventer un langage personnel, si possible compris du plus grand nombre, le plus longtemps possible. Ils y parviennent de très belle manière… [Lire l’article](http://www.citizenjazz.com/Jean-Kapsa-Antoine-Reininger.html)  
 
 Jean-Marc Aguirre – Jazz-Rhônes-Alpes (septembre 2015)  
 
-> Des compositions haletantes, une économie de notes au service de l’émotion, une cohésion percussive du trio… Lire l’article  
+> Des compositions haletantes, une économie de notes au service de l’émotion, une cohésion percussive du trio… [Lire l’article](http://www.jazz-rhone-alpes.com/150831/#disque)  
 
 Pierre Tenne – Djam (mai 2015)  
 
-> Un album éclectique mais très clair, une écoute attentive et productrice d’espace de ces trois musiciens qui rendent facile l’art exigeant du trio… Lire l’article  
+> Un album éclectique mais très clair, une écoute attentive et productrice d’espace de ces trois musiciens qui rendent facile l’art exigeant du trio… [Lire l’article](http://www.djamlarevue.com/blog/chroniques/kapsa-reininger-fleau-la-ligne-de-karman)  
 
 Arnaud Roffignon – Revue des anciens élèves de l’ENA (mai 2015)  
 
@@ -94,7 +94,7 @@ Renaud Czarnes – Les Echos (mai 2011)
  
 Guy Degeorges – Un Soir ou Un Autre (avril 2010)  
 
-> La musique est colorée, expressive et tendre, emportant loin dans l’émotion… Du jazz pour le troisième millénaire, qui, une fois la tradition assimilée, s’oublie et recommence, à neuf… Lire l’article  
+> La musique est colorée, expressive et tendre, emportant loin dans l’émotion… Du jazz pour le troisième millénaire, qui, une fois la tradition assimilée, s’oublie et recommence, à neuf… [Lire l’article](http://unsoirouunautre.hautetfort.com/archive/2010/04/08/sphere.html)  
 
 Philippe Vincent – Jazz Magazine (septembre 2010)  
 
@@ -106,7 +106,7 @@ Jean-Daniel Burkardt – Jazzology (mai 2011)
 
 Denis Desassis – Citizen Jazz (Élu – juillet 2011)  
 
-> Il n’est pas si courant que la première écoute d’un disque suscite une telle attraction… Le début d’un chemin que l’on souhaite le plus long possible… Lire l’article  
+> Il n’est pas si courant que la première écoute d’un disque suscite une telle attraction… Le début d’un chemin que l’on souhaite le plus long possible… [Lire l’article](http://www.citizenjazz.com/Sphere.html)  
 
 Romain Grosman – Jazz News (mai 2011)  
 
@@ -114,7 +114,7 @@ Romain Grosman – Jazz News (mai 2011)
 
 Vlad – Fnac Montparnasse (avril 2011)  
 
-> Ils sont tous les trois allumés par les musiques qui fusent autour d’eux et déclenchent des envies de jouer irrépressibles… Lire l’article  
+> Ils sont tous les trois allumés par les musiques qui fusent autour d’eux et déclenchent des envies de jouer irrépressibles… [Lire l’article](http://www.fnac.com/Le-Printemps-de-Jean-Kapsa-Antoine-Reininger-et-Maxime-Fleau-s-appelle-Parhelie/cp6180/w-4)  
 
 Brad Mehldau (juin 2011)  
 
