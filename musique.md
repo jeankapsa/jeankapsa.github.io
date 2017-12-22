@@ -3,7 +3,7 @@ title: "Musique"
 permalink: "/musique/"
 layout: page
 order: 3
-date: 2017-12-22 00:20 +0100
+date: 2017-12-22 01:07 +0100
 ---
 # Solo #  
 [_Improvisations_](https://jeankapsa.bandcamp.com/album/improvisations-vol-1-2) (2012)  
@@ -26,6 +26,10 @@ Eda Öztürk, le 4 juillet 2013.
 <br/>
 
 # Kapsa Reininger Fleau #  
+Jean Kapsa : piano  
+Antoine Reininger : contrebasse  
+Maxime Fleau : batterie  
+
 [_Greenland Road_](https://jeankapsa.bandcamp.com/album/greenland-road) (2009)  
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4112750339/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/greenland-road">Greenland Road by KAPSA REININGER FLEAU</a></iframe>  
@@ -51,6 +55,11 @@ Tels sont les mots qu’inspire aux Inrocks l’éblouissant second album de ce 
 <br/>
 
 # Festen #  
+Damien Fleau : saxophones  
+Jean Kapsa : piano  
+Maxime Fleau : batterie  
+Oliver Degabriele : basse  
+
 [_Festen_](https://jeankapsa.bandcamp.com/album/festen) (2010)
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=2067446856/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://jeankapsa.bandcamp.com/album/festen">Festen by FESTEN</a></iframe>  
