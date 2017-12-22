@@ -3,7 +3,7 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 2
-date: 2017-12-21 01:32 +0100
+date: 2017-12-22 01:03 +0100
 ---
 # **Concerts à venir** # 
 1er février 2018. Festen. Briançon  
