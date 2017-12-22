@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 4
-date: 2017-12-22 01:19 +0100
+date: 2017-12-22 01:24 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -45,7 +45,61 @@ _B-Sides_, Festen (EP Vinyle 33T 4 titres, 2016)
 [Écouter les albums](http://jeankapsa.bandcamp.com)  
 
 # Presse #  
+**Kapsa Reininger Fleau**  
+Louis-Julien Nicolaou – Les Inrocks (juin 2015)  
 
+> Leur musique, gracieuse comme un lointain envol, se déroule à la manière d’une large fresque tendue dans les airs d’un hémisphère à l’autre, entraînant l’auditeur à suivre attentivement ses plus infimes frémissements… Lire l’article  
+
+Pianiste Magazine (avril 2015)  
+> Un trio qui s’autorise des recherches de climat dont on aurait peine à trouver l’équivalent parmi les formations semblables.  
+
+Cédric David – FIP Radio – album de la semaine (avril 2015)  
+> Une musicalité et une sonorité rares qui vous pousse inéxorablement à réécouter ces douzes compositions originales… Lire l’article  
+
+Denis Desassis – Citizen Jazz (Élu – juin 2015)  
+> Kapsa, Reininger et Fleau se lancent un défi comparable : dominer l’évanescence ou la futilité des choses du quotidien pour inventer un langage personnel, si possible compris du plus grand nombre, le plus longtemps possible. Ils y parviennent de très belle manière… Lire l’article  
+
+Jean-Marc Aguirre – Jazz-Rhônes-Alpes (septembre 2015)
+Des compositions haletantes, une économie de notes au service de l’émotion, une cohésion percussive du trio… Lire l’article
+ 
+Pierre Tenne – Djam (mai 2015)
+Un album éclectique mais très clair, [une] écoute attentive et productrice d’espace de ces trois musiciens qui rendent facile l’art exigeant du trio… Lire l’article
+ 
+Arnaud Roffignon – Revue des anciens élèves de l’ENA (mai 2015)
+Ambiances oniriques, facéties rythmiques, ornementations raffinées, équilibre entre mélodie et improvisation, tout y est… Lire l’article
+ 
+Emmanuel Viau - Concert au Musée Lalique le 9 août 2016
+Soufflant eux-mêmes le chaud et le froid, modelant la forme et l'informe, ces verriers du jazz parviennent quelques fois au point de fusion avec un public chauffé à blanc... Lire l'article
+ 
+Martin Guerpin – Jazz Magazine (Révélation, mai 2011)
+Point de rock, de pop ou de jazz ici, mais de la musique avant toute chose.
+ 
+Pierre Bouteiller – TSF Jazz (mai 2011)
+On ne peut pas tricher avec la sonorité. Et là c’est vraiment la sonorité, c’est vraiment du pianisme. C’est même plus que du pianisme, c’est de la musique.
+ 
+Renaud Czarnes – Les Echos (mai 2011)
+Voilà la révélation jazz de ce début d’année… Ces trois jeunes musiciens ont trouvé le point d’équilibre entre le rythme, la mélodie et l’improvisation… Un album sans faiblesse constitué de compositions originales remarquables.
+ 
+Guy Degeorges – Un Soir ou Un Autre (avril 2010)
+La musique est colorée, expressive et tendre, emportant loin dans l’émotion… Du jazz pour le troisième millénaire, qui, une fois la tradition assimilée, s’oublie et recommence, à neuf… Lire l’article
+ 
+Philippe Vincent – Jazz Magazine (septembre 2010)
+Un vrai son d’ensemble… Grande écoute réciproque et musicalité de tous les instants pour servir des mélodies aériennes soutenues par un swing plus léger que le vent.
+ 
+Jean-Daniel Burkardt – Jazzology (mai 2011)
+Cet album renouvelle le genre bien éprouvé déjà du trio piano-basse-batterie à la fois par la modernité de son traitement rythmique et mélodique de l’improvisation collective, inouï depuis EST, et en créant un nouveau répertoire de compositions originales et fortes, deux choses dont le Jazz a besoin pour continuer d’être vivant !
+ 
+Denis Desassis – Citizen Jazz (Élu – juillet 2011)
+Il n’est pas si courant que la première écoute d’un disque suscite une telle attraction… Le début d’un chemin que l’on souhaite le plus long possible… Lire l’article
+ 
+Romain Grosman – Jazz News (mai 2011)
+Parmi les trios qui souvent se regardent, s’écoutent surtout, celui-ci se distingue par son audace.
+ 
+Vlad – Fnac Montparnasse (avril 2011)
+Ils sont tous les trois allumés par les musiques qui fusent autour d’eux et déclenchent des envies de jouer irrépressibles… Lire l’article
+ 
+Brad Mehldau (juin 2011)
+Sounds really cool. Nice compositions, nice trio playing. Congratulations on your music.
 
 
 
