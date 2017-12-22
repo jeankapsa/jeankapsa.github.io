@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 4
-date: 2017-12-22 01:30 +0100
+date: 2017-12-22 01:41 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -27,7 +27,8 @@ Trois morceaux enregistrés en live dans la Matinale Culturelle sur France Musiq
 [Piano au défilé de John Galliano](https://www.youtube.com/watch?v=wYop9dhafho), Couvent des Cordeliers, Paris (2011)  
 [Live à Maastricht](https://www.youtube.com/watch?v=-T30Ofq2Mgk), avec le quartet de Benoit Berthe plus Rosario Giuliani (2013)  
 [Live à Rome](https://www.youtube.com/watch?v=szXy9zk1TJc), Auditorium Parco della Musica, avec Benoit Berthe plus Rosario Giuliani (2012)  
-
+<br/>
+  
 # Albums #  
 
 _Greenland Road_, Kapsa Reininger Fleau (2009)  
@@ -43,7 +44,8 @@ _Episodes_, Benoit Berthe Back Quartet (2015)
 _Mad System_, Festen (2016)  
 _B-Sides_, Festen (EP Vinyle 33T 4 titres, 2016)  
 [Écouter les albums](http://jeankapsa.bandcamp.com)  
-
+<br/>
+  
 # Presse #  
 **Kapsa Reininger Fleau**  
 Louis-Julien Nicolaou – Les Inrocks (juin 2015)  
@@ -117,5 +119,50 @@ Vlad – Fnac Montparnasse (avril 2011)
 Brad Mehldau (juin 2011)  
 
 > Sounds really cool. Nice compositions, nice trio playing. Congratulations on your music.  
-
+  
+<br/>
 **Festen**  
+Chroniques de Denis Desassis (Citizen Jazz) sur les trois albums :  
+[Mad System (avril 2016)](https://www.citizenjazz.com/Festen-3472908.html)    
+[Family Tree (avril 2013)](http://www.citizenjazz.com/Festen-3468456.html)  
+[Festen (décembre 2010)](http://www.citizenjazz.com/Festen.html)  
+
+Katia Touré, Jazz Mag (juin 2016)  
+
+> Un opus d'une subtilité traumatique.  
+
+Florent Servia, Jazz News (mai 2016)  
+
+> La dramaturgie captivante de Festen fait effet dès les premières notes.  
+
+Louis-Julien Nicolaou, Les Inrocks (avril 2016)  
+
+> Par son âpreté post punk, par son jazz dépouillé de tout clinquant et comme réduit à l’os, la musique du quatuor renvoie en partie au cinéma brutalement réaliste de Thomas Vinterberg. [Lire l'article](http://www.lesinrocks.com/2016/04/03/musique/10-albums-decouvrir-nouvelle-garde-jazz-francais-11816077/)    
+
+Denis Dessassis, Citizen Jazz (avril 2016)  
+
+> Festen entre au cœur de sa musique dans une longue inspiration, prend la mesure du combat à mener, avant d’ajuster ses coups avec précision.  
+
+Franck Bergerot, Jazz Magazine  
+
+> Une identité collective acquise par le sens du détail, assumant sans clichés ni chiqué l’énergie du rock et l’esthétique de la boucle, mais sans s’interdire le lâcher prise improvisé… Un palpitant petit roman musical qu’on « lit » d’une traite.  
+
+Denis Desassis, Citizen Jazz (décembre 2010)  
+
+> Festen sait ne pas abuser de la liberté que peut suggérer le jazz pour conserver au son d’ensemble la densité rock qu’il recherche… et trouve à travers des compositions compactes. Ces quatre-là brandissent le concept de groupe en ce qu’il peut avoir d’impersonnel pour les musiciens qui le composent parce qu’ils sont au service d’un projet collectif, mais aussi par la puissance qu’il permet.  
+
+Jean Marc Aguirre, Jazz&Rock @ Communay  
+
+> Ils viennent de sortir un disque qui tourne en boucle depuis quelques jours dans ma voiture et sur mon ordi… Ouais c’est bon.  
+
+Paris on the Move  
+
+> Rien à dire, c’est du jazz moderne qui ne cherche pas à utiliser de grosses ficelles de fortes influences, c’est du spontané et bien torché, passablement habité quand il le faut, mais toujours avec cette retenue très classe qui sied si bien aux mecs qui se dessinent leur propre univers sonore.  
+
+Jean-Marc Gelin, les DNJ  
+
+> Avec des oreilles qui ont dû pas mal trainer du côté d’un rock marqué 90’s, ces jeunes là semblent obsédés par l’idée de poser le groove et la pulse, avec comme sous jacent que la musique de toutes façons, suivra derrière.  
+
+Denis Desassis, Maître Chronique  
+
+> Leur premier album éponyme, récemment publié, témoigne d’une belle maturité et attire l’attention par un vrai soin porté tant à l’écriture de mélodies qui accrochent très vite l’oreille qu’à la mise en oeuvre d’un projet intrinsèquement collectif.  
