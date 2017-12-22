@@ -3,14 +3,14 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 2
-date: 2017-12-22 01:03 +0100
+date: 2017-12-22 18:48 +0100
 ---
 # **Concerts à venir** # 
 1er février 2018. Festen. Briançon  
 15 février au 4 mars 2018. Trio. Sénégal et Guinée  
-17 mars 2018. Festen. Espace Culturel Robert-Doisneau, Meudon  
+17 mars 2018. Festen (1ère partie de Donny Mc Caslin). Espace Culturel Robert-Doisneau, Meudon  
 24 mars 2018. Festen. Jazz à l'Étage, Rennes  
-4 mai 2018. Festen. La Citrouille, Saint-Brieuc  
+4 mai 2018. Festen (1ère partie de Get The Blessing). La Citrouille, Saint-Brieuc  
 7 juillet 2018. ReBop. Festival Saintscène  
 
 # **Concerts passés** #  
