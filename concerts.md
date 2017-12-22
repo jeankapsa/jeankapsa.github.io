@@ -3,10 +3,10 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 2
-date: 2017-12-22 18:48 +0100
+date: 2017-12-22 18:53 +0100
 ---
 # **Concerts à venir** # 
-1er février 2018. Festen. Briançon  
+1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon  
 15 février au 4 mars 2018. Trio. Sénégal et Guinée  
 17 mars 2018. Festen (1ère partie de Donny Mc Caslin). Espace Culturel Robert-Doisneau, Meudon  
 24 mars 2018. Festen. Jazz à l'Étage, Rennes  
