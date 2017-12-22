@@ -1,19 +1,19 @@
-@import url('https://fonts.googleapis.com/css?family=Overpass');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');
 
 body {
-	font-family: 'Overpass', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
 	font-size:14px;
 	font-weight:500;
 }
 
 a.site-title, .site-nav {
-	font-family: 'Overpass', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Overpass', sans-serif;
+	font-family: 'Libre Franklin', sans-serif;
   	font-weight: 700;
 }
 
@@ -40,3 +40,4 @@ blockquote { font-size: 14px; letter-spacing: normal; font-style: normal; }
 .site-title, .site-title:visited { color: #101010; }
 
 .site-header { border-top: 5px solid #fdfdfd; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
+
