@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Francois+One|Overpass');
+@import url('https://fonts.googleapis.com/css?family=Marcellus+SC|Vollkorn');
 
 body {
-	font-family: 'Overpass', sans-serif;
+	font-family: 'Vollkorn', serif;
 	font-size:14px;
 	font-weight:500;
   	color: #333333;
@@ -9,13 +9,13 @@ body {
 }
 
 a.site-title, .site-nav {
-	font-family: 'Francois One', sans-serif;
+	font-family: 'Marcellus SC', serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Francois One', sans-serif;
+	font-family: 'Marcellus SC', serif;
   	font-weight: 700;
 }
 
