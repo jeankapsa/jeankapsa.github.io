@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2017-12-28 18:45 +0100
+date: 2017-12-29 11:59 +0100
 ---
 # Bio #  
 Jean Kapsa est un compositeur et pianiste né en 1985, originaire de la Drôme et résidant à Paris. Il compose et évolue au sein du trio « Kapsa Reininger Fleau » (Révélation Jazz Magazine ; 1er prix du tremplin Jazz d’Ile de France présidé par Antoine Hervé), du quartet « Festen » (1er prix du Golden Jazz Trophy présidé par Martial Solal) et du quartet « Back » (1er prix de l’European Jazz Contest à Rome). Il a enregistré huit albums avec ces groupes et un album piano solo de cent impromptus d’une minute. Il se produit régulièrement en France (Ministère de la Culture, Maison de la Radio, Opéra de Lyon, Cité de la Musique, Jazz in Marciac, Jazz à Vienne, Sunset-Sunside, etc.) et à l’étranger (Brésil, Italie, Suisse, Malte, Pays-Bas, Belgique, Colombie, États-Unis, Serbie).
@@ -21,7 +21,7 @@ jean@kapsa.fr
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#EFEFEF; clear:left; font:12px Helvetica,Arial,sans-serif; width: 400px; }
+	#mc_embed_signup{background:#FFF; clear:left; font:12px Helvetica,Arial,sans-serif; width: 400px; }
 	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
