@@ -33,7 +33,7 @@ img {
   width: 560px; height: auto;
 }
 
-blockquote { font-size: 14px; letter-spacing: normal; }
+blockquote { font-size: 14px; letter-spacing: normal; border-left: 2px solid #E52A8B; }
 
 .site-title { letter-spacing: normal; }
 
