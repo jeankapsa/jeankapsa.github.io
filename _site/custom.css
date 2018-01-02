@@ -42,5 +42,3 @@ blockquote { font-size: 14px; letter-spacing: normal; border-left: 1px solid #E5
 .site-title, .site-title:visited { color: #333333; }
 
 .site-header { border-top: 1px solid #FFF; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
-
-.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; font-size: 14px; }
