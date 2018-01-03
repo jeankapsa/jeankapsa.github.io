@@ -3,7 +3,7 @@ title: "About"
 permalink: "/about/"
 layout: page
 order: 1
-date: 2018-01-03 15:24 +0100
+date: 2018-01-03 15:45 +0100
 ---
 # Bio #  
 Jean Kapsa est un compositeur et pianiste né en 1985, originaire de la Drôme et résidant à Paris. Il compose et évolue au sein du trio « Kapsa Reininger Fleau » (Révélation Jazz Magazine ; 1er prix du tremplin Jazz d’Ile de France présidé par Antoine Hervé), du quartet « Festen » (1er prix du Golden Jazz Trophy présidé par Martial Solal) et du quartet « Back » (1er prix de l’European Jazz Contest à Rome). Il a enregistré huit albums avec ces groupes et un album piano solo de cent impromptus d’une minute. Il se produit régulièrement en France (Ministère de la Culture, Maison de la Radio, Opéra de Lyon, Cité de la Musique, Jazz in Marciac, Jazz à Vienne, Sunset-Sunside, etc.) et à l’étranger (Brésil, Italie, Suisse, Malte, Pays-Bas, Belgique, Colombie, États-Unis, Serbie).
@@ -13,7 +13,8 @@ D’autre part il collabore ponctuellement pour des créations dans des domaines
 <br/>
 
 # Contact #  
-jean@kapsa.fr  
+[jean@kapsa.fr](mailto:jean@kapsa.fr)  
++33 (0)6 89 44 07 82  
 
 <br/>
 
@@ -57,5 +58,36 @@ jean@kapsa.fr
 
 <br/>
 
-# Photo #  
+# Photos #  
+Kapsa Reininger Fleau, tournage du clip de L'alliance par le Collectif Scale et Joachim Olaya. © Edouard Ferlet  
+![Jean Kapsa](http://jeankapsa.com/images/clip-video-kapsa-karman-marbrerie-collectif-scale.jpg)  
+
+La Flèche d'Or, Paris. © Simon Pille  
 ![Jean Kapsa](http://jeankapsa.com/images/jean-kapsa-piano-fleche-dor-paris_2x.jpg)  
+
+Festen, Théâtre Châteaubriand, St-Malo. © Jean-Pierre Fleau  
+![Festen](http://jeankapsa.com/images/festen.jpg)  
+
+Festival Jazz à Dinart, Bretagne. © Jean-Pierre Fleau  
+![Jean Kapsa](http://jeankapsa.com/images/jean-kapsa-2.jpg)  
+
+Festival Jazz à Couches, Bourgogne. © Jacques Revon  
+![Jean Kapsa](http://jeankapsa.com/images/jean-kapsa-3.jpg)  
+
+Kapsa Reininger Fleau, _La Ligne de Kármán_. © Grégoire Alexandre  
+![Kapsa Reininger Fleau](http://jeankapsa.com/images/kapsa-reininger-fleau_2x.jpg)  
+
+Couvent des Cordeliers, Paris  
+![Jean Kapsa](http://jeankapsa.com/images/jean-kapsa-4.jpg)  
+
+Nils Frahm & Jean Kapsa, Festival Villette Sonique, Cité de la Musique, Paris. © Sarah Bastin  
+![Jean Kapsa](http://jeankapsa.com/images/philharmonie-paris-jean-kapsa-nils-frahm-piano.jpg)  
+
+Festival Saoû Chante Mozart, Drôme. © Raphaëlle Remy-Leleu  
+![Jean Kapsa](http://jeankapsa.com/images/piano-solo_2x.jpg)  
+
+Kapsa Reininger Fleau, Sunside Jazz Club, Paris. © Bénédicte Dizier  
+![Kapsa Reininger Fleau](http://jeankapsa.com/images/sunset-sunside-jazz-club-paris-kapsa-reininger-fleau.jpg)  
+
+Festen, Théâtre Chateaubriand, St-Malo. © Philippe Colliot  
+![Festen](http://jeankapsa.com/images/festen-live-st-malo.jpg)  
