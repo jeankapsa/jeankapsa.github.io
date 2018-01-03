@@ -2,8 +2,8 @@
 title: "Concerts"
 permalink: "/concerts/"
 layout: page
-order: 2
-date: 2017-12-30 11:41 +0100
+order: 4
+date: 2018-01-03 15:42 +0100
 ---
 # **Concerts à venir** # 
 1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon  
