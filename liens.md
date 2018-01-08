@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 2
-date: 2018-01-03 15:42 +0100
+date: 2018-01-08 12:46 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -74,11 +74,11 @@ Pierre Tenne – Djam (mai 2015)
 
 Arnaud Roffignon – Revue des anciens élèves de l’ENA (mai 2015)  
 
-> Ambiances oniriques, facéties rythmiques, ornementations raffinées, équilibre entre mélodie et improvisation, tout y est… Lire l’article  
+> Ambiances oniriques, facéties rythmiques, ornementations raffinées, équilibre entre mélodie et improvisation, tout y est… [Lire l’article](http://kapsa.fr/img/KRF-revue-de-lENA.jpg)  
 
 Emmanuel Viau - Concert au Musée Lalique le 9 août 2016  
 
-> Soufflant eux-mêmes le chaud et le froid, modelant la forme et l'informe, ces verriers du jazz parviennent quelques fois au point de fusion avec un public chauffé à blanc... Lire l'article  
+> Soufflant eux-mêmes le chaud et le froid, modelant la forme et l'informe, ces verriers du jazz parviennent quelques fois au point de fusion avec un public chauffé à blanc... [Lire l'article](http://kapsa.fr/img/article-musee-lalique.jpg)  
 
 Martin Guerpin – Jazz Magazine (Révélation, mai 2011)  
 
