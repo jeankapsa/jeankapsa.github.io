@@ -3,8 +3,11 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-01-03 15:42 +0100
+date: 2018-01-09 18:08 +0100
 ---
+![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
+© Raphaëlle Remy-Leleu
+
 # **Concerts à venir** # 
 1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon  
 15 février au 4 mars 2018. Trio. Sénégal et Guinée  
