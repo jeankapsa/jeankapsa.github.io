@@ -9,13 +9,13 @@ body {
 }
 
 a.site-title, .site-nav {
-	font-family: 'Marcellus SC', serif;
+	font-family: Avenir, sans-serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Marcellus SC', serif;
+	font-family: Avenir, sans-serif;
   	font-weight: 700;
 }
 
