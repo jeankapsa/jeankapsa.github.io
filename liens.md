@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 2
-date: 2018-01-08 12:46 +0100
+date: 2018-01-10 01:27 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -43,6 +43,7 @@ _La Ligne de Kármán_, Kapsa Reininger Fleau (Mélisse, 2015)
 _Episodes_, Benoit Berthe Back Quartet (2015)  
 _Mad System_, Festen (2016)  
 _B-Sides_, Festen (EP Vinyle 33T 4 titres, 2016)  
+_Inside Stanley Kubrick_, Festen (à paraitre, 2018)  
 [Écouter les albums](http://jeankapsa.bandcamp.com)  
 <br/>
   
