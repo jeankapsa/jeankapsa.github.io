@@ -38,10 +38,6 @@ blockquote { font-size: 14px; letter-spacing: normal; border-left: 1px solid #E5
 .site-title { letter-spacing: normal; }
 
 .post-title { letter-spacing: normal; }
-
-.posts {
-  border-top: 1px solid #e8e8e8;
-}
   
 .site-title, .site-title:visited { color: #333333; }
 
