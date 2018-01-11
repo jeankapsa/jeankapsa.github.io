@@ -20,8 +20,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 a, a:visited {
-    color: #E52A8B;
+    color: #333333;
     text-decoration: none;
+    border-bottom: 2px solid #E52A8B;
     }
 
 a:hover {
@@ -42,3 +43,4 @@ blockquote { font-size: 14px; letter-spacing: normal; border-left: 1px solid #E5
 .site-title, .site-title:visited { color: #333333; }
 
 .site-header { border-top: 1px solid #FFF; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
+
