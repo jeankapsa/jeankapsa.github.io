@@ -39,7 +39,7 @@ blockquote { font-size: 14px; letter-spacing: normal; border-left: 1px solid #E5
 
 .post-title { letter-spacing: normal; }
 
-.post-header { margin-bottom: 30px; border-top: 1px solid #e8e8e8; }
+.post-meta { font-size: 17.5px; color: #828282; border-top: 1px solid #e8e8e8; }
   
 .site-title, .site-title:visited { color: #333333; }
 
