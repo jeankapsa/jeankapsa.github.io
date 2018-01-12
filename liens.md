@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 2
-date: 2018-01-11 18:20 +0100
+date: 2018-01-13 00:30 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -61,7 +61,7 @@ Cédric David – FIP Radio – album de la semaine (avril 2015)
 
 > Une musicalité et une sonorité rares qui vous pousse inéxorablement à réécouter ces douzes compositions originales… [Lire l’article](http://www.fipradio.fr/decouvrir/album-jazz/la-ligne-de-karman-17789)  
 
-Denis Desassis – Citizen Jazz (Élu – juin 2015)  
+Denis Desassis – Citizen Jazz (juin 2015)  
 
 > Kapsa, Reininger et Fleau se lancent un défi comparable : dominer l’évanescence ou la futilité des choses du quotidien pour inventer un langage personnel, si possible compris du plus grand nombre, le plus longtemps possible. Ils y parviennent de très belle manière… [Lire l’article](http://www.citizenjazz.com/Jean-Kapsa-Antoine-Reininger.html)  
 
@@ -81,7 +81,7 @@ Emmanuel Viau - Concert au Musée Lalique le 9 août 2016
 
 > Soufflant eux-mêmes le chaud et le froid, modelant la forme et l'informe, ces verriers du jazz parviennent quelques fois au point de fusion avec un public chauffé à blanc... [Lire l'article](http://kapsa.fr/img/article-musee-lalique.jpg)  
 
-Martin Guerpin – Jazz Magazine (Révélation, mai 2011)  
+Martin Guerpin – Jazz Magazine (mai 2011)  
 
 > Point de rock, de pop ou de jazz ici, mais de la musique avant toute chose.  
 
@@ -105,7 +105,7 @@ Jean-Daniel Burkardt – Jazzology (mai 2011)
 
 > Cet album renouvelle le genre bien éprouvé déjà du trio piano-basse-batterie à la fois par la modernité de son traitement rythmique et mélodique de l’improvisation collective, inouï depuis EST, et en créant un nouveau répertoire de compositions originales et fortes, deux choses dont le Jazz a besoin pour continuer d’être vivant !  
 
-Denis Desassis – Citizen Jazz (Élu – juillet 2011)  
+Denis Desassis – Citizen Jazz (juillet 2011)  
 
 > Il n’est pas si courant que la première écoute d’un disque suscite une telle attraction… Le début d’un chemin que l’on souhaite le plus long possible… [Lire l’article](http://www.citizenjazz.com/Sphere.html)  
 
