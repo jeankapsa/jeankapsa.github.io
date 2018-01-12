@@ -1,21 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica');
+@import url('https://fonts.googleapis.com/css?family=Overpass');
 
 body {
-	font-family: 'IM Fell DW Pica', serif;
-	font-size:15px;
+	font-family: 'Overpass', sans-serif;
+	font-size:13px;
 	font-weight:500;
   	color: #333333;
     background-color: #FFF;
 }
 
 a.site-title, .site-nav {
-	font-family: 'IM Fell DW Pica', serif;
+	font-family: 'Overpass', sans-serif;
   	font-weight: 700;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'IM Fell DW Pica', serif;
+	font-family: 'Overpass', sans-serif;
   	font-weight: 700;
 }
 
@@ -33,7 +33,7 @@ img {
   width: 560px; height: auto;
 }
 
-blockquote { font-size: 15px; letter-spacing: normal; border-left: 1px solid #E52A8B; }
+blockquote { font-size: 13px; letter-spacing: normal; border-left: 1px solid #E52A8B; }
 
 .site-title { letter-spacing: normal; }
 
@@ -49,3 +49,4 @@ li.h-entry {
   border-bottom: 1px solid #333333;
   padding-bottom: 20px;
 }
+
