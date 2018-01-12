@@ -3,14 +3,14 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-01-09 18:21 +0100
+date: 2018-01-13 00:30 +0100
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
 
 # **Concerts à venir** # 
 1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon  
-15 février au 4 mars 2018. Trio avec Arnaud Desprez et Manu Forster. Dakar (Sénégal) du 15 au 18 février, et Conakry (Guinée) du 18 février au 4 mars.  
+18 février au 4 mars 2018. Trio avec Arnaud Desprez et Manu Forster. Conakry (Guinée).  
 17 mars 2018. Festen (1ère partie de Donny Mc Caslin). Espace Culturel Robert-Doisneau, Meudon  
 24 mars 2018. Festen. Jazz à l'Étage, Rennes  
 4 mai 2018. Festen (1ère partie de Get The Blessing). La Citrouille, Saint-Brieuc  
