@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Overpass');
+@import url('https://fonts.googleapis.com/css?family=IM+Fell+DW+Pica|Overpass');
 
 body {
-	font-family: 'Overpass', sans-serif;
-	font-size: 13px;
+	font-family: 'IM Fell DW Pica', serif;
+	font-size: 15px;
 	font-weight:500;
   	color: #333333;
     background-color: #FFF;
@@ -33,7 +33,7 @@ img {
   width: 560px; height: auto;
 }
 
-blockquote { font-size: 13px; letter-spacing: normal; border-left: 1px solid #E52A8B; }
+blockquote { font-size: 15px; letter-spacing: normal; border-left: 1px solid #E52A8B; }
 
 .site-title { letter-spacing: normal; }
 
