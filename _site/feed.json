@@ -6,14 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://kapsa.micro.blog/2017/07/26/steinway-de-neumann.html",
-	      	
-			"content_html": "<p>Steinway de 1935, Neumann de 1966.</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/a89d897343.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-26T09:44:00+01:00",
-			"url": "https://www.jeankapsa.com/2017/07/26/steinway-de-neumann.html"
-		},
-		
-		{
 			"id": "http://kapsa.micro.blog/2017/07/25/en-route-pour.html",
 	      	
 			"content_html": "<p>En route pour le studio Black Box avec Festen pour l’enregistrement du prochain album.</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/1e4cf031d7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
@@ -83,6 +75,14 @@
 			"content_html": "<p>En répétition cette semaine à Paris avec Festen en vue de l’enregistrement du prochain album fin juillet au studio <a href=\"http://studioblackbox.fr/Studio_Black_Box_Enter/Black_Box_-_english_french.html\">Black Box</a>.</p>\n",
 			"date_published": "2017-07-03T18:40:00+01:00",
 			"url": "https://www.jeankapsa.com/2017/07/03/en-rptition-cette.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/07/01/setlist-dhier-ping.html",
+	      	
+			"content_html": "<p>Setlist d’hier : <em>Ping Pong</em> (Shorter), <em>Jubilation</em> (Mance), <em>Blue Fable</em> (McLean), <em>One Man’s Dream</em> (Zawinul), <em>Clair Obscur</em> (Arnaud Desprez), <em>No Room For Square</em> (Mobley), <em>Brisco’s Bounce</em> (Desprez), <em>Mox Nix</em> (Farmer), <em>Chick’s Tune</em> (Corea), <em>#34 Blues</em> (Desprez).</p>\n",
+			"date_published": "2017-07-01T19:37:00+01:00",
+			"url": "https://www.jeankapsa.com/2017/07/01/setlist-dhier-ping.html"
 		}
 		
 	]
