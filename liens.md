@@ -3,11 +3,11 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 2
-date: 2018-01-13 12:30 +0100
+date: 2018-01-17 10:21 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
-[L'alliance](https://vimeo.com/127064120), clip réalisé par le Collectif Scale (2015)  
+[L'alliance](https://vimeo.com/127064120), clip réalisé par le Collectif Scale (2015). [Télécharger la partition](http://kapsa.fr/img/L'alliance%20-%20Jean%20Kapsa.pdf)  
 [Hypnose](https://vimeo.com/23105476), clip réalisé par Smith & Natlacen (2011)  
 Trois morceaux enregistrés en direct dans la Matinale Culturelle sur France Musique (2015) :  
 [L'alliance](https://vimeo.com/126383401) // [Don't Speak Too Soon](https://vimeo.com/128343194) // [Mimesis](https://vimeo.com/128343311)  
