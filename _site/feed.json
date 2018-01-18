@@ -38,14 +38,6 @@
 		},
 		
 		{
-			"id": "http://kapsa.micro.blog/2017/07/12/chronique-de-jeanmarc.html",
-	      	
-			"content_html": "<p><a href=\"http://www.jazz-rhone-alpes.com/170710/170705-vienne/\">Chronique de Jean-Marc Aguirre</a> à propos du concert de Festen au festival Jazz à Vienne.</p>\n",
-			"date_published": "2017-07-12T08:24:00+01:00",
-			"url": "https://www.jeankapsa.com/2017/07/12/chronique-de-jeanmarc.html"
-		},
-		
-		{
 			"id": "http://kapsa.micro.blog/2017/07/06/110820.html",
 	      	
 			"content_html": "<p>Setlist hier soir au festival Jazz à Vienne : <em>Day One</em> (Zimmer), <em>She Wants To Dance</em> (Festen), <em>My God Is The Sun</em> (QOTSA), <em>Shadow Boxing</em> (Festen), <em>Once Upon A Time In America</em> (Morricone), <em>Spartacus</em> (Festen), <em>Burning Head</em> (Festen), <em>We Are</em> (Festen).</p>\n",
@@ -83,6 +75,14 @@
 			"content_html": "<p>Setlist d’hier : <em>Ping Pong</em> (Shorter), <em>Jubilation</em> (Mance), <em>Blue Fable</em> (McLean), <em>One Man’s Dream</em> (Zawinul), <em>Clair Obscur</em> (Arnaud Desprez), <em>No Room For Square</em> (Mobley), <em>Brisco’s Bounce</em> (Desprez), <em>Mox Nix</em> (Farmer), <em>Chick’s Tune</em> (Corea), <em>#34 Blues</em> (Desprez).</p>\n",
 			"date_published": "2017-07-01T19:37:00+01:00",
 			"url": "https://www.jeankapsa.com/2017/07/01/setlist-dhier-ping.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2017/06/30/concert-cheverny-retransmis.html",
+	      	
+			"content_html": "<p>Concert à Cheverny retransmis en direct sur <a href=\"http://www.studiozef.fr\">Studio Zef</a> ce soir 18h30.</p>\n",
+			"date_published": "2017-06-30T16:52:00+01:00",
+			"url": "https://www.jeankapsa.com/2017/06/30/concert-cheverny-retransmis.html"
 		}
 		
 	]
