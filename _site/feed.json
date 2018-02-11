@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/02/11/setlist-brianon-day.html",
+	      	
+			"content_html": "<p>Setlist à Briançon : <em>Day One</em> (Hans Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Sometimes</em> (Pearl Jam), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>Music for the Funeral of Queen Mary</em> (Purcell), <em>Shadow Boxing</em> (Festen), <em>Deborah’s Theme</em> (Ennio Morricone), <em>We Are</em> (Festen), <em>Overlook Hotel</em> (Festen / Wendy Carlos &amp; Rachel Elkind).</p>\n",
+			"date_published": "2018-02-11T23:12:00+01:00",
+			"url": "https://www.jeankapsa.com/2018/02/11/setlist-brianon-day.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/02/02/col-de-la.html",
 	      	
 			"content_html": "<p>Col de la Cucumelle</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c8cbf8cdcc.jpg\" width=\"600\" height=\"338\" /></p>\n",
@@ -75,14 +83,6 @@
 			"content_html": "<p>Studio Prado à Paris</p>\n\n<p><img src=\"http://kapsa.micro.blog/uploads/2017/97c1b79cec.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-04T14:11:00+01:00",
 			"url": "https://www.jeankapsa.com/2017/07/04/studio-prado-parisimg.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2017/07/03/en-rptition-cette.html",
-	      	
-			"content_html": "<p>En répétition cette semaine à Paris avec Festen en vue de l’enregistrement du prochain album fin juillet au studio <a href=\"http://studioblackbox.fr/Studio_Black_Box_Enter/Black_Box_-_english_french.html\">Black Box</a>.</p>\n",
-			"date_published": "2017-07-03T18:40:00+01:00",
-			"url": "https://www.jeankapsa.com/2017/07/03/en-rptition-cette.html"
 		}
 		
 	]
