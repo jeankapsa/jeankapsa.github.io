@@ -3,24 +3,24 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-02-05 15:29 +0100
+date: 2018-02-13 00:09 +0100
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
 
 # **Concerts à venir** # 
 18 février au 4 mars 2018. Trio avec Arnaud Desprez et Manu Forster. Conakry (Guinée).  
-17 mars 2018. Festen. Espace Culturel Robert-Doisneau, Meudon  
-24 mars 2018. Festen. Jazz à l'Étage, Rennes  
-27 et 28 avril 2018. Festen. La Gare, Paris  
-4 mai 2018. Festen. La Citrouille, Saint-Brieuc  
-7 juillet 2018. Festen. Saveurs Jazz Festival, Segré  
-1er septembre 2018. ReBop. Relais de la Poste aux Chevaux des Ormes  
+17 mars 2018. Festen. Espace Culturel Robert-Doisneau, Meudon.  
+24 mars 2018. Festen. Jazz à l'Étage, Rennes.  
+27 et 28 avril 2018. Festen. La Gare, Paris.  
+4 mai 2018. Festen. La Citrouille, Saint-Brieuc.  
+7 juillet 2018. Festen. Saveurs Jazz Festival, Segré.  
+1er septembre 2018. ReBop. Relais de la Poste aux Chevaux des Ormes, Les Ormes.  
 
 # **Concerts passés** #  
 
 # 2018 #  
-1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon  
+1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon.  
 
 # 2017 #  
 7 au 10 décembre 2017. Cirque Zanzibar. Scènes du Golfe, Salle Lesage, Vannes.  
