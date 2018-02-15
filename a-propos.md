@@ -3,7 +3,7 @@ title: "À propos"
 permalink: "/a-propos/"
 layout: page
 order: 1
-date: 2018-02-11 22:39 +0100
+date: 2018-02-15 15:44 +0100
 ---
 # Bio #  
 Jean Kapsa est un compositeur et pianiste né en 1985, originaire de la Drôme et résidant à Paris. Il compose et évolue au sein du trio « Kapsa Reininger Fleau » (Révélation Jazz Magazine ; 1er prix du tremplin Jazz d’Ile de France présidé par Antoine Hervé), du quartet « Festen » (1er prix du Golden Jazz Trophy présidé par Martial Solal) et du quartet « Back » (1er prix de l’European Jazz Contest à Rome). Il a enregistré huit albums avec ces groupes et un album piano solo de cent impromptus d’une minute. Il se produit régulièrement en France (Ministère de la Culture, Maison de la Radio, Opéra de Lyon, Cité de la Musique, Jazz in Marciac, Jazz à Vienne, Sunset-Sunside, etc.) et à l’étranger (Brésil, Italie, Suisse, Malte, Pays-Bas, Belgique, Colombie, États-Unis, Serbie).
@@ -24,7 +24,7 @@ D’autre part il collabore ponctuellement pour des créations dans des domaines
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:400px;}
 </style>
 <div id="mc_embed_signup">
-<form action="https://jeankapsa.us4.list-manage.com/subscribe/post?u=14285185b12141809c2c42297&amp;id=58243b9415" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://jeankapsa.us4.list-manage.com/subscribe/post?u=14285185b12141809c2c42297&id=58243b9415" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Adresse email" required>
