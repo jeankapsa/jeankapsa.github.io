@@ -3,7 +3,7 @@ title: "Musique"
 permalink: "/musique/"
 layout: page
 order: 3
-date: 2017-12-30 11:41 +0100
+date: 2017-12-30 10:41 -0000
 ---
 # Solo #  
 [_Improvisations_](https://jeankapsa.bandcamp.com/album/improvisations-vol-1-2) (2012)  
