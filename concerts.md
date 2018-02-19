@@ -3,7 +3,7 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-02-16 19:01 +0100
+date: 2018-02-16 18:01 -0000
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
