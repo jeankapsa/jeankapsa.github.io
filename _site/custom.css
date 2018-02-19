@@ -30,7 +30,7 @@ a:hover {
 }
 
 img {
-  width: 560px; height: auto;
+  width: 560px; height: auto; padding-bottom: 3px;
 }
 
 blockquote { color: #999999; font-size: 15px; letter-spacing: normal; border-left: 1px solid #E52A8B; font-style: normal; }
