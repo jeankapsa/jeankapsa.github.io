@@ -39,9 +39,10 @@ blockquote { color: #999999; font-size: 15px; letter-spacing: normal; border-lef
 .post-title { letter-spacing: normal; }
 .site-title, .site-title:visited { color: #333333; }
 .site-header { border-top: 1px solid #FFF; border-bottom: 1px solid #e8e8e8; min-height: 56px; position: relative; }
-.site-footer { border-top: 1px solid #e8e8e8; padding: 30px 0; }
+.site-footer { border-top: 1px solid #e8e8e8; padding: 10px 0; }
 .post-meta { font-size: 17px; color: #999999; }
 li.h-entry {
   border-bottom: 1px solid #e8e8e8;
   padding-bottom: 20px;
 }
+
