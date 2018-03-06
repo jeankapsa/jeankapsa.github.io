@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2017-07-04 13:11 -0000
+date: 2017-07-04 14:11 +0100
 guid: http://kapsa.micro.blog/2017/07/04/studio-prado-parisimg.html
 ---
 Studio Prado à Paris
