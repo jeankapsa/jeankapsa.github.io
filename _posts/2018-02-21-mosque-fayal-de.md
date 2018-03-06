@@ -1,7 +1,7 @@
 ---
 layout: post
 microblog: true
-date: 2018-02-21 15:55 -0000
+date: 2018-02-21 16:55 +0100
 guid: http://kapsa.micro.blog/2018/02/21/mosque-fayal-de.html
 ---
 Mosquée Fayçal de Conakry
