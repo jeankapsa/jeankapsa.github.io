@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 2
-date: 2018-01-20 20:56 +0100
+date: 2018-03-08 22:24 +0100
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -41,7 +41,7 @@ _Family Tree_, Festen (2013)
 _Travel's Appeal_, Benoit Berthe Back Quartet (Saint Louis School, 2013)  
 _La Ligne de Kármán_, Kapsa Reininger Fleau (Mélisse, 2015)  
 _Episodes_, Benoit Berthe Back Quartet (2015)  
-_Mad System_, Festen (2016)  
+_Mad System_, Festen (Prado Records, 2016)  
 _B-Sides_, Festen (EP Vinyle 33T 4 titres, 2016)  
 _Inside Stanley Kubrick_, Festen (à paraître, Laborie Jazz, 2018)  
 [Écouter les albums](http://jeankapsa.bandcamp.com)  
