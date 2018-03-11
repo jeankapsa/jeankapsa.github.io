@@ -3,7 +3,7 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-03-06 18:20 +0100
+date: 2018-03-11 11:54 +0100
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
@@ -11,6 +11,7 @@ date: 2018-03-06 18:20 +0100
 # **Concerts à venir** # 
 17 mars 2018, 20h30. Festen. Espace Culturel Robert-Doisneau, Meudon.  
 24 mars 2018, 18h30. Festen. Jazz à l'Étage, Le Liberté, Rennes.  
+1er au 15 avril. Trio avec François Homps. Conakry, Guinée.  
 27 et 28 avril 2018, 21h. Festen. La Gare, Paris.  
 4 mai 2018, 21h. Festen. La Citrouille, Saint-Brieuc.  
 15 et 16 juin 2018, 21h. Festen. La Gare, Paris.  
@@ -20,7 +21,7 @@ date: 2018-03-06 18:20 +0100
 # **Concerts passés** #  
 
 # 2018 #  
-18 février au 4 mars 2018. Trio avec Arnaud Desprez et Manu Forster. Conakry (Guinée).  
+18 février au 4 mars 2018. Trio avec Arnaud Desprez et Manu Forster. Conakry, Guinée.  
 1er février 2018, 21h. Festen. Altitude Jazz Festival, Briançon.  
 
 # 2017 #  
