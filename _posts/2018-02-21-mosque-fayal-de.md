@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2018-02-21 16:55 +0100
 guid: http://kapsa.micro.blog/2018/02/21/mosque-fayal-de.html
 ---
