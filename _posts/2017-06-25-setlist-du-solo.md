@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-06-25 23:22 +0100
 guid: http://kapsa.micro.blog/2017/06/25/setlist-du-solo.html
 ---
