@@ -1,6 +1,7 @@
 ---
 layout: post
 microblog: true
+audio: 
 date: 2017-06-22 16:47 +0100
 guid: http://kapsa.micro.blog/2017/06/22/musique-pour-piano.html
 ---
