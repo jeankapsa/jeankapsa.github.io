@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2017-07-25 13:34 +0100
+date: 2017-07-25 14:34 +0200
 guid: http://kapsa.micro.blog/2017/07/25/en-route-pour.html
 ---
 En route pour le studio Black Box avec Festen pour l'enregistrement du prochain album.
