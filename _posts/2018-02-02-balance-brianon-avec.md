@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-02-02 01:02 +0100
+date: 2018-02-02 02:02 +0200
 guid: http://kapsa.micro.blog/2018/02/02/balance-brianon-avec.html
 ---
 Balance à Briançon avec Festen.
