@@ -6,10 +6,18 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/02/match-kaloum.html",
+	      	
+			"content_html": "<p>Match à Kaloum.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c78a7ba447.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-04-02T23:43:00+00:00",
+			"url": "https://www.jeankapsa.com/2018/04/02/match-kaloum.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/03/25/hier-soir-au.html",
 	      	
 			"content_html": "<p>Hier soir au festival Jazz à l’Étage à Rennes : <em>Day One</em> (H. Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>We Are</em> (Festen), <em>Shadow Boxing</em> (Festen), <em>Overlook Hotel</em> (Festen). Photos © Jean-Pierre Fleau.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/5a614b04f1.jpg\" width=\"600\" height=\"400\" /><img src=\"http://www.jeankapsa.com/uploads/2018/baf6b69dfc.jpg\" width=\"600\" height=\"400\" /><img src=\"http://www.jeankapsa.com/uploads/2018/6212de6818.jpg\" width=\"600\" height=\"400\" /><img src=\"http://www.jeankapsa.com/uploads/2018/a665f7837c.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-03-25T19:10:00+02:00",
+			"date_published": "2018-03-25T17:10:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/03/25/hier-soir-au.html"
 		},
 		
@@ -17,7 +25,7 @@
 			"id": "http://kapsa.micro.blog/2018/03/18/setlist-meudon-day.html",
 	      	
 			"content_html": "<p>Setlist à Meudon : <em>Day One</em> (H. Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>We Are</em> (Festen), <em>Shadow Boxing</em> (Festen), <em>Deborah’s Theme</em> (Ennio Morricone), <em>Overlook Hotel</em> (Festen).</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/b09d10e320.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/9676c1d134.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/11644d7f67.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/01b401a3f0.jpg\" width=\"450\" height=\"600\" /></p>\n",
-			"date_published": "2018-03-18T19:47:00+02:00",
+			"date_published": "2018-03-18T17:47:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/03/18/setlist-meudon-day.html"
 		},
 		
@@ -25,7 +33,7 @@
 			"id": "http://kapsa.micro.blog/2018/02/27/002318.html",
 	      	
 			"content_html": "<p><img src=\"http://www.jeankapsa.com/uploads/2018/f2a61f6961.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-27T02:23:00+02:00",
+			"date_published": "2018-02-27T00:23:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/27/002318.html"
 		},
 		
@@ -33,7 +41,7 @@
 			"id": "http://kapsa.micro.blog/2018/02/26/lle-de-corail.html",
 	      	
 			"content_html": "<p>L’île de Corail, vue depuis l’île de Room.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/872a1509f4.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-26T19:21:00+02:00",
+			"date_published": "2018-02-26T17:21:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/26/lle-de-corail.html"
 		},
 		
@@ -41,7 +49,7 @@
 			"id": "http://kapsa.micro.blog/2018/02/21/mosque-fayal-de.html",
 	      	
 			"content_html": "<p>Mosquée Fayçal de Conakry</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/745ad874b6.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-21T17:55:00+02:00",
+			"date_published": "2018-02-21T15:55:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/21/mosque-fayal-de.html"
 		},
 		
@@ -49,7 +57,7 @@
 			"id": "http://kapsa.micro.blog/2018/02/20/plage-de-la.html",
 	      	
 			"content_html": "<p>Plage de la Camayenne</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/b04d63c729.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/b5a53dfdef.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-20T20:14:00+02:00",
+			"date_published": "2018-02-20T18:14:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/20/plage-de-la.html"
 		},
 		
@@ -57,7 +65,7 @@
 			"id": "http://kapsa.micro.blog/2018/02/19/jardin-botanique-de.html",
 	      	
 			"content_html": "<p>Jardin botanique de la Camayenne. Conakry, Guinée.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/3779c4f6e9.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/83aac0cbe1.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/94279a1c78.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/1e0abb59bd.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-19T20:42:00+02:00",
+			"date_published": "2018-02-19T18:42:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/19/jardin-botanique-de.html"
 		},
 		
@@ -65,15 +73,15 @@
 			"id": "http://kapsa.micro.blog/2018/02/11/setlist-brianon-day.html",
 	      	
 			"content_html": "<p>Setlist à Briançon : <em>Day One</em> (Hans Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Sometimes</em> (Pearl Jam), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>Music for the Funeral of Queen Mary</em> (Purcell), <em>Shadow Boxing</em> (Festen), <em>Deborah’s Theme</em> (Ennio Morricone), <em>We Are</em> (Festen), <em>Overlook Hotel / Montagnes Rocheuses</em> (Festen / Wendy Carlos &amp; Rachel Elkind).</p>\n",
-			"date_published": "2018-02-12T00:12:00+02:00",
-			"url": "https://www.jeankapsa.com/2018/02/12/setlist-brianon-day.html"
+			"date_published": "2018-02-11T22:12:00+00:00",
+			"url": "https://www.jeankapsa.com/2018/02/11/setlist-brianon-day.html"
 		},
 		
 		{
 			"id": "http://kapsa.micro.blog/2018/02/02/col-de-la.html",
 	      	
 			"content_html": "<p>Col de la Cucumelle</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c8cbf8cdcc.jpg\" width=\"600\" height=\"338\" /></p>\n",
-			"date_published": "2018-02-02T14:59:00+02:00",
+			"date_published": "2018-02-02T12:59:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/02/col-de-la.html"
 		},
 		
@@ -81,7 +89,7 @@
 			"id": "http://kapsa.micro.blog/2018/02/02/balance-brianon-avec.html",
 	      	
 			"content_html": "<p>Balance à Briançon avec Festen.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/d87212ac7b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-02T02:02:00+02:00",
+			"date_published": "2018-02-02T00:02:00+00:00",
 			"url": "https://www.jeankapsa.com/2018/02/02/balance-brianon-avec.html"
 		},
 		
@@ -89,7 +97,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/25/en-route-pour.html",
 	      	
 			"content_html": "<p>En route pour le studio Black Box avec Festen pour l’enregistrement du prochain album.</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/1e4cf031d7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-25T14:34:00+02:00",
+			"date_published": "2017-07-25T12:34:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/25/en-route-pour.html"
 		},
 		
@@ -97,7 +105,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/22/cap-de-la.html",
 	      	
 			"content_html": "<p>Cap de la Chèvre</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/5e5ce9ab2b.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-22T15:02:00+02:00",
+			"date_published": "2017-07-22T13:02:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/22/cap-de-la.html"
 		},
 		
@@ -105,15 +113,15 @@
 			"id": "http://kapsa.micro.blog/2017/07/17/pointe-de-sainthernot.html",
 	      	
 			"content_html": "<p>Pointe de Saint-Hernot</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/e5c12b8cca.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-18T00:05:00+02:00",
-			"url": "https://www.jeankapsa.com/2017/07/18/pointe-de-sainthernot.html"
+			"date_published": "2017-07-17T22:05:00+00:00",
+			"url": "https://www.jeankapsa.com/2017/07/17/pointe-de-sainthernot.html"
 		},
 		
 		{
 			"id": "http://kapsa.micro.blog/2017/07/12/pointe-de-penhir.html",
 	      	
 			"content_html": "<p>Pointe de Penhir</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/88d0415eae.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-12T20:27:00+02:00",
+			"date_published": "2017-07-12T18:27:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/12/pointe-de-penhir.html"
 		},
 		
@@ -121,7 +129,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/06/110820.html",
 	      	
 			"content_html": "<p>Setlist hier soir au festival Jazz à Vienne : <em>Day One</em> (Zimmer), <em>She Wants To Dance</em> (Festen), <em>My God Is The Sun</em> (QOTSA), <em>Shadow Boxing</em> (Festen), <em>Once Upon A Time In America</em> (Morricone), <em>Spartacus</em> (Festen), <em>Burning Head</em> (Festen), <em>We Are</em> (Festen).</p>\n",
-			"date_published": "2017-07-06T13:08:00+02:00",
+			"date_published": "2017-07-06T11:08:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/06/110820.html"
 		},
 		
@@ -129,7 +137,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/06/110402.html",
 	      	
 			"content_html": "<p>Jazz à Vienne</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/b0f8c3a1ed.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-06T13:04:00+02:00",
+			"date_published": "2017-07-06T11:04:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/06/110402.html"
 		},
 		
@@ -137,7 +145,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/04/studio-prado-parisimg.html",
 	      	
 			"content_html": "<p>Studio Prado à Paris</p>\n\n<p><img src=\"http://kapsa.micro.blog/uploads/2017/97c1b79cec.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-04T15:11:00+02:00",
+			"date_published": "2017-07-04T13:11:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/04/studio-prado-parisimg.html"
 		},
 		
@@ -145,7 +153,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/03/en-rptition-cette.html",
 	      	
 			"content_html": "<p>En répétition cette semaine à Paris avec Festen en vue de l’enregistrement du prochain album fin juillet au studio <a href=\"http://studioblackbox.fr/Studio_Black_Box_Enter/Black_Box_-_english_french.html\">Black Box</a>.</p>\n",
-			"date_published": "2017-07-03T19:40:00+02:00",
+			"date_published": "2017-07-03T17:40:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/03/en-rptition-cette.html"
 		},
 		
@@ -153,7 +161,7 @@
 			"id": "http://kapsa.micro.blog/2017/07/01/setlist-dhier-ping.html",
 	      	
 			"content_html": "<p>Setlist d’hier : <em>Ping Pong</em> (Shorter), <em>Jubilation</em> (Mance), <em>Blue Fable</em> (McLean), <em>One Man’s Dream</em> (Zawinul), <em>Clair Obscur</em> (Arnaud Desprez), <em>No Room For Square</em> (Mobley), <em>Brisco’s Bounce</em> (Desprez), <em>Mox Nix</em> (Farmer), <em>Chick’s Tune</em> (Corea), <em>#34 Blues</em> (Desprez).</p>\n",
-			"date_published": "2017-07-01T20:37:00+02:00",
+			"date_published": "2017-07-01T18:37:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/07/01/setlist-dhier-ping.html"
 		},
 		
@@ -161,7 +169,7 @@
 			"id": "http://kapsa.micro.blog/2017/06/30/concert-cheverny-retransmis.html",
 	      	
 			"content_html": "<p>Concert à Cheverny retransmis en direct sur <a href=\"http://www.studiozef.fr\">Studio Zef</a> ce soir 18h30.</p>\n",
-			"date_published": "2017-06-30T17:52:00+02:00",
+			"date_published": "2017-06-30T15:52:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/06/30/concert-cheverny-retransmis.html"
 		},
 		
@@ -169,7 +177,7 @@
 			"id": "http://kapsa.micro.blog/2017/06/29/cet-article-de.html",
 	      	
 			"content_html": "<p><a href=\"http://www.djamlarevue.com/blog/2017/1/27/raphal-chevalier-duflot-alleycat\">Cet article de Pierre Tenne</a> à propos de l’album <em>Alleycat</em> du ReBop Sextet mené par Raphaël Chevalier Duflot avec lequel nous jouons demain soir au festival Jazz à Cheverny.</p>\n",
-			"date_published": "2017-06-29T19:31:00+02:00",
+			"date_published": "2017-06-29T17:31:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/06/29/cet-article-de.html"
 		},
 		
@@ -177,24 +185,24 @@
 			"id": "http://kapsa.micro.blog/2017/06/25/setlist-du-solo.html",
 	      	
 			"content_html": "<p>Setlist du solo de ce soir : <em>Angeles</em> (E. Smith), <em>Moon River</em> (Mancini), <em>Fotografia</em> (Jobim), <em>White Keys</em> (Gonzales), nouvelle composition sans titre (Jean Kapsa), <em>Love Me Tender</em> (Presley), <em>Clair de Lune</em> (Fauré), <em>La Fleur Qui Va Sur L’Eau</em> (Fauré), <em>Le Secret</em> (Fauré).</p>\n",
-			"date_published": "2017-06-26T00:22:00+02:00",
-			"url": "https://www.jeankapsa.com/2017/06/26/setlist-du-solo.html"
+			"date_published": "2017-06-25T22:22:00+00:00",
+			"url": "https://www.jeankapsa.com/2017/06/25/setlist-du-solo.html"
 		},
 		
 		{
 			"id": "http://kapsa.micro.blog/2017/06/22/musique-pour-piano.html",
 	      	
 			"content_html": "<p>Musique pour piano seul, composée par Gabriel Kahane et jouée par Timo Andres. <a href=\"https://gabrielkahane.bandcamp.com/album/works-on-paper-music-for-solo-piano\">Works On Paper</a></p>\n",
-			"date_published": "2017-06-22T17:47:00+02:00",
+			"date_published": "2017-06-22T15:47:00+00:00",
 			"url": "https://www.jeankapsa.com/2017/06/22/musique-pour-piano.html"
 		},
 		
 		{
 			"id": "http://kapsa.micro.blog/2017/06/20/dernire-minute-concert.html",
 	      	
-			"content_html": "<p>Dernière minute : concert piano solo au Théâtre du Bisse à Mirmande (Drôme) ce dimanche 25 juin à 19h30. <a href=\"&#109;&#097;&#105;&#108;&#116;&#111;:&#098;&#101;&#114;&#110;&#097;&#114;&#100;&#046;&#104;&#111;&#117;&#097;&#108;&#055;&#051;&#064;&#111;&#114;&#097;&#110;&#103;&#101;&#046;&#102;&#114;\">Infos / Réservations</a></p>\n",
-			"date_published": "2017-06-21T00:22:00+02:00",
-			"url": "https://www.jeankapsa.com/2017/06/21/dernire-minute-concert.html"
+			"content_html": "<p>Dernière minute : concert piano solo au Théâtre du Bisse à Mirmande (Drôme) ce dimanche 25 juin à 19h30. <a href=\"mailto:bernard.houal73@orange.fr\">Infos / Réservations</a></p>\n",
+			"date_published": "2017-06-20T22:22:00+00:00",
+			"url": "https://www.jeankapsa.com/2017/06/20/dernire-minute-concert.html"
 		}
 		
 	]
