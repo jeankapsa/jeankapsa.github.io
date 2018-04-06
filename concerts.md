@@ -3,14 +3,13 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-03-25 17:11 -0000
+date: 2018-04-06 10:26 -0000
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
 
 # **Concerts à venir** # 
-1er au 15 avril. Trio avec François Homps. Conakry, Guinée.  
-27 et 28 avril 2018, 21h. Festen. La Gare, Paris.  
+1er au 15 avril. Trio avec François Homps. Conakry, Guinée.   
 4 mai 2018, 21h. Festen. La Citrouille, Saint-Brieuc.  
 15 et 16 juin 2018, 21h. Festen. La Gare, Paris.  
 7 juillet 2018, 18h30. Festen. Saveurs Jazz Festival, Scène de la Marmite, Segré.  
