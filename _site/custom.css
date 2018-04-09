@@ -7,15 +7,17 @@ body {
 }
 
 a.site-title, .site-nav {
-	font-family: 'Georgia', serif;
+	font-family: 'Palatino', serif;
   	font-weight: 500;
   	letter-spacing:normal;
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Georgia', serif;
+	font-family: 'Palatino', serif;
   	font-weight: 500;
 }
+
+h1 {font-size: 19px;}
 
 a, a:visited {
     color: #00619A;
@@ -36,10 +38,10 @@ blockquote { color: #999999; font-size: 13px; letter-spacing: normal; border-lef
 .site-title { letter-spacing: normal; }
 .post-title { letter-spacing: normal; }
 .site-title, .site-title:visited { color: #333333; }
-.site-header { border-top: 1px solid #FFF; border-bottom: 1px dotted #FD9827; min-height: 56px; position: relative; }
-.site-footer { border-top: 1px dotted #FD9827; padding: 30px 0; }
-.post-meta { font-size: 13px; color: #999999; }
+.site-header { border-top: 1px solid #FFF; border-bottom: 1px dotted #FF9900; min-height: 56px; position: relative; }
+.site-footer { border-top: 1px dotted #FF9900; padding: 30px 0; }
+.post-meta { font-family: 'Trebuchet MS', Verdana, sans-serif; font-size: 13px; color: #999999; }
 li.h-entry {
-  border-bottom: 1px dotted #FD9827;
+  border-bottom: 1px dotted #FF9900;
   padding-bottom: 20px;
 }
