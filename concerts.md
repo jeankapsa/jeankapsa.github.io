@@ -3,12 +3,12 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-04-09 10:36 -0000
+date: 2018-04-09 12:06 -0000
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
 
-# **Concerts à venir** # 
+# Concerts à venir # 
 1er au 15 avril. Trio avec François Homps et Clément Brajtman. Conakry, Guinée.   
 4 mai 2018, 21h. Festen. La Citrouille, Saint-Brieuc.  
 15 et 16 juin 2018, 21h. Festen. La Gare, Paris.  
@@ -16,7 +16,7 @@ date: 2018-04-09 10:36 -0000
 7 juillet 2018, 18h30. Festen. Saveurs Jazz Festival, Scène de la Marmite, Segré.  
 1er septembre 2018. ReBop. Relais de la Poste aux Chevaux des Ormes, Les Ormes.  
 
-# **Concerts passés** #  
+# Concerts passés #  
 
 # 2018 #  
 24 mars 2018, 18h30. Festen. Jazz à l'Étage, Le Liberté, Rennes.  
