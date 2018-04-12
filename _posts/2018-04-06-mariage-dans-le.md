@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-06 11:40 -0000
+date: 2018-04-06 11:40:55 -0000
 guid: http://kapsa.micro.blog/2018/04/06/mariage-dans-le.html
 ---
 Mariage dans le quartier de Camayenne. Conakry, Guinée.
