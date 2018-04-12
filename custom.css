@@ -30,10 +30,10 @@ a:hover {
 }
 
 img {
-  width: 500px; height: auto; padding-bottom: 5px;
+  width: 560px; height: auto; padding-bottom: 5px;
 }
 
-blockquote { color: #999999; font-size: 13px; letter-spacing: normal; border-left: 1px solid #009A00; font-style: normal; }
+blockquote { color: #333333; font-size: 13px; letter-spacing: normal; border-left: 1px solid #999999; font-style: normal; }
 
 .site-title { letter-spacing: normal; }
 .post-title { letter-spacing: normal; }
