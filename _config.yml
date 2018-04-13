@@ -23,3 +23,5 @@ paginate_path: "/page/:num/"
 timezone: "Zulu"
 site_id: "1477"
 gems: ["jekyll-paginate"]
+itunes_category: "Society & Culture"
+itunes_subcategory: "Personal Journals"
