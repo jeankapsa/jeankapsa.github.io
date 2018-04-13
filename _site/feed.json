@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/13/rptition-de-musiciens.html",
+	      	
+			"content_html": "<p>Répétition de musiciens et danseurs à Conakry.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/4e524db986.mp3\" />\n\n",
+			"date_published": "2018-04-13T01:49:29+00:00",
+			"url": "https://www.jeankapsa.com/2018/04/13/rptition-de-musiciens.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/10/march-de-madina.html",
 	      	
 			"content_html": "<p>Marché de Madina. Conakry, Guinée.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c971016b6b.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -197,14 +205,6 @@
 			"content_html": "<p>Concert à Cheverny retransmis en direct sur <a href=\"http://www.studiozef.fr\">Studio Zef</a> ce soir 18h30.</p>\n",
 			"date_published": "2017-06-30T15:52:42+00:00",
 			"url": "https://www.jeankapsa.com/2017/06/30/concert-cheverny-retransmis.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2017/06/29/cet-article-de.html",
-	      	
-			"content_html": "<p><a href=\"http://www.djamlarevue.com/blog/2017/1/27/raphal-chevalier-duflot-alleycat\">Cet article de Pierre Tenne</a> à propos de l’album <em>Alleycat</em> du ReBop Sextet mené par Raphaël Chevalier Duflot avec lequel nous jouons demain soir au festival Jazz à Cheverny.</p>\n",
-			"date_published": "2017-06-29T17:31:14+00:00",
-			"url": "https://www.jeankapsa.com/2017/06/29/cet-article-de.html"
 		}
 		
 	]
