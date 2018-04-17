@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-18 17:47:23 -0000
+date: 2018-03-18 19:47:23 +0200
 guid: http://kapsa.micro.blog/2018/03/18/setlist-meudon-day.html
 ---
 Setlist à Meudon : _Day One_ (H. Zimmer), _My God Is The Sun_ (QOTSA), _She Wants to Dance_ (Festen), _Spartacus_ (Festen), _Sarabande_ (Haendel), _We Are_ (Festen), _Shadow Boxing_ (Festen), _Deborah's Theme_ (Ennio Morricone), _Overlook Hotel_ (Festen).
