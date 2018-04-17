@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-03-25 17:10:12 -0000
+date: 2018-03-25 19:10:12 +0200
 guid: http://kapsa.micro.blog/2018/03/25/hier-soir-au.html
 ---
 Hier soir au festival Jazz à l’Étage à Rennes : _Day One_ (H. Zimmer), _My God Is The Sun_ (QOTSA), _She Wants to Dance_ (Festen), _Spartacus_ (Festen), _Sarabande_ (Haendel), _We Are_ (Festen), _Shadow Boxing_ (Festen), _Overlook Hotel_ (Festen). Photos © Jean-Pierre Fleau.
