@@ -1,6 +1,7 @@
 ---
 layout: post
-microblog: true
+title: "Scène de Conakry"
+microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/4e524db986.mp3
 date: 2018-04-13 03:49:29 +0200
 guid: http://kapsa.micro.blog/2018/04/13/rptition-de-musiciens.html
