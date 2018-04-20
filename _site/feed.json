@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/19/le-printemps-en.html",
+	      	
+			"content_html": "<p>Le printemps en Toscane.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/7556afb91f.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-04-19T21:58:08+02:00",
+			"url": "https://www.jeankapsa.com/2018/04/19/le-printemps-en.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/19/piano-solo.html",
 	      	
 			"title": "Piano solo #1",
@@ -201,14 +209,6 @@
 			"content_html": "<p>En répétition cette semaine à Paris avec Festen en vue de l’enregistrement du prochain album fin juillet au studio <a href=\"http://studioblackbox.fr/Studio_Black_Box_Enter/Black_Box_-_english_french.html\">Black Box</a>.</p>\n",
 			"date_published": "2017-07-03T19:40:49+02:00",
 			"url": "https://www.jeankapsa.com/2017/07/03/en-rptition-cette.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2017/07/01/setlist-dhier-ping.html",
-	      	
-			"content_html": "<p>Setlist d’hier : <em>Ping Pong</em> (Shorter), <em>Jubilation</em> (Mance), <em>Blue Fable</em> (McLean), <em>One Man’s Dream</em> (Zawinul), <em>Clair Obscur</em> (Arnaud Desprez), <em>No Room For Square</em> (Mobley), <em>Brisco’s Bounce</em> (Desprez), <em>Mox Nix</em> (Farmer), <em>Chick’s Tune</em> (Corea), <em>#34 Blues</em> (Desprez).</p>\n",
-			"date_published": "2017-07-01T20:37:09+02:00",
-			"url": "https://www.jeankapsa.com/2017/07/01/setlist-dhier-ping.html"
 		}
 		
 	]
