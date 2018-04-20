@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/20/130337.html",
+	      	
+			"title": "Piano solo #2",
+			
+			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/1f2a19e580.mp3\" />\n\n",
+			"date_published": "2018-04-20T15:03:37+02:00",
+			"url": "https://www.jeankapsa.com/2018/04/20/130337.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/19/le-printemps-en.html",
 	      	
 			"content_html": "<p>Le printemps en Toscane.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/7556afb91f.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -201,14 +211,6 @@
 			"content_html": "<p>Studio Prado à Paris</p>\n\n<p><img src=\"http://kapsa.micro.blog/uploads/2017/97c1b79cec.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-04T15:11:07+02:00",
 			"url": "https://www.jeankapsa.com/2017/07/04/studio-prado-parisimg.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2017/07/03/en-rptition-cette.html",
-	      	
-			"content_html": "<p>En répétition cette semaine à Paris avec Festen en vue de l’enregistrement du prochain album fin juillet au studio <a href=\"http://studioblackbox.fr/Studio_Black_Box_Enter/Black_Box_-_english_french.html\">Black Box</a>.</p>\n",
-			"date_published": "2017-07-03T19:40:49+02:00",
-			"url": "https://www.jeankapsa.com/2017/07/03/en-rptition-cette.html"
 		}
 		
 	]
