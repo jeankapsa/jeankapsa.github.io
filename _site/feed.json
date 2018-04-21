@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/21/132627.html",
+	      	
+			"title": "Piano solo #3",
+			
+			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/401cf2f0cd.mp3\" />\n\n",
+			"date_published": "2018-04-21T15:26:27+02:00",
+			"url": "https://www.jeankapsa.com/2018/04/21/132627.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/20/130337.html",
 	      	
 			"title": "Piano solo #2",
@@ -203,14 +213,6 @@
 			"content_html": "<p>Jazz à Vienne</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/b0f8c3a1ed.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-06T13:04:02+02:00",
 			"url": "https://www.jeankapsa.com/2017/07/06/110402.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2017/07/04/studio-prado-parisimg.html",
-	      	
-			"content_html": "<p>Studio Prado à Paris</p>\n\n<p><img src=\"http://kapsa.micro.blog/uploads/2017/97c1b79cec.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-04T15:11:07+02:00",
-			"url": "https://www.jeankapsa.com/2017/07/04/studio-prado-parisimg.html"
 		}
 		
 	]
