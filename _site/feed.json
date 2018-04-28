@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/28/133539.html",
+	      	
+			"title": "Piano solo #5",
+			
+			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/0f0040b5ed.mp3\" />\n\n",
+			"date_published": "2018-04-28T15:35:39+02:00",
+			"url": "https://www.jeankapsa.com/2018/04/28/133539.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/27/en-coute-keith.html",
 	      	
 			"content_html": "<p>En écoute : Keith Jarrett - <em>Mysteries</em> (1975).</p>\n",
@@ -207,14 +217,6 @@
 			"content_html": "<p>En route pour le studio Black Box avec Festen pour l’enregistrement du prochain album.</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/1e4cf031d7.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
 			"date_published": "2017-07-25T14:34:02+02:00",
 			"url": "https://www.jeankapsa.com/2017/07/25/en-route-pour.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2017/07/22/cap-de-la.html",
-	      	
-			"content_html": "<p>Cap de la Chèvre</p>\n\n<p><img src=\"http://jeankapsa.com/uploads/2017/5e5ce9ab2b.jpg\" width=\"600\" height=\"600\" style=\"height: auto\" /></p>\n",
-			"date_published": "2017-07-22T15:02:08+02:00",
-			"url": "https://www.jeankapsa.com/2017/07/22/cap-de-la.html"
 		}
 		
 	]
