@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/04/30/155914.html",
+	      	
+			"title": "Piano solo #6",
+			
+			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/ee00cf0cc9.mp3\" />\n\n",
+			"date_published": "2018-04-30T17:59:14+02:00",
+			"url": "https://www.jeankapsa.com/2018/04/30/155914.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/28/je-renouvelle-lexprience.html",
 	      	
 			"content_html": "<p>Je renouvelle l’expérience, déjà faite en 2012, des enregistrements et des publications régulières de morceaux improvisés au piano. Les 100 <em>Improvisations</em> de 2012 sont toujours disponibles sur <a href=\"http://jeankapsa.com/musique/\">cette page</a> et sur les plateformes habituelles. Quant à ces nouveaux morceaux, ils sont publiés au fur et à mesure à deux endroits : soit directement sur ce site, soit sous la forme d’un podcast auquel il est possible de s’abonner depuis un lecteur (<a href=\"https://itunes.apple.com/fr/podcast/jean-kapsa/id1374120309?mt=2\">Apple Podcasts</a>, <a href=\"https://overcast.fm/itunes1374120309/jean-kapsa\">Overcast</a>…). Ce podcast, dont le premier épisode date du 13 avril, servira occasionnellement pour la publication d’autres formes musicales que celle du piano solo.</p>\n",
@@ -209,14 +219,6 @@
 			"content_html": "<p>Col de la Cucumelle</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c8cbf8cdcc.jpg\" width=\"600\" height=\"338\" /></p>\n",
 			"date_published": "2018-02-02T13:59:10+01:00",
 			"url": "https://www.jeankapsa.com/2018/02/02/col-de-la.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/02/02/balance-brianon-avec.html",
-	      	
-			"content_html": "<p>Balance à Briançon avec Festen.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/d87212ac7b.jpg\" width=\"600\" height=\"599\" /></p>\n",
-			"date_published": "2018-02-02T01:02:46+01:00",
-			"url": "https://www.jeankapsa.com/2018/02/02/balance-brianon-avec.html"
 		}
 		
 	]
