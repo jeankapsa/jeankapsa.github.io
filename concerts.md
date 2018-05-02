@@ -3,21 +3,23 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-04-17 11:46:36 +0200
+date: 2018-04-28 17:46:05 +0200
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
 
 # Concerts à venir #  
-4 mai 2018, 21h. Festen. La Citrouille, Saint-Brieuc.  
 15 et 16 juin 2018, 21h. Festen. La Gare, Paris.  
-23 juin 2018. ReBop. Festival Jazz in Najac  
+23 juin 2018. ReBop. Festival Jazz in Najac.  
 7 juillet 2018, 18h30. Festen. Saveurs Jazz Festival, Scène de la Marmite, Segré.  
 1er septembre 2018. ReBop. Relais de la Poste aux Chevaux des Ormes, Les Ormes.  
+28 septembre 2018. Festen. Studio de l´Ermitage, Paris.  
+16 octobre 2018. Festen. Nancy Jazz Pulsations.  
 
 # Concerts passés #  
 
 # 2018 #  
+4 mai 2018, 21h. Festen. La Citrouille, Saint-Brieuc. (Concert annulé).  
 1er au 15 avril 2018. Trio avec François Homps et Clément Brajtman. Conakry, Guinée.  
 24 mars 2018, 18h30. Festen. Jazz à l'Étage, Le Liberté, Rennes.  
 17 mars 2018, 20h30. Festen. Espace Culturel Robert Doisneau, Meudon.  
@@ -30,7 +32,7 @@ date: 2018-04-17 11:46:36 +0200
 23 septembre 2017, 18h. ReBop. Festival Jazz en Touraine, Montlouis-sur-Loire.  
 20 août 2017, 16h. Festen. La Roche Jagu, Ploëzal, Bretagne.  
 15 août 2017, 21h. Piano Solo. La Grande Maison, Mirmande, Drôme.  
-12 août 2017, 22h30. Festen. Nisville Jazz Festival, Nis, Serbie. Concert annulé pour cause de mauvais temps.  
+12 août 2017, 22h30. Festen. Nisville Jazz Festival, Nis, Serbie. (Concert annulé).  
 11 août 2017, 21h. Festen. Cafe Zeppelin, Novi Sad, Serbie.  
 3 et 4 août 2017. ReBop Quintet. Festival Jazz in Marciac.  
 5 juillet 2017, 19h. Festen. Scène Cybèle, Festival Jazz à Vienne.  
