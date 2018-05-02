@@ -8,9 +8,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/04/30/155914.html",
 	      	
-			"title": "Piano solo #6",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/ee00cf0cc9.mp3\" />\n\n",
+			"content_html": "<p>Piano solo 6</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/ee00cf0cc9.mp3\" />\n\n",
 			"date_published": "2018-04-30T17:59:14+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/30/155914.html"
 		},
@@ -26,9 +24,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/04/28/133539.html",
 	      	
-			"title": "Piano solo #5",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/0f0040b5ed.mp3\" />\n\n",
+			"content_html": "<p>Piano solo 5</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/0f0040b5ed.mp3\" />\n\n",
 			"date_published": "2018-04-28T15:35:39+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/28/133539.html"
 		},
@@ -60,9 +56,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/04/23/211804.html",
 	      	
-			"title": "Piano solo #4",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/2d3d3993e7.mp3\" />\n\n",
+			"content_html": "<p>Piano solo 4</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/2d3d3993e7.mp3\" />\n\n",
 			"date_published": "2018-04-23T23:18:04+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/23/211804.html"
 		},
@@ -70,9 +64,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/04/21/132627.html",
 	      	
-			"title": "Piano solo #3",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/401cf2f0cd.mp3\" />\n\n",
+			"content_html": "<p>Piano solo 3</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/401cf2f0cd.mp3\" />\n\n",
 			"date_published": "2018-04-21T15:26:27+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/21/132627.html"
 		},
@@ -80,9 +72,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/04/20/130337.html",
 	      	
-			"title": "Piano solo #2",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/1f2a19e580.mp3\" />\n\n",
+			"content_html": "<p>Piano solo 2</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/1f2a19e580.mp3\" />\n\n",
 			"date_published": "2018-04-20T15:03:37+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/20/130337.html"
 		},
@@ -98,9 +88,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/04/19/piano-solo.html",
 	      	
-			"title": "Piano solo #1",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/7524b58afa.mp3\" />\n\n",
+			"content_html": "<p>Piano solo 1</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/7524b58afa.mp3\" />\n\n",
 			"date_published": "2018-04-19T11:41:48+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/19/piano-solo.html"
 		},
