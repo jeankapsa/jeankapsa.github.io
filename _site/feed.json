@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/03/195110.html",
+	      	
+			"title": "Piano solo 7",
+			
+			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/f1166a5226.mp3\" />\n\n",
+			"date_published": "2018-05-03T21:51:10+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/03/195110.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/04/30/155914.html",
 	      	
 			"title": "Piano solo 6",
@@ -211,14 +221,6 @@
 			"content_html": "<p>Setlist à Briançon : <em>Day One</em> (Hans Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Sometimes</em> (Pearl Jam), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>Music for the Funeral of Queen Mary</em> (Purcell), <em>Shadow Boxing</em> (Festen), <em>Deborah’s Theme</em> (Ennio Morricone), <em>We Are</em> (Festen), <em>Overlook Hotel / Montagnes Rocheuses</em> (Festen / Wendy Carlos &amp; Rachel Elkind).</p>\n",
 			"date_published": "2018-02-11T23:12:12+01:00",
 			"url": "https://www.jeankapsa.com/2018/02/11/setlist-brianon-day.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/02/02/col-de-la.html",
-	      	
-			"content_html": "<p>Col de la Cucumelle</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c8cbf8cdcc.jpg\" width=\"600\" height=\"338\" /></p>\n",
-			"date_published": "2018-02-02T13:59:10+01:00",
-			"url": "https://www.jeankapsa.com/2018/02/02/col-de-la.html"
 		}
 		
 	]
