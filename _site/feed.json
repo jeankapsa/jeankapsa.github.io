@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/06/210201.html",
+	      	
+			"content_html": "<p>Piano solo 8</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/fdd7348cb9.mp3\" />\n\n",
+			"date_published": "2018-05-06T23:02:01+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/06/210201.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/03/195110.html",
 	      	
 			"title": "Piano solo 7",
@@ -213,14 +221,6 @@
 			"content_html": "<p>Jardin botanique de la Camayenne. Conakry, Guinée.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/3779c4f6e9.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/83aac0cbe1.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/94279a1c78.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/1e0abb59bd.jpg\" width=\"600\" height=\"397\" /></p>\n",
 			"date_published": "2018-02-19T19:42:22+01:00",
 			"url": "https://www.jeankapsa.com/2018/02/19/jardin-botanique-de.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/02/11/setlist-brianon-day.html",
-	      	
-			"content_html": "<p>Setlist à Briançon : <em>Day One</em> (Hans Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Sometimes</em> (Pearl Jam), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>Music for the Funeral of Queen Mary</em> (Purcell), <em>Shadow Boxing</em> (Festen), <em>Deborah’s Theme</em> (Ennio Morricone), <em>We Are</em> (Festen), <em>Overlook Hotel / Montagnes Rocheuses</em> (Festen / Wendy Carlos &amp; Rachel Elkind).</p>\n",
-			"date_published": "2018-02-11T23:12:12+01:00",
-			"url": "https://www.jeankapsa.com/2018/02/11/setlist-brianon-day.html"
 		}
 		
 	]
