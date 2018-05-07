@@ -8,7 +8,9 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/05/06/210201.html",
 	      	
-			"content_html": "<p>Piano solo 8</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/fdd7348cb9.mp3\" />\n\n",
+			"title": "Piano solo 8",
+			
+			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/fdd7348cb9.mp3\" />\n\n",
 			"date_published": "2018-05-06T23:02:01+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/06/210201.html"
 		},
