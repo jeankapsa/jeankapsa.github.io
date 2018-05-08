@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/08/203158.html",
+	      	
+			"title": "Piano solo au Sunside : ‘Got Nowhere To Go’",
+			
+			"content_html": "<p>Deuxième extrait du concert donné au Sunside Jazz Club le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/a748617c53.mp3\" />\n\n",
+			"date_published": "2018-05-08T22:31:58+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/08/203158.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/07/piano-solo-au.html",
 	      	
 			"title": "Piano solo au Sunside : Intro",
@@ -217,14 +227,6 @@
 			"content_html": "<p>Mosquée Fayçal de Conakry</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/745ad874b6.jpg\" width=\"600\" height=\"397\" /></p>\n",
 			"date_published": "2018-02-21T16:55:14+01:00",
 			"url": "https://www.jeankapsa.com/2018/02/21/mosque-fayal-de.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/02/20/plage-de-la.html",
-	      	
-			"content_html": "<p>Plage de la Camayenne</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/b04d63c729.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/b5a53dfdef.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-20T19:14:37+01:00",
-			"url": "https://www.jeankapsa.com/2018/02/20/plage-de-la.html"
 		}
 		
 	]
