@@ -6,11 +6,21 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/09/192204.html",
+	      	
+			"title": "Piano solo au Sunside : ‘Options Disappear’",
+			
+			"content_html": "<p>Troisième et dernier extrait de ce concert au Sunside le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e5bfd645e6.mp3\" />\n\n",
+			"date_published": "2018-05-09T21:22:04+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/09/192204.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/08/203158.html",
 	      	
 			"title": "Piano solo au Sunside : ‘Got Nowhere To Go’",
 			
-			"content_html": "<p>Deuxième extrait du concert donné au Sunside Jazz Club le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/a748617c53.mp3\" />\n\n",
+			"content_html": "<p>Deuxième extrait du concert donné au Sunside le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/a748617c53.mp3\" />\n\n",
 			"date_published": "2018-05-08T22:31:58+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/08/203158.html"
 		},
@@ -219,14 +229,6 @@
 			"content_html": "<p>L’île de Corail, vue depuis l’île de Room.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/872a1509f4.jpg\" width=\"600\" height=\"397\" /></p>\n",
 			"date_published": "2018-02-26T18:21:06+01:00",
 			"url": "https://www.jeankapsa.com/2018/02/26/lle-de-corail.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/02/21/mosque-fayal-de.html",
-	      	
-			"content_html": "<p>Mosquée Fayçal de Conakry</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/745ad874b6.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-21T16:55:14+01:00",
-			"url": "https://www.jeankapsa.com/2018/02/21/mosque-fayal-de.html"
 		}
 		
 	]
