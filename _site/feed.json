@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/11/overlook-hotel.html",
+	      	
+			"title": "Overlook Hotel",
+			
+			"content_html": "<p>Le titre <em>Overlook Hotel</em> sera disponible le 18 mai sur toutes les plateformes numériques. C’est le deuxième morceau, après <a href=\"http://jeankapsa.com/2018/04/03/fidelio.html\">Fidelio</a>, à paraitre sur le prochain album de Festen <em>Inside Stanley Kubrick</em> disponible en septembre 2018 chez Laborie Jazz.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c7f164d4ad.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-05-11T15:29:49+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/11/overlook-hotel.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/10/sance-de-travail.html",
 	      	
 			"content_html": "<p>Séance de travail à la Maison de la Radio à Paris.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c7bfe5195c.jpg\" width=\"600\" height=\"600\" /></p>\n",
@@ -221,14 +231,6 @@
 			"content_html": "<p>Setlist à Meudon : <em>Day One</em> (H. Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>We Are</em> (Festen), <em>Shadow Boxing</em> (Festen), <em>Deborah’s Theme</em> (Ennio Morricone), <em>Overlook Hotel</em> (Festen).</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/b09d10e320.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/9676c1d134.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/11644d7f67.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/01b401a3f0.jpg\" width=\"450\" height=\"600\" /></p>\n",
 			"date_published": "2018-03-18T18:47:23+01:00",
 			"url": "https://www.jeankapsa.com/2018/03/18/setlist-meudon-day.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/02/27/002318.html",
-	      	
-			"content_html": "<p><img src=\"http://www.jeankapsa.com/uploads/2018/f2a61f6961.jpg\" width=\"600\" height=\"397\" /></p>\n",
-			"date_published": "2018-02-27T01:23:18+01:00",
-			"url": "https://www.jeankapsa.com/2018/02/27/002318.html"
 		}
 		
 	]
