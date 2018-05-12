@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/12/222205.html",
+	      	
+			"title": "Piano solo 10",
+			
+			"content_html": "<p>Il est trop tard pour jouer.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/5035c3612b.mp3\" />\n\n",
+			"date_published": "2018-05-13T00:22:05+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/13/222205.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/11/213310.html",
 	      	
 			"title": "Piano solo 9",
@@ -225,14 +235,6 @@
 			"content_html": "<p>Match à Kaloum.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c78a7ba447.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-04-03T01:43:48+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/03/match-kaloum.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/03/25/hier-soir-au.html",
-	      	
-			"content_html": "<p>Hier soir au festival Jazz à l’Étage à Rennes : <em>Day One</em> (H. Zimmer), <em>My God Is The Sun</em> (QOTSA), <em>She Wants to Dance</em> (Festen), <em>Spartacus</em> (Festen), <em>Sarabande</em> (Haendel), <em>We Are</em> (Festen), <em>Shadow Boxing</em> (Festen), <em>Overlook Hotel</em> (Festen). Photos © Jean-Pierre Fleau.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/5a614b04f1.jpg\" width=\"600\" height=\"400\" /><img src=\"http://www.jeankapsa.com/uploads/2018/baf6b69dfc.jpg\" width=\"600\" height=\"400\" /><img src=\"http://www.jeankapsa.com/uploads/2018/6212de6818.jpg\" width=\"600\" height=\"400\" /><img src=\"http://www.jeankapsa.com/uploads/2018/a665f7837c.jpg\" width=\"600\" height=\"400\" /></p>\n",
-			"date_published": "2018-03-25T19:10:12+02:00",
-			"url": "https://www.jeankapsa.com/2018/03/25/hier-soir-au.html"
 		}
 		
 	]
