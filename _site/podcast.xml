@@ -4,8 +4,8 @@
     <title>Jean Kapsa</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/kapsa&quot;&gt;@kapsa on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jeankapsa.com/</link>
-    <pubDate>Sat, 12 May 2018 22:14:24 +0200</pubDate>
-    <lastBuildDate>Sat, 12 May 2018 22:14:24 +0200</lastBuildDate>
+    <pubDate>Sun, 13 May 2018 00:22:31 +0200</pubDate>
+    <lastBuildDate>Sun, 13 May 2018 00:22:31 +0200</lastBuildDate>
 	<itunes:image href="https://micro.blog/kapsa/podcast.png" />
 	<itunes:category text="Music">
 		<itunes:category text=""></itunes:category>
@@ -13,6 +13,31 @@
 	<itunes:author>Jean Kapsa</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
 	<language>en</language>
+    
+		
+		  <item>
+			<title>Piano solo 10</title>
+			<description>&lt;p&gt;Il est trop tard pour jouer.&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/5035c3612b.mp3&quot; /&gt;
+
+</description>
+			<itunes:subtitle>&lt;p&gt;Il est trop tard pour jouer.&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/5035c3612b.mp3&quot; /&gt;
+
+</itunes:subtitle>
+			<itunes:summary>&lt;p&gt;Il est trop tard pour jouer.&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/5035c3612b.mp3&quot; /&gt;
+
+</itunes:summary>
+			<pubDate>Sun, 13 May 2018 00:22:05 +0200</pubDate>
+			<link>https://www.jeankapsa.com/2018/05/13/222205.html</link>
+			<guid isPermaLink="true">http://kapsa.micro.blog/2018/05/12/222205.html</guid>
+			<enclosure url="http://www.jeankapsa.com/uploads/2018/5035c3612b.mp3" type="audio/mpeg"></enclosure>
+		  </item>
+		
     
 		
 		  <item>
