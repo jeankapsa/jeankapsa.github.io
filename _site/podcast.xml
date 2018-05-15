@@ -4,8 +4,8 @@
     <title>Jean Kapsa</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/kapsa&quot;&gt;@kapsa on Micro.blog&lt;/a&gt;.</description>
     <link>https://www.jeankapsa.com/</link>
-    <pubDate>Sun, 13 May 2018 13:30:33 +0200</pubDate>
-    <lastBuildDate>Sun, 13 May 2018 13:30:33 +0200</lastBuildDate>
+    <pubDate>Wed, 16 May 2018 00:02:30 +0200</pubDate>
+    <lastBuildDate>Wed, 16 May 2018 00:02:30 +0200</lastBuildDate>
 	<itunes:image href="https://micro.blog/kapsa/podcast.png" />
 	<itunes:category text="Music">
 		<itunes:category text=""></itunes:category>
@@ -13,6 +13,31 @@
 	<itunes:author>Jean Kapsa</itunes:author>
 	<itunes:explicit>no</itunes:explicit>		
 	<language>en</language>
+    
+		
+		  <item>
+			<title>Trio à la Maison de la Radio : 'Memories of Tomorrow'</title>
+			<description>&lt;p&gt;&lt;em&gt;Memories of Tomorrow&lt;/em&gt;, composé par Keith Jarrett, enregistré le 10 mai 2018 lors d’une séance de travail au Studio 107 de la Maison de la Radio à Paris, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie. Le morceau était joué pour la première fois ensemble sur cet enregistrement réalisé avec les moyens du bord.&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3&quot; /&gt;
+
+</description>
+			<itunes:subtitle>&lt;p&gt;&lt;em&gt;Memories of Tomorrow&lt;/em&gt;, composé par Keith Jarrett, enregistré le 10 mai 2018 lors d’une séance de travail au Studio 107 de la Maison de la Radio à Paris, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie. Le morceau était joué pour la première fois ensemble sur cet enregistrement réalisé avec les moyens du bord.&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3&quot; /&gt;
+
+</itunes:subtitle>
+			<itunes:summary>&lt;p&gt;&lt;em&gt;Memories of Tomorrow&lt;/em&gt;, composé par Keith Jarrett, enregistré le 10 mai 2018 lors d’une séance de travail au Studio 107 de la Maison de la Radio à Paris, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie. Le morceau était joué pour la première fois ensemble sur cet enregistrement réalisé avec les moyens du bord.&lt;/p&gt;
+
+&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3&quot; /&gt;
+
+</itunes:summary>
+			<pubDate>Wed, 16 May 2018 00:02:29 +0200</pubDate>
+			<link>https://www.jeankapsa.com/2018/05/16/trio-la-maison.html</link>
+			<guid isPermaLink="true">http://kapsa.micro.blog/2018/05/15/trio-la-maison.html</guid>
+			<enclosure url="http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3" type="audio/mpeg"></enclosure>
+		  </item>
+		
     
 		
 		  <item>
