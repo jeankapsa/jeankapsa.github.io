@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/15/trio-la-maison.html",
+	      	
+			"title": "Trio à la Maison de la Radio : 'Memories of Tomorrow'",
+			
+			"content_html": "<p><em>Memories of Tomorrow</em>, composé par Keith Jarrett, enregistré le 10 mai 2018 lors d’une séance de travail au Studio 107 de la Maison de la Radio à Paris, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie. Le morceau était joué pour la première fois ensemble sur cet enregistrement réalisé avec les moyens du bord.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3\" />\n\n",
+			"date_published": "2018-05-16T00:02:29+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/16/trio-la-maison.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/12/222205.html",
 	      	
 			"title": "Piano solo 10",
@@ -227,14 +237,6 @@
 			"content_html": "<blockquote>\n  <p>Je suis un hôtel particulier au milieu des montagnes, un travelling optique interminable, un écrivain aliéné dans un labyrinthe de glace. Je suis un masque vénitien, un fantasme interdit, un fragment de rêve. Je suis une bande de droogs sadiques et intrépides, un jeune lord tout droit sorti d’un tableau de Hogarth, une recrue obèse armée d’un fusil. Je suis le dernier album de Festen « Inside Stanley Kubrick ». Exploration d’un univers énigmatique et tourmenté. Voyage vers Jupiter, dans les méandres de la folie, dans l’inracontable. Là où l’énergie est brute et progressive. Là où la musique se substitue à l’image et contient sa propre narration.</p>\n</blockquote>\n\n<p>Le titre <em>Fidelio</em> de Festen, inspiré du film <em>Eyes Wide Shut</em> de Stanley Kubrick, est <a href=\"http://smarturl.it/FidelioFesten\">disponible sur toutes les plateformes numériques</a>. À paraitre sur le prochain album de Festen <em>Inside Stanley Kubrick</em> en septembre 2018 chez Laborie Jazz.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/f3c7d22180.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-04-03T13:20:51+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/03/fidelio.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/04/02/match-kaloum.html",
-	      	
-			"content_html": "<p>Match à Kaloum.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c78a7ba447.jpg\" width=\"600\" height=\"450\" /></p>\n",
-			"date_published": "2018-04-03T01:43:48+02:00",
-			"url": "https://www.jeankapsa.com/2018/04/03/match-kaloum.html"
 		}
 		
 	]
