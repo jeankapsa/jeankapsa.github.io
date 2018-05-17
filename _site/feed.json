@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/05/17/le-morceau-prism.html",
+	      	
+			"title": "Trio à la Maison de la Radio : ‘Prism’",
+			
+			"content_html": "<p>Le morceau <em>Prism</em>  (Keith Jarrett) est le deuxième extrait de la séance de travail à la Maison de la Radio à Paris le 10 mai 2018, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e6111334b0.mp3\" />\n\n",
+			"date_published": "2018-05-17T17:17:21+02:00",
+			"url": "https://www.jeankapsa.com/2018/05/17/le-morceau-prism.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/05/15/trio-la-maison.html",
 	      	
 			"title": "Trio à la Maison de la Radio : 'Memories of Tomorrow'",
@@ -227,16 +237,6 @@
 			"content_html": "<p>Mariage dans le quartier de Camayenne. Conakry, Guinée.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/ac0d5c7168.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-04-06T13:40:55+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/06/mariage-dans-le.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/04/03/fidelio.html",
-	      	
-			"title": "Fidelio",
-			
-			"content_html": "<blockquote>\n  <p>Je suis un hôtel particulier au milieu des montagnes, un travelling optique interminable, un écrivain aliéné dans un labyrinthe de glace. Je suis un masque vénitien, un fantasme interdit, un fragment de rêve. Je suis une bande de droogs sadiques et intrépides, un jeune lord tout droit sorti d’un tableau de Hogarth, une recrue obèse armée d’un fusil. Je suis le dernier album de Festen « Inside Stanley Kubrick ». Exploration d’un univers énigmatique et tourmenté. Voyage vers Jupiter, dans les méandres de la folie, dans l’inracontable. Là où l’énergie est brute et progressive. Là où la musique se substitue à l’image et contient sa propre narration.</p>\n</blockquote>\n\n<p>Le titre <em>Fidelio</em> de Festen, inspiré du film <em>Eyes Wide Shut</em> de Stanley Kubrick, est <a href=\"http://smarturl.it/FidelioFesten\">disponible sur toutes les plateformes numériques</a>. À paraitre sur le prochain album de Festen <em>Inside Stanley Kubrick</em> en septembre 2018 chez Laborie Jazz.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/f3c7d22180.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-04-03T13:20:51+02:00",
-			"url": "https://www.jeankapsa.com/2018/04/03/fidelio.html"
 		}
 		
 	]
