@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trio à la Maison de la Radio : ‘Prism’"
+title: "Trio à la Maison de la Radio : ‘Prism'"
 microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/e6111334b0.mp3
 date: 2018-05-17 17:17:21 +0200
