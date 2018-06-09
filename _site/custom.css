@@ -2,7 +2,7 @@ body {
 	font-family: 'Georgia', serif;
 	font-size: 13px;
 	font-weight:500;
-  	color: #333333;
+  	color: #000000;
     background-color: #FFF;
 }
 
@@ -20,10 +20,10 @@ h1,h2,h3,h4,h5,h6 {
 h1 {font-size: 18px; }
 a, a:visited { color: #00619A; text-decoration: none; }
 a:hover { color: #00619A; text-decoration: none; }
-h1 a:link { color:#333333 }
-h1 a:visited { color:#333333 }
-h1 a:hover { color:#333333 }
-h1 a:active { color:#333333 }
+h1 a:link { color:#000000 }
+h1 a:visited { color:#000000 }
+h1 a:hover { color:#000000 }
+h1 a:active { color:#000000 }
 
 img { width: 560px; height: auto; padding-bottom: 5px; }
 audio { padding-bottom: 5px; }
@@ -32,7 +32,7 @@ blockquote { color: #555555; font-size: 13px; letter-spacing: normal; border-lef
 
 .site-title { letter-spacing: normal; }
 .post-title { letter-spacing: normal; }
-.site-title, .site-title:visited, .site-title:hover { color: #333333; }
+.site-title, .site-title:visited, .site-title:hover { color: #000000; }
 .site-header { border-top: 1px solid #FFF; border-bottom: 1px dotted #FF9900; min-height: 56px; position: relative; }
 .site-footer { border-top: 1px dotted #FF9900; padding: 30px 0; }
 .footer-col-wrapper { display: none; }
