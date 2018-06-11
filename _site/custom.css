@@ -22,7 +22,7 @@ a, a:visited { color: #00619A; text-decoration: none; }
 a:hover { color: #00619A; text-decoration: none; }
 h1 a:link { color:#000000 }
 h1 a:visited { color:#000000 }
-h1 a:hover { color:#000000 }
+h1 a:hover { color: #000000 }
 h1 a:active { color:#000000 }
 
 img { width: 560px; height: auto; padding-bottom: 5px; }
@@ -33,8 +33,8 @@ blockquote { color: #555555; font-size: 13px; letter-spacing: normal; border-lef
 .site-title { letter-spacing: normal; }
 .post-title { letter-spacing: normal; }
 .site-title, .site-title:visited, .site-title:hover { color: #000000; }
-.site-header { border-top: 1px solid #FFF; border-bottom: 1px dotted #FF9900; min-height: 56px; position: relative; }
-.site-footer { border-top: 1px dotted #FF9900; padding: 30px 0; }
+.site-header { border-top: 1px solid #FFF; border-bottom: 1px solid #000000; min-height: 56px; position: relative; }
+.site-footer { border-top: 1px solid #000000; padding: 30px 0; }
 .footer-col-wrapper { display: none; }
 .post-meta { font-family: 'Trebuchet MS', Verdana, sans-serif; font-size: 11px; color: #999999; }
-li.h-entry { border-bottom: 1px dotted #FF9900; padding-bottom: 20px; }
+li.h-entry { border-bottom: 1px solid #000000; padding-bottom: 20px; }
