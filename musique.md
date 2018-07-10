@@ -3,7 +3,7 @@ title: "Musique"
 permalink: "/musique/"
 layout: page
 order: 3
-date: 2017-12-30 12:41:38 +0200
+date: 2018-05-13 13:30:24 +0200
 ---
 # Solo #  
 [_Improvisations_](https://jeankapsa.bandcamp.com/album/improvisations-vol-1-2) (2012)  
@@ -23,6 +23,12 @@ Jean Kapsa réussit définitivement à s'y confronter avec ses impromptus d'une 
 Éveillez vos sens, perdez-vous dans un lyrisme intense, profond et renouvelé en les écoutant!  
  
 Eda Öztürk, le 4 juillet 2013.  
+<br/>
+
+_Podcast_  
+[Lire la note du 28 avril 2018](http://jeankapsa.com/2018/04/28/je-renouvelle-lexprience.html)  
+> Je renouvelle l’expérience, déjà menée en 2012, des enregistrements et des publications régulières de morceaux improvisés au piano. Les 100 Improvisations de 2012 sont toujours disponibles sur cette page et sur les plateformes habituelles. Quant à ces nouveaux morceaux, ils sont publiés au fur et à mesure à deux endroits : soit directement sur ce site, soit sous la forme d’un podcast auquel il est possible de s’abonner depuis un lecteur ([Apple Podcasts](https://itunes.apple.com/fr/podcast/jean-kapsa/id1374120309?mt=2), [Overcast](https://overcast.fm/itunes1374120309/jean-kapsa)…). Ce podcast, dont le premier épisode date du 13 avril 2018, servira occasionnellement pour la publication d’autres formes musicales que celle du piano solo.  
+
 <br/>
 
 # Kapsa Reininger Fleau #  
