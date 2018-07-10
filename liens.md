@@ -3,7 +3,7 @@ title: "Liens"
 permalink: "/liens/"
 layout: page
 order: 2
-date: 2018-04-24 21:34:48 +0200
+date: 2018-05-11 15:33:00 +0200
 ---
 # Vidéos #  
 **Kapsa Reininger Fleau**  
@@ -17,7 +17,7 @@ Trois morceaux enregistrés en direct dans la Matinale Culturelle sur France Mus
 [Shadow Boxing](https://www.youtube.com/watch?v=fYARATjbBhU), clip réalisé par Yoann Garel (2014)  
 [Spartacus](https://vimeo.com/208452879), vidéo live réalisée par le Jardin Imparfait (2017)  
 [We Are](https://www.youtube.com/watch?v=LUeAWpnyhBk), vidéo 360 VR réalisée par Benjamin Courtadon (2016)  
-[Fidelio](https://youtu.be/lOylfYFInHw), courte vidéo réalisée par Julie Dubos et Fahd El Jaoudi de Minsk Studio.  
+[Fidelio](https://youtu.be/lOylfYFInHw), courte vidéo réalisée par Julie Dubos et Fahd El Jaoudi de Minsk Studio (2018)  
 <br/>
 **Avec Nils Frahm**  
 [Hammers](https://vimeo.com/119605541), live au festival Villette Sonique, Cité de la Musique, Paris (2014)  
@@ -43,13 +43,14 @@ _Travel's Appeal_, Benoit Berthe Back Quartet (Saint Louis School, 2013)
 _La Ligne de Kármán_, Kapsa Reininger Fleau (Mélisse, 2015)  
 _Episodes_, Benoit Berthe Back Quartet (2015)  
 _Mad System_, Festen (Prado Records, 2016)  
+_Alleycat_, ReBop Quintet (2016)  
 _B-Sides_, Festen (EP Vinyle 33T 4 titres, 2016)  
 _Inside Stanley Kubrick_, Festen (à paraître, Laborie Jazz, 2018)  
 [Écouter les albums](http://jeankapsa.bandcamp.com)  
 <br/>
 
 # Podcast #  
-Tous les épisodes sont diffusés sur ce site, mais vous pouvez aussi utiliser [ce flux RSS](http://jeankapsa.com/podcast.xml) depuis votre client de podcast, ou accéder directement au podcast dans : [Apple Podcasts](https://itunes.apple.com/fr/podcast/jean-kapsa/id1374120309?mt=2), [Overcast](https://overcast.fm/itunes1374120309/jean-kapsa), Castro, Pocket Casts...  
+Tous les épisodes sont diffusés sur ce site, mais vous pouvez aussi utiliser [ce flux RSS](http://jeankapsa.com/podcast.xml) depuis votre lecteur de podcast, ou accéder directement au podcast dans : [Apple Podcasts](https://itunes.apple.com/fr/podcast/jean-kapsa/id1374120309?mt=2), [Overcast](https://overcast.fm/itunes1374120309/jean-kapsa), Castro...  
 <br/>
 
 # Presse #  
