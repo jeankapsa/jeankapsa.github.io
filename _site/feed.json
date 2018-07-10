@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/07/10/saveurs-jazz-festival.html",
+	      	
+			"title": "Saveurs Jazz Festival",
+			
+			"content_html": "<p>Setlist et photos au Saveurs Jazz Festival avec Festen le 7 juillet :</p>\n\n<ol>\n  <li><em>Also Sprach Zarathustra</em> (Strauss)</li>\n  <li><em>Music for the Funeral of Queen Mary</em> (Purcell)</li>\n  <li><em>Fidelio</em> (Festen)</li>\n  <li><em>Fear and Desire</em> (Festen)</li>\n  <li><em>Spartacus</em> (Festen)</li>\n  <li><em>Mickey Mouse March</em> (Jimmie Dodd)</li>\n  <li><em>She Wants to Dance</em> (Festen)</li>\n  <li><em>Once Upon A Time In America</em> (Morriconne)</li>\n  <li><em>Overlook Hotel</em> (Festen)</li>\n</ol>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/6d76569d8a.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/b5612ba851.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/dc31eada9c.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/2649254d83.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/fc295901bc.jpg\" width=\"600\" height=\"397\" /></p>\n",
+			"date_published": "2018-07-10T11:17:16+02:00",
+			"url": "https://www.jeankapsa.com/2018/07/10/saveurs-jazz-festival.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/06/27/deuxime-jour-de.html",
 	      	
 			"content_html": "<p>Deuxième jour de résidence à Limoges avec Festen.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/0a3cb770ae.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/e0849422e3.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/0102806b64.jpg\" width=\"600\" height=\"397\" /><img src=\"http://www.jeankapsa.com/uploads/2018/3461b5bdc5.jpg\" width=\"600\" height=\"397\" /></p>\n",
@@ -231,14 +241,6 @@
 			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/0f0040b5ed.mp3\" />\n\n",
 			"date_published": "2018-04-28T15:35:39+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/28/133539.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/04/27/en-coute-keith.html",
-	      	
-			"content_html": "<p>En écoute : Keith Jarrett - <em>Mysteries</em> (1975).</p>\n",
-			"date_published": "2018-04-27T10:59:13+02:00",
-			"url": "https://www.jeankapsa.com/2018/04/27/en-coute-keith.html"
 		}
 		
 	]
