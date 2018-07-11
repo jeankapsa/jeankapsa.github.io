@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/07/11/also-sprach-zarathustra.html",
+	      	
+			"title": "Also Sprach Zarathustra",
+			
+			"content_html": "<p>Le titre <em>Also Sprach Zarathustra</em> de Festen, composé par Richard Strauss et inspiré du film <em>2001: A Space Odyssey</em> de Stanley Kubrick, sera disponible le 14 juillet sur toutes les plateformes numériques. C’est le quatrième morceau, après <a href=\"http://jeankapsa.com/2018/04/03/fidelio.html\">Fidelio</a>, <a href=\"http://jeankapsa.com/2018/05/11/overlook-hotel.html\">Overlook Hotel</a> et <a href=\"http://jeankapsa.com/2018/06/09/sarabande.html\">Sarabande</a>, à paraitre sur le prochain album de Festen <em>Inside Stanley Kubrick</em> qui sortira en septembre 2018 chez Laborie Jazz.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/d627214692.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-07-11T11:53:17+02:00",
+			"url": "https://www.jeankapsa.com/2018/07/11/also-sprach-zarathustra.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/07/10/saveurs-jazz-festival.html",
 	      	
 			"title": "Saveurs Jazz Festival",
@@ -231,16 +241,6 @@
 			"content_html": "<p>Je renouvelle l’expérience, déjà faite en 2012, des enregistrements et des publications régulières de morceaux improvisés au piano. Les 100 <em>Improvisations</em> de 2012 sont toujours disponibles sur <a href=\"http://jeankapsa.com/musique/\">cette page</a> et sur les plateformes habituelles. Quant à ces nouveaux morceaux, ils sont publiés au fur et à mesure à deux endroits : soit directement sur ce site, soit sous la forme d’un podcast auquel il est possible de s’abonner depuis un lecteur (<a href=\"https://itunes.apple.com/fr/podcast/jean-kapsa/id1374120309?mt=2\">Apple Podcasts</a>, <a href=\"https://overcast.fm/itunes1374120309/jean-kapsa\">Overcast</a>…). Ce podcast, dont le premier épisode date du 13 avril, servira occasionnellement pour la publication d’autres formes musicales que celle du piano solo.</p>\n",
 			"date_published": "2018-04-28T22:04:21+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/28/je-renouvelle-lexprience.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/04/28/133539.html",
-	      	
-			"title": "Piano solo 5",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/0f0040b5ed.mp3\" />\n\n",
-			"date_published": "2018-04-28T15:35:39+02:00",
-			"url": "https://www.jeankapsa.com/2018/04/28/133539.html"
 		}
 		
 	]
