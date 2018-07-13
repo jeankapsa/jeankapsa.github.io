@@ -3,13 +3,12 @@ title: "Concerts"
 permalink: "/concerts/"
 layout: page
 order: 4
-date: 2018-07-02 15:27:18 +0200
+date: 2018-07-11 11:54:52 +0200
 ---
 ![Jean Kapsa au festival Saoû Chante Mozart dans la Drôme. Photo de Raphaëlle Remy-Leleu](http://kapsa.fr/img/piano-solo.jpg)  
 © Raphaëlle Remy-Leleu
 
 # Concerts à venir #  
-7 juillet 2018, 17h. Festen. Saveurs Jazz Festival, Scène de la Marmite, Segré.  
 1er septembre 2018. ReBop. Relais de la Poste aux Chevaux des Ormes, Les Ormes.  
 28 septembre 2018, 21h. Festen. Studio de l´Ermitage, Paris.  
 13 et 14 octobre 2018. Festen. Offbeat Music Bar, La Vallette, Malte.  
@@ -20,6 +19,7 @@ date: 2018-07-02 15:27:18 +0200
 # Concerts passés #  
 
 # 2018 #  
+7 juillet 2018, 17h. Festen. Saveurs Jazz Festival, Scène de la Marmite, Segré.  
 23 juin 2018. ReBop. Festival Jazz in Najac.  
 15 et 16 juin 2018, 21h. Festen. La Gare, Paris.  
 4 mai 2018, 21h. Festen. La Citrouille, Saint-Brieuc. (Concert annulé).  
