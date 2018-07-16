@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/07/15/213416.html",
+	      	
+			"content_html": "<p><img src=\"http://www.jeankapsa.com/uploads/2018/d371c11363.jpg\" width=\"600\" height=\"449\" /></p>\n",
+			"date_published": "2018-07-15T23:34:16+02:00",
+			"url": "https://www.jeankapsa.com/2018/07/15/213416.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/07/11/also-sprach-zarathustra.html",
 	      	
 			"title": "Also Sprach Zarathustra",
@@ -233,14 +241,6 @@
 			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/ee00cf0cc9.mp3\" />\n\n",
 			"date_published": "2018-04-30T17:59:14+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/30/155914.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/04/28/je-renouvelle-lexprience.html",
-	      	
-			"content_html": "<p>Je renouvelle l’expérience, déjà faite en 2012, des enregistrements et des publications régulières de morceaux improvisés au piano. Les 100 <em>Improvisations</em> de 2012 sont toujours disponibles sur <a href=\"http://jeankapsa.com/musique/\">cette page</a> et sur les plateformes habituelles. Quant à ces nouveaux morceaux, ils sont publiés au fur et à mesure à deux endroits : soit directement sur ce site, soit sous la forme d’un podcast auquel il est possible de s’abonner depuis un lecteur (<a href=\"https://itunes.apple.com/fr/podcast/jean-kapsa/id1374120309?mt=2\">Apple Podcasts</a>, <a href=\"https://overcast.fm/itunes1374120309/jean-kapsa\">Overcast</a>…). Ce podcast, dont le premier épisode date du 13 avril, servira occasionnellement pour la publication d’autres formes musicales que celle du piano solo.</p>\n",
-			"date_published": "2018-04-28T22:04:21+02:00",
-			"url": "https://www.jeankapsa.com/2018/04/28/je-renouvelle-lexprience.html"
 		}
 		
 	]
