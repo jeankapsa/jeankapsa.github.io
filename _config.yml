@@ -27,3 +27,4 @@ gems: ["jekyll-paginate"]
 itunes_category: "Music"
 itunes_subcategory: ""
 itunes_author: "Jean Kapsa"
+podcast: false
