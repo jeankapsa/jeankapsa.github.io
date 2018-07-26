@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/07/26/le-grigri-parle.html",
+	      	
+			"content_html": "<p>Le Grigri <a href=\"https://www.le-grigri.com/blog/2018/7/23/kubrick-ressuscit\">parle du prochain album</a> de Festen <em>Inside Stanley Kubrick</em>.</p>\n",
+			"date_published": "2018-07-26T12:55:30+02:00",
+			"url": "https://www.jeankapsa.com/2018/07/26/le-grigri-parle.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/07/22/222232.html",
 	      	
 			"content_html": "<p><img src=\"http://www.jeankapsa.com/uploads/2018/88a9d64e3a.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -229,16 +237,6 @@
 			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/fdd7348cb9.mp3\" />\n\n",
 			"date_published": "2018-05-06T23:02:01+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/06/210201.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/05/03/195110.html",
-	      	
-			"title": "Piano solo 7",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/f1166a5226.mp3\" />\n\n",
-			"date_published": "2018-05-03T21:51:10+02:00",
-			"url": "https://www.jeankapsa.com/2018/05/03/195110.html"
 		}
 		
 	]
