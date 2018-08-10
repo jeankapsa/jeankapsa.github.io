@@ -24,7 +24,9 @@ paginate_path: "/page/:num/"
 timezone: "Poland"
 site_id: "1477"
 gems: ["jekyll-paginate"]
+itunes_description: "Musicien. Paris, France."
 itunes_category: "Music"
 itunes_subcategory: ""
 itunes_author: "Jean Kapsa"
+itunes_email: ""
 podcast: false
