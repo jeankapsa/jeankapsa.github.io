@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/08/22/festen-sur-france.html",
+	      	
+			"title": "Festen sur France Musique",
+			
+			"content_html": "<p>Le prochain album de Festen <em>Inside Stanley Kubrick</em> (Laborie Jazz) sera disponible le 21 septembre ; Nathalie Piolé en parlera déjà dans l’émission <a href=\"https://www.francemusique.fr/emissions/banzzai/la-playlist-jazz-de-nathalie-piole-nancy-wilson-nicolas-moreaux-festen-tigran-hamasyan-and-more-64292\">Banzzaï</a> sur France Musique le mercredi 29 août entre 19h et 20h. \nLe concert pour marquer la sortie de cet album aura lieu dans le cadre du festival du label Laborie, le <a href=\"http://www.studio-ermitage.com/index.php/agenda/date/festival-laborie---festen-18h\">28 septembre à 18h au Studio de l’Ermitage</a> à Paris et sera rediffusé en direct dans l’émission <a href=\"https://www.francemusique.fr/emissions/open-jazz\">Open Jazz</a> présentée par Alex Dutilh, sur France Musique également.</p>\n",
+			"date_published": "2018-08-22T02:43:31+02:00",
+			"url": "https://www.jeankapsa.com/2018/08/22/festen-sur-france.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/08/17/setlist-et-photo.html",
 	      	
 			"content_html": "<p>Setlist et photo du concert piano solo à La Grande Maison à Mirmande le 16 août :</p>\n<ol>\n  <li><em>Independence Day</em> (Elliott Smith)</li>\n  <li><em>Memories of Tomorrow</em> (Keith Jarrett)</li>\n  <li><em>Ain’t Misbehavin</em> (Fats Waller)</li>\n  <li><em>Sans titre</em> (Jean Kapsa)</li>\n  <li><em>Love Me Tender</em> (Elvis Presley / George Poulton)</li>\n  <li><em>La fleur qui va sur l’eau</em> (Gabriel Fauré)</li>\n  <li><em>These Foolish Things</em> (Jack Strachey)</li>\n  <li><em>White Keys</em> (Chilly Gonzales)</li>\n  <li><em>La Javanaise</em> (Serge Gainsbourg)</li>\n</ol>\n\n<p>Photo © Martine Debray</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/09fa521be6.jpg\" width=\"600\" height=\"450\" /></p>\n",
@@ -223,16 +233,6 @@
 			"content_html": "<p>Troisième et dernier extrait de ce concert au Sunside le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e5bfd645e6.mp3\" />\n\n",
 			"date_published": "2018-05-09T21:22:04+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/09/192204.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/05/08/203158.html",
-	      	
-			"title": "Piano solo au Sunside : ‘Got Nowhere To Go’",
-			
-			"content_html": "<p>Deuxième extrait du concert donné au Sunside le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/a748617c53.mp3\" />\n\n",
-			"date_published": "2018-05-08T22:31:58+02:00",
-			"url": "https://www.jeankapsa.com/2018/05/08/203158.html"
 		}
 		
 	]
