@@ -6,6 +6,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/09/02/la-poste-aux.html",
+	      	
+			"title": "La Poste aux Chevaux des Ormes",
+			
+			"content_html": "<p>Setlist du concert avec le ReBop Quintet au Relais de la Poste aux Chevaux des Ormes le 1er septembre.</p>\n\n<p>Premier set :</p>\n<ol>\n  <li><em>Ping Pong</em> (Wayne Shorter)</li>\n  <li><em>Jubilation</em> (Junior Mance)</li>\n  <li><em>Mox Nix</em> (Art Farmer)</li>\n  <li><em>Weirdo</em> (Kenny Drew)</li>\n  <li><em>Vol 331</em> (Pablo Arias)</li>\n</ol>\n\n<p>Deuxième set :</p>\n<ol>\n  <li><em>Brisco’s Bounce</em> (Arnaud Desprez)</li>\n  <li><em>Chick’s Tune</em> (Chick Corea)</li>\n  <li><em>Reboppin’</em> (Arnaud Desprez)</li>\n  <li><em>No Room For Squares</em> (Hank Mobley)</li>\n  <li><em>The Egyptian</em> (Art Blakey)</li>\n  <li><em>Amanda</em> (Pablo Arias)</li>\n</ol>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/0af2a52a7f.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-09-02T19:42:44+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/02/la-poste-aux.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/08/22/festen-sur-france.html",
 	      	
 			"title": "Festen sur France Musique",
@@ -223,16 +233,6 @@
 			"content_html": "<p>Séance de travail à la Maison de la Radio à Paris.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/c7bfe5195c.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-05-10T19:05:30+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/10/sance-de-travail.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/05/09/192204.html",
-	      	
-			"title": "Piano solo au Sunside : ‘Options Disappear’",
-			
-			"content_html": "<p>Troisième et dernier extrait de ce concert au Sunside le 25 janvier 2014.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e5bfd645e6.mp3\" />\n\n",
-			"date_published": "2018-05-09T21:22:04+02:00",
-			"url": "https://www.jeankapsa.com/2018/05/09/192204.html"
 		}
 		
 	]
