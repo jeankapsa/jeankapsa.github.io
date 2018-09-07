@@ -12,7 +12,7 @@ Quelques chroniques du concert : <a href="http://pelecanus.net/live-reports/nil
 <blockquote>C'est entouré de deux pianos, d'un clavier Rhodes et d'un synthétiseur que Nils Frahm s'est emparé de la grande salle de la Cité de la Musique. Pendant près d'une heure et demie, le pianiste jonglera entre ses claviers pour faire résonner la salle au son de ses pièces, entre classique et ambient, avant d'être rejoint sur scène le temps d'un morceau par le français Jean Kapsa. « J'étais à une Soirée de Poche de la <a href="http://www.blogotheque.net/">Blogothèque</a> hier quand j'ai entendu quelqu'un jouer du piano » expliquera Nils Frahm, « je me suis tout de suite demandé : qui joue ça ? Il est bien meilleur que moi ! On a discuté un peu et je lui ai proposé de se joindre à moi ce soir ». Sans répéter, les deux pianistes improviseront à quatre mains en b mineur.</blockquote>
 <iframe src="//player.vimeo.com/video/119605541?title=0&byline=0&portrait=0" width="545" height="307" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<img src="http://www.jeankapsa.com/uploads/2018/572eafd051.jpg" alt="Nils Frahm & Jean Kapsa - Festival Villette Sonique - Philharmonie de Paris"/>
+<img src="http://www.jeankapsa.com/uploads/2018/7dc35f0133.jpg" alt="Nils Frahm & Jean Kapsa - Festival Villette Sonique - Philharmonie de Paris"/>
 
 © <a href="http://www.sarahbastin.net">Sarah Bastin</a>
 
