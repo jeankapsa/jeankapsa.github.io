@@ -6,6 +6,24 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/09/04/music-for-the.html",
+	      	
+			"title": "Music for the Funeral of Queen Mary",
+			
+			"content_text": "Le titre Music for the Funeral of Queen Mary de...",
+			"date_published": "2018-09-04T18:18:57+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/04/music-for-the.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2018/09/03/ils-sont-arrivs.html",
+	      	
+			"content_text": "Ils sont arrivés !\n\n\n",
+			"date_published": "2018-09-03T17:28:52+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/03/ils-sont-arrivs.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/09/02/la-poste-aux.html",
 	      	
 			"title": "La Poste aux Chevaux des Ormes",
@@ -28,7 +46,9 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/08/17/setlist-et-photo.html",
 	      	
-			"content_text": "Setlist et photo du concert piano solo à La Grande...",
+			"title": "La Grande Maison",
+			
+			"content_text": "Setlist du concert piano solo à La Grande Maison à...",
 			"date_published": "2018-08-17T16:19:50+02:00",
 			"url": "https://www.jeankapsa.com/2018/08/17/setlist-et-photo.html"
 		},
