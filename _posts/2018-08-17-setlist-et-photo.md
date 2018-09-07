@@ -1,11 +1,12 @@
 ---
 layout: post
-microblog: true
+title: "La Grande Maison"
+microblog: false
 audio: 
 date: 2018-08-17 16:19:50 +0200
 guid: http://kapsa.micro.blog/2018/08/17/setlist-et-photo.html
 ---
-Setlist et photo du concert piano solo à La Grande Maison à Mirmande le 16 août :
+Setlist du concert piano solo à La Grande Maison à Mirmande le 16 août :
 1. _Independence Day_ (Elliott Smith)
 2. _Memories of Tomorrow_ (Keith Jarrett)
 3. _Ain't Misbehavin_ (Fats Waller)
@@ -15,6 +16,8 @@ Setlist et photo du concert piano solo à La Grande Maison à Mirmande le 16 ao�
 7. _These Foolish Things_ (Jack Strachey)
 8. _White Keys_ (Chilly Gonzales)
 9. _La Javanaise_ (Serge Gainsbourg)
+
+À propos de ce concert, vous pouvez [consulter l'article](http://www.jeankapsa.com/uploads/2018/1c239077c7.jpg) paru dans le Dauphiné Libéré.
 
 Photo © Martine Debray
 
