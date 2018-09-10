@@ -6,6 +6,26 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/09/09/la-javanaise.html",
+	      	
+			"title": "La Javanaise",
+			
+			"content_text": "Extrait vidéo d’une improvisation autour de La Javanaise de Serge...",
+			"date_published": "2018-09-09T14:10:43+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/09/la-javanaise.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2018/09/08/inside-stanley-kubrick.html",
+	      	
+			"title": "Inside Stanley Kubrick",
+			
+			"content_text": "Le nouvel album de Festen Inside Stanley Kubrick sortira le...",
+			"date_published": "2018-09-08T11:02:20+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/08/inside-stanley-kubrick.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/09/04/music-for-the.html",
 	      	
 			"title": "Music for the Funeral of Queen Mary",
@@ -436,7 +456,7 @@
 	      	
 			"title": "Fidelio",
 			
-			"content_text": "Je suis un hôtel particulier au milieu des montagnes, un...",
+			"content_text": "Le titre Fidelio de Festen, inspiré du film Eyes Wide...",
 			"date_published": "2018-04-03T13:20:51+02:00",
 			"url": "https://www.jeankapsa.com/2018/04/03/fidelio.html"
 		},
