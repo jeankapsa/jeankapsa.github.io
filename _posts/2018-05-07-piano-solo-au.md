@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Piano solo au Sunside : Intro"
+title: "#10 - Piano solo au Sunside : Intro"
 microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/50e3653b13.mp3
 date: 2018-05-07 23:42:21 +0200
