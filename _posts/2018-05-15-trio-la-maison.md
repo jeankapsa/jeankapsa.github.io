@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trio à la Maison de la Radio : 'Memories of Tomorrow'"
+title: "#15 - Trio à la Maison de la Radio : 'Memories of Tomorrow'"
 microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3
 date: 2018-05-16 00:02:29 +0200
