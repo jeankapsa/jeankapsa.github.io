@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Piano solo 1"
+title: "#2 - Piano solo"
 microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/7524b58afa.mp3
 date: 2018-04-19 11:41:48 +0200
