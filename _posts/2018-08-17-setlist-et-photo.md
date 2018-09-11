@@ -17,7 +17,7 @@ Setlist du concert piano solo à La Grande Maison à Mirmande le 16 août :
 8. _White Keys_ (Chilly Gonzales)
 9. _La Javanaise_ (Serge Gainsbourg)
 
-À propos de ce concert, vous pouvez [consulter l'article](http://www.jeankapsa.com/uploads/2018/1c239077c7.jpg) paru dans le Dauphiné Libéré.
+À propos de ce concert, vous pouvez [consulter l'article](http://www.jeankapsa.com/uploads/2018/1c239077c7.jpg) paru dans le Dauphiné Libéré, et [consulter un extrait vidéo](http://jeankapsa.com/2018/09/09/la-javanaise.html).
 
 Photo © Martine Debray
 
