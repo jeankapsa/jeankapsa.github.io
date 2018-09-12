@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jean Kapsa",
+	"icon": "https://micro.blog/kapsa/avatar.jpg",
 	"home_page_url": "https://www.jeankapsa.com/",
 	"feed_url": "https://www.jeankapsa.com/feed.json",
 	"items": [
+		
+		{
+			"id": "http://kapsa.micro.blog/2018/09/12/en-coute-gabriel.html",
+	      	
+			"content_html": "<p>En écoute : Gabriel Kahane - <em>Book of Travelers</em>.</p>\n",
+			"date_published": "2018-09-12T09:57:04+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/12/en-coute-gabriel.html"
+		},
 		
 		{
 			"id": "http://kapsa.micro.blog/2018/09/09/la-javanaise.html",
@@ -225,16 +234,6 @@
 			"content_html": "<p>Le morceau <em>Prism</em>  (Keith Jarrett) est le deuxième extrait de la séance de travail à la Maison de la Radio à Paris le 10 mai 2018, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e6111334b0.mp3\" />\n\n",
 			"date_published": "2018-05-17T17:17:21+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/17/le-morceau-prism.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/05/15/trio-la-maison.html",
-	      	
-			"title": "#15 - Trio à la Maison de la Radio : 'Memories of Tomorrow'",
-			
-			"content_html": "<p><em>Memories of Tomorrow</em>, composé par Keith Jarrett, enregistré le 10 mai 2018 lors d’une séance de travail au Studio 107 de la Maison de la Radio à Paris, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie. Le morceau était joué pour la première fois ensemble sur cet enregistrement réalisé avec les moyens du bord.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3\" />\n\n",
-			"date_published": "2018-05-16T00:02:29+02:00",
-			"url": "https://www.jeankapsa.com/2018/05/16/trio-la-maison.html"
 		}
 		
 	]
