@@ -1,9 +1,18 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "Jean Kapsa",
+	"icon": "https://micro.blog/kapsa/avatar.jpg",
 	"home_page_url": "https://www.jeankapsa.com/",
 	"feed_url": "https://www.jeankapsa.com/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://kapsa.micro.blog/2018/09/12/en-coute-gabriel.html",
+	      	
+			"content_text": "En écoute : Gabriel Kahane - Book of Travelers.\n",
+			"date_published": "2018-09-12T09:57:04+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/12/en-coute-gabriel.html"
+		},
 		
 		{
 			"id": "http://kapsa.micro.blog/2018/09/09/la-javanaise.html",
