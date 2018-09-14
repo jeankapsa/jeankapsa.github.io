@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/09/14/colle-di-calci.html",
+	      	
+			"content_html": "<p>Colle di Calci</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/67b559e2b0.jpg\" width=\"600\" height=\"450\" /></p>\n\n<iframe width=\"558\" height=\"420\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=10.08476257324219%2C43.575416536265315%2C10.9478759765625%2C43.941911589779174&amp;layer=mapnik&amp;marker=43.75894467245554%2C10.516319274902344\" style=\"border: 1px solid black\"></iframe>\n",
+			"date_published": "2018-09-14T10:09:30+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/14/colle-di-calci.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/09/12/en-coute-gabriel.html",
 	      	
 			"content_html": "<p>En écoute : Gabriel Kahane - <em>Book of Travelers</em>.</p>\n",
@@ -224,16 +232,6 @@
 			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e8ccf91b2a.mp3\" />\n\n",
 			"date_published": "2018-05-24T16:51:46+02:00",
 			"url": "https://www.jeankapsa.com/2018/05/24/145146.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/05/17/le-morceau-prism.html",
-	      	
-			"title": "#16 - Trio à la Maison de la Radio : ‘Prism'",
-			
-			"content_html": "<p>Le morceau <em>Prism</em>  (Keith Jarrett) est le deuxième extrait de la séance de travail à la Maison de la Radio à Paris le 10 mai 2018, avec Boris Trouchaud à la contrebasse et Clément Brajtman à la batterie.</p>\n\n<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/e6111334b0.mp3\" />\n\n",
-			"date_published": "2018-05-17T17:17:21+02:00",
-			"url": "https://www.jeankapsa.com/2018/05/17/le-morceau-prism.html"
 		}
 		
 	]
