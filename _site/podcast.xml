@@ -4,8 +4,8 @@
     <title>Jean Kapsa</title>
     <description>Musicien. Paris, France.</description>
     <link>https://www.jeankapsa.com/</link>
-    <pubDate>Fri, 14 Sep 2018 13:11:30 +0200</pubDate>
-    <lastBuildDate>Fri, 14 Sep 2018 13:11:30 +0200</lastBuildDate>
+    <pubDate>Fri, 14 Sep 2018 20:42:05 +0200</pubDate>
+    <lastBuildDate>Fri, 14 Sep 2018 20:42:05 +0200</lastBuildDate>
 	<itunes:image href="https://micro.blog/kapsa/podcast.png" />
 	<itunes:category text="Music">
 		<itunes:category text=""></itunes:category>
@@ -14,7 +14,7 @@
 	<itunes:explicit>no</itunes:explicit>		
 	<itunes:owner>
 		<itunes:name>Jean Kapsa</itunes:name>
-		<itunes:email></itunes:email>
+		<itunes:email>jean@kapsa.fr</itunes:email>
 	</itunes:owner>
 	<language>en</language>
     
@@ -32,6 +32,32 @@
     
 		
     
+		
+		  <item>
+			<title>Festen sur France Musique</title>
+			<description>&lt;p&gt;Le concert pour marquer la sortie du prochain album de Festen &lt;em&gt;Inside Stanley Kubrick&lt;/em&gt; (disponible le 21 septembre) aura lieu dans le cadre du festival du label Laborie, le &lt;a href=&quot;http://www.studio-ermitage.com/index.php/agenda/date/festival-laborie---festen-18h&quot;&gt;28 septembre à 18h au Studio de l’Ermitage&lt;/a&gt; à Paris et sera diffusé en direct sur France Musique dans l’émission &lt;a href=&quot;https://www.francemusique.fr/emissions/open-jazz&quot;&gt;Open Jazz&lt;/a&gt; présentée par Alex Dutilh.&lt;/p&gt;
+
+&lt;p&gt;Écouter France Musique en direct :&lt;/p&gt;
+&lt;audio controls=&quot;controls&quot; src=&quot;http://direct.francemusique.fr/live/francemusique-midfi.mp3&quot; /&gt;
+
+</description>
+			<itunes:subtitle>&lt;p&gt;Le concert pour marquer la sortie du prochain album de Festen &lt;em&gt;Inside Stanley Kubrick&lt;/em&gt; (disponible le 21 septembre) aura lieu dans le cadre du festival du label Laborie, le &lt;a href=&quot;http://www.studio-ermitage.com/index.php/agenda/date/festival-laborie---festen-18h&quot;&gt;28 septembre à 18h au Studio de l’Ermitage&lt;/a&gt; à Paris et sera diffusé en direct sur France Musique dans l’émission &lt;a href=&quot;https://www.francemusique.fr/emissions/open-jazz&quot;&gt;Open Jazz&lt;/a&gt; présentée par Alex Dutilh.&lt;/p&gt;
+
+&lt;p&gt;Écouter France Musique en direct :&lt;/p&gt;
+&lt;audio controls=&quot;controls&quot; src=&quot;http://direct.francemusique.fr/live/francemusique-midfi.mp3&quot; /&gt;
+
+</itunes:subtitle>
+			<itunes:summary>&lt;p&gt;Le concert pour marquer la sortie du prochain album de Festen &lt;em&gt;Inside Stanley Kubrick&lt;/em&gt; (disponible le 21 septembre) aura lieu dans le cadre du festival du label Laborie, le &lt;a href=&quot;http://www.studio-ermitage.com/index.php/agenda/date/festival-laborie---festen-18h&quot;&gt;28 septembre à 18h au Studio de l’Ermitage&lt;/a&gt; à Paris et sera diffusé en direct sur France Musique dans l’émission &lt;a href=&quot;https://www.francemusique.fr/emissions/open-jazz&quot;&gt;Open Jazz&lt;/a&gt; présentée par Alex Dutilh.&lt;/p&gt;
+
+&lt;p&gt;Écouter France Musique en direct :&lt;/p&gt;
+&lt;audio controls=&quot;controls&quot; src=&quot;http://direct.francemusique.fr/live/francemusique-midfi.mp3&quot; /&gt;
+
+</itunes:summary>
+			<pubDate>Wed, 22 Aug 2018 02:43:31 +0200</pubDate>
+			<link>https://www.jeankapsa.com/2018/08/22/festen-sur-france.html</link>
+			<guid isPermaLink="true">http://kapsa.micro.blog/2018/08/22/festen-sur-france.html</guid>
+			<enclosure url="http://direct.francemusique.fr/live/francemusique-midfi.mp3" type="audio/mpeg"></enclosure>
+		  </item>
 		
     
 		
