@@ -9,7 +9,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/09/14/colle-di-calci.html",
 	      	
-			"content_html": "<p>Colle di Calci</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/67b559e2b0.jpg\" width=\"600\" height=\"450\" /></p>\n\n<iframe width=\"558\" height=\"420\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://www.openstreetmap.org/export/embed.html?bbox=10.08476257324219%2C43.575416536265315%2C10.9478759765625%2C43.941911589779174&amp;layer=mapnik&amp;marker=43.75894467245554%2C10.516319274902344\" style=\"border: 1px solid black\"></iframe>\n",
+			"content_html": "<p>Colle di Calci</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/67b559e2b0.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-09-14T10:09:30+02:00",
 			"url": "https://www.jeankapsa.com/2018/09/14/colle-di-calci.html"
 		},
@@ -27,7 +27,7 @@
 	      	
 			"title": "La Javanaise",
 			
-			"content_html": "<p>Extrait vidéo d’une improvisation autour de <em>La Javanaise</em> de Serge Gainsbourg, enregistré lors du <a href=\"http://jeankapsa.com/2018/08/17/setlist-et-photo.html\">concert piano solo à La Grande Maison</a> à Mirmande (Drôme) le 16 août dernier.</p>\n\n<iframe src=\"//www.youtube.com/embed/Mi5xvNjAT7A?rel=0&amp;showinfo=0\" width=\"545\" height=\"307\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n",
+			"content_html": "<p>Extrait vidéo d’une improvisation autour de <em>La Javanaise</em> de Serge Gainsbourg, enregistré lors du <a href=\"http://jeankapsa.com/2018/08/17/setlist-et-photo.html\">concert piano solo à La Grande Maison</a> à Mirmande (Drôme) le 16 août dernier.</p>\n\n<iframe src=\"//www.youtube.com/embed/Mi5xvNjAT7A?rel=0&amp;showinfo=0\" width=\"100%\" height=\"430\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\n",
 			"date_published": "2018-09-09T14:10:43+02:00",
 			"url": "https://www.jeankapsa.com/2018/09/09/la-javanaise.html"
 		},
@@ -75,7 +75,7 @@
 	      	
 			"title": "Festen sur France Musique",
 			
-			"content_html": "<p>Le prochain album de Festen <em>Inside Stanley Kubrick</em> (Laborie Jazz) sera disponible le 21 septembre ; Nathalie Piolé en parlera déjà dans l’émission <a href=\"https://www.francemusique.fr/emissions/banzzai/la-playlist-jazz-de-nathalie-piole-nancy-wilson-nicolas-moreaux-festen-tigran-hamasyan-and-more-64292\">Banzzaï</a> sur France Musique le mercredi 29 août entre 19h et 20h.<br />\nLe concert pour marquer la sortie de cet album aura lieu dans le cadre du festival du label Laborie, le <a href=\"http://www.studio-ermitage.com/index.php/agenda/date/festival-laborie---festen-18h\">28 septembre à 18h au Studio de l’Ermitage</a> à Paris et sera diffusé en direct dans l’émission <a href=\"https://www.francemusique.fr/emissions/open-jazz\">Open Jazz</a> présentée par Alex Dutilh, sur France Musique également.</p>\n",
+			"content_html": "<p>Le concert pour marquer la sortie du prochain album de Festen <em>Inside Stanley Kubrick</em> (disponible le 21 septembre) aura lieu dans le cadre du festival du label Laborie, le <a href=\"http://www.studio-ermitage.com/index.php/agenda/date/festival-laborie---festen-18h\">28 septembre à 18h au Studio de l’Ermitage</a> à Paris et sera diffusé en direct sur France Musique dans l’émission <a href=\"https://www.francemusique.fr/emissions/open-jazz\">Open Jazz</a> présentée par Alex Dutilh.</p>\n\n<p>Écouter France Musique en direct :</p>\n<audio controls=\"controls\" src=\"http://direct.francemusique.fr/live/francemusique-midfi.mp3\" />\n\n",
 			"date_published": "2018-08-22T02:43:31+02:00",
 			"url": "https://www.jeankapsa.com/2018/08/22/festen-sur-france.html"
 		},
