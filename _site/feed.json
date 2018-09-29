@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/09/28/en-concert-en.html",
+	      	
+			"content_html": "<p>La diffusion live sur France Musique du concert d’hier soir au Studio de l’Ermitage avec Festen est <a href=\"https://itunes.apple.com/fr/podcast/lactualit%C3%A9-du-jazz-festen-live-au-studio-de-lermitage/id504513627?i=1000420665421&amp;mt=2\">disponible en podcast</a>.</p>\n",
+			"date_published": "2018-09-28T13:59:20+02:00",
+			"url": "https://www.jeankapsa.com/2018/09/28/en-concert-en.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/09/26/214252.html",
 	      	
 			"title": "#21 - Piano solo",
@@ -222,16 +230,6 @@
 			"content_html": "<p>Le titre <em>Sarabande</em> de Festen, inspiré du film <em>Barry Lyndon</em> de Stanley Kubrick et de la Sarabande de Haendel, est disponible sur toutes les <a href=\"http://smarturl.it/Sarabande_Festen\">plateformes numériques</a>. C’est le troisième morceau, après <a href=\"http://jeankapsa.com/2018/04/03/fidelio.html\">Fidelio</a> et <a href=\"http://jeankapsa.com/2018/05/11/overlook-hotel.html\">Overlook Hotel</a>, à paraitre sur le prochain album de Festen <em>Inside Stanley Kubrick</em> qui sortira en septembre 2018 chez Laborie Jazz.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/abba4c6c35.jpg\" width=\"600\" height=\"600\" /></p>\n",
 			"date_published": "2018-06-09T00:04:21+02:00",
 			"url": "https://www.jeankapsa.com/2018/06/09/sarabande.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/06/04/112935.html",
-	      	
-			"title": "#18 - Piano solo",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/5a2d953534.mp3\" />\n\n",
-			"date_published": "2018-06-04T13:29:35+02:00",
-			"url": "https://www.jeankapsa.com/2018/06/04/112935.html"
 		}
 		
 	]
