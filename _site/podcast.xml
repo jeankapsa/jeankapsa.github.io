@@ -4,8 +4,8 @@
     <title>Jean Kapsa</title>
     <description>Musicien. Paris, France.</description>
     <link>https://www.jeankapsa.com/</link>
-    <pubDate>Thu, 04 Oct 2018 23:44:14 +0200</pubDate>
-    <lastBuildDate>Thu, 04 Oct 2018 23:44:14 +0200</lastBuildDate>
+    <pubDate>Tue, 16 Oct 2018 11:37:40 +0200</pubDate>
+    <lastBuildDate>Tue, 16 Oct 2018 11:37:40 +0200</lastBuildDate>
 	<itunes:image href="https://micro.blog/kapsa/podcast.png" />
 	<itunes:category text="Music">
 		<itunes:category text=""></itunes:category>
@@ -20,20 +20,14 @@
     
 		
 		  <item>
-			<title>214355</title>
-			<description>&lt;p&gt;#22 - Piano solo&lt;/p&gt;
-
-&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/a234bd2a5d.mp3&quot; /&gt;
+			<title>#22 - Piano solo</title>
+			<description>&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/a234bd2a5d.mp3&quot; /&gt;
 
 </description>
-			<itunes:subtitle>&lt;p&gt;#22 - Piano solo&lt;/p&gt;
-
-&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/a234bd2a5d.mp3&quot; /&gt;
+			<itunes:subtitle>&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/a234bd2a5d.mp3&quot; /&gt;
 
 </itunes:subtitle>
-			<itunes:summary>&lt;p&gt;#22 - Piano solo&lt;/p&gt;
-
-&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/a234bd2a5d.mp3&quot; /&gt;
+			<itunes:summary>&lt;audio controls=&quot;controls&quot; src=&quot;http://www.jeankapsa.com/uploads/2018/a234bd2a5d.mp3&quot; /&gt;
 
 </itunes:summary>
 			<pubDate>Thu, 04 Oct 2018 23:43:55 +0200</pubDate>
