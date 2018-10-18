@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/10/18/la-valette-malte.html",
+	      	
+			"content_html": "<p>La Valette, Malte.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/be04f14ed1.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/c35de3eb98.jpg\" width=\"450\" height=\"600\" /></p>\n",
+			"date_published": "2018-10-18T14:56:16+02:00",
+			"url": "https://www.jeankapsa.com/2018/10/18/la-valette-malte.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/10/04/214355.html",
 	      	
 			"title": "#22 - Piano solo",
@@ -220,16 +228,6 @@
 			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/36102e476f.mp3\" />\n\n",
 			"date_published": "2018-06-12T00:28:06+02:00",
 			"url": "https://www.jeankapsa.com/2018/06/12/222806.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/06/10/la-gare.html",
-	      	
-			"title": "La Gare",
-			
-			"content_html": "<p>Nous jouerons deux concerts à Paris avec Festen la semaine prochaine, de retour dans le même lieu qui nous avait accueilli en octobre. Ce sera donc à <em>La Gare</em>, ancienne station du Pont de Flandre située sur la petite ceinture au 1 avenue Corentin Cariou, les 15 et 16 juin à 21h. L’entrée est libre et le concert se déroulera en deux sets. Nous jouerons les répertoires du précédent album <em>Mad System</em> et du prochain album <em>Inside Stanley Kubrick</em>, ainsi que de nouveaux morceaux.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/81d6ff2180.jpg\" width=\"600\" height=\"422\" /></p>\n",
-			"date_published": "2018-06-10T22:53:52+02:00",
-			"url": "https://www.jeankapsa.com/2018/06/10/la-gare.html"
 		}
 		
 	]
