@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/10/18/nancy-jazz-pulsations.html",
+	      	
+			"title": "Nancy Jazz Pulsations",
+			
+			"content_html": "<p>Setlist et photo du concert au Théâtre de la Manufacture dans le cadre du festival Nancy Jazz Pulsations avec Festen le 16 octobre.</p>\n\n<ol>\n  <li><em>Fidelio</em> (Festen)</li>\n  <li><em>Music For The Funeral of Queen Mary</em> (Purcell)</li>\n  <li><em>Lolita Part 1</em> (Festen)</li>\n  <li><em>Spartacus</em> (Festen)</li>\n  <li><em>Fear And Desire</em> (Festen)</li>\n  <li><em>Also Sprach Zarathustra</em> (Strauss)</li>\n  <li><em>Sarabande</em> (Haendel)</li>\n  <li><em>O.P.E.</em> (Festen)</li>\n  <li><em>Lolita Part 2</em> (Festen)</li>\n  <li><em>Mickey Mouse March</em> (Jimmie Dodd)</li>\n  <li><em>Overlook Hotel</em> (Festen)\nBis : <em>Deborah’s Theme</em> (Ennio Morricone)</li>\n</ol>\n\n<p>Photo © <a href=\"https://www.instagram.com/mathild_barre/\">Mathilde Barré</a>.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/6407cfc189.jpg\" width=\"600\" height=\"399\" /></p>\n",
+			"date_published": "2018-10-18T15:15:15+02:00",
+			"url": "https://www.jeankapsa.com/2018/10/18/nancy-jazz-pulsations.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2018/10/18/soundcheck-nancy.html",
+	      	
+			"content_html": "<p>Soundcheck à Nancy.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/bfb1cc097b.jpg\" width=\"600\" height=\"450\" /></p>\n",
+			"date_published": "2018-10-18T15:11:43+02:00",
+			"url": "https://www.jeankapsa.com/2018/10/18/soundcheck-nancy.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/10/18/la-valette-malte.html",
 	      	
 			"content_html": "<p>La Valette, Malte.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/be04f14ed1.jpg\" width=\"450\" height=\"600\" /><img src=\"http://www.jeankapsa.com/uploads/2018/c35de3eb98.jpg\" width=\"450\" height=\"600\" /></p>\n",
@@ -210,24 +228,6 @@
 			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/9c96035901.mp3\" />\n\n",
 			"date_published": "2018-06-25T19:00:08+02:00",
 			"url": "https://www.jeankapsa.com/2018/06/25/170008.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/06/17/setlist-la-gare.html",
-	      	
-			"content_html": "<p>Setlist à La Gare à Paris les 15 et 16 juin avec Festen</p>\n\n<p>Premier set :</p>\n<ol>\n  <li><em>Day One</em> (Hans Zimmer)</li>\n  <li><em>Music for The Funeral of Queen Mary</em> (Henry Purcell)</li>\n  <li><em>Spartacus</em> (Festen)</li>\n  <li><em>Fear and Desire</em> (Festen)</li>\n  <li><em>Shadow Boxing</em> (Festen)</li>\n  <li><em>Mickey Mouse March</em> (Jimmie Dodd)</li>\n  <li><em>Hanging Tree</em> (Queens of the Stone Age)</li>\n</ol>\n\n<p>Deuxième set :</p>\n<ol>\n  <li><em>Fidelio</em> (Festen)</li>\n  <li><em>Sarabande</em> (Haendel)</li>\n  <li><em>Lolita</em> (Festen)</li>\n  <li><em>Dream is Collapsing</em> (Hans Zimmer)</li>\n  <li><em>She Wants to Dance</em> (Festen)</li>\n  <li><em>Deborah’s Theme</em> (Ennio Morricone)</li>\n  <li><em>We Are</em> (Festen)</li>\n  <li><em>Overlook Hotel</em> (Festen)</li>\n  <li><em>In Motion</em> (Trent Reznor)</li>\n</ol>\n\n<p>Bis :</p>\n<ol>\n  <li><em>My God Is The Sun</em> (Queens of the Stone Age)</li>\n  <li><em>Coming From the Floor</em> (Festen)</li>\n  <li><em>Music for the Funeral of Queen Mary</em> (Jimmie Dodd)</li>\n  <li><em>Spartacus</em> (Festen)</li>\n</ol>\n",
-			"date_published": "2018-06-17T17:29:50+02:00",
-			"url": "https://www.jeankapsa.com/2018/06/17/setlist-la-gare.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/06/11/222806.html",
-	      	
-			"title": "#19 - Piano solo",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/36102e476f.mp3\" />\n\n",
-			"date_published": "2018-06-12T00:28:06+02:00",
-			"url": "https://www.jeankapsa.com/2018/06/12/222806.html"
 		}
 		
 	]
