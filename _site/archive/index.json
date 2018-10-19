@@ -7,6 +7,24 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/10/18/nancy-jazz-pulsations.html",
+	      	
+			"title": "Nancy Jazz Pulsations",
+			
+			"content_text": "Setlist et photo du concert au Théâtre de la Manufacture...",
+			"date_published": "2018-10-18T15:15:15+02:00",
+			"url": "https://www.jeankapsa.com/2018/10/18/nancy-jazz-pulsations.html"
+		},
+		
+		{
+			"id": "http://kapsa.micro.blog/2018/10/18/soundcheck-nancy.html",
+	      	
+			"content_text": "Soundcheck à Nancy.\n\n\n",
+			"date_published": "2018-10-18T15:11:43+02:00",
+			"url": "https://www.jeankapsa.com/2018/10/18/soundcheck-nancy.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/10/18/la-valette-malte.html",
 	      	
 			"content_text": "La Valette, Malte.\n\n\n",
