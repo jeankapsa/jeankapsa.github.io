@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-18 15:11:43 +0200
+date: 2018-10-18 14:11:43 +0100
 guid: http://kapsa.micro.blog/2018/10/18/soundcheck-nancy.html
 ---
 Soundcheck à Nancy.
