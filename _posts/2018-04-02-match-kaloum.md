@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-03 01:43:48 +0200
+date: 2018-04-03 00:43:48 +0100
 guid: http://kapsa.micro.blog/2018/04/02/match-kaloum.html
 ---
 Match à Kaloum.
