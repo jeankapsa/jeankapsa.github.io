@@ -3,7 +3,7 @@ layout: post
 title: "Nancy Jazz Pulsations"
 microblog: false
 audio: 
-date: 2018-10-18 15:15:15 +0200
+date: 2018-10-18 14:15:15 +0100
 guid: http://kapsa.micro.blog/2018/10/18/nancy-jazz-pulsations.html
 ---
 Setlist et photo du concert au Théâtre de la Manufacture dans le cadre du festival Nancy Jazz Pulsations avec Festen le 16 octobre.
