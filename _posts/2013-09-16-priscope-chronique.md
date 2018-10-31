@@ -3,7 +3,7 @@ layout: post
 title: "Périscope : chronique"
 microblog: false
 audio: 
-date: 2013-09-16 12:04:29 +0200
+date: 2013-09-16 11:04:29 +0100
 guid: http://kapsa.micro.blog/2013/09/16/priscope-chronique.html
 ---
 Chronique de Jean-Marc Aguirre pour <a href="http://www.jazz-rhone-alpes.com/130916/">Jazz Rhône-Alpes</a> à propos du concert Piano Solo au Périscope à Lyon le 12 septembre.
