@@ -3,7 +3,7 @@ layout: post
 title: "Vic-Fezensac"
 microblog: false
 audio: 
-date: 2013-05-07 14:44:40 +0200
+date: 2013-05-07 13:44:40 +0100
 guid: http://kapsa.micro.blog/2013/05/07/vicfezensac.html
 ---
 Beau concert en duo avec Damien Fleau samedi dernier à l'église St-Pierre de Vic-Fezensac, organisé par l'association <em>Humanisme en Fezensac</em>. L'acoustique du lieu est particulièrement bonne, peut-être grâce au travail des charpentiers sur la voûte de 1820.
