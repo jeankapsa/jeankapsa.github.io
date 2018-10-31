@@ -3,7 +3,7 @@ layout: post
 title: "Un soir avec Nils Frahm"
 microblog: false
 audio: 
-date: 2014-06-02 16:37:51 +0200
+date: 2014-06-02 15:37:51 +0100
 guid: http://kapsa.micro.blog/2014/06/02/un-soir-avec.html
 ---
 <iframe src="//www.youtube.com/embed/gu-oQIU45FQ?rel=0" width="545" height="307" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
