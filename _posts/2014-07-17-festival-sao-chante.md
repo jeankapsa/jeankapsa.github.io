@@ -3,7 +3,7 @@ layout: post
 title: "Festival Saoû Chante Mozart"
 microblog: false
 audio: 
-date: 2014-07-17 17:55:46 +0200
+date: 2014-07-17 16:55:46 +0100
 guid: http://kapsa.micro.blog/2014/07/17/festival-sao-chante.html
 ---
 Programme créé pour le festival <em>Saoû Chante Mozart</em> dans la Drôme; concert le 12 juillet 2014. Variations, improvisations et recompositions autour de Mozart :
