@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-10 20:23:00 +0200
+date: 2018-04-10 19:23:00 +0100
 guid: http://kapsa.micro.blog/2018/04/10/march-de-madina.html
 ---
 Marché de Madina. Conakry, Guinée.
