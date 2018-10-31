@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-26 05:55:54 +0200
+date: 2018-04-26 04:55:54 +0100
 guid: http://kapsa.micro.blog/2018/04/26/aroport-charles-de.html
 ---
 Aéroport Charles de Gaulle, Paris. 
