@@ -3,7 +3,7 @@ layout: post
 title: "Jazz à Vienne - Piano Solo"
 microblog: false
 audio: 
-date: 2013-11-09 19:53:09 +0200
+date: 2013-11-09 18:53:09 +0100
 guid: http://kapsa.micro.blog/2013/11/09/jazz-vienne-piano.html
 ---
 Chronique de Jean-Marc Aguirre pour <a href="http://www.jazz-rhone-alpes.com">Jazz-Rhône-Alpes</a> :
