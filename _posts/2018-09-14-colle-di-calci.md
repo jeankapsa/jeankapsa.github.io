@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-09-14 10:09:30 +0200
+date: 2018-09-14 09:09:30 +0100
 guid: http://kapsa.micro.blog/2018/09/14/colle-di-calci.html
 ---
 Colle di Calci
