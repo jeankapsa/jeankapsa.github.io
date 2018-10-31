@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-17 17:29:50 +0200
+date: 2018-06-17 16:29:50 +0100
 guid: http://kapsa.micro.blog/2018/06/17/setlist-la-gare.html
 ---
 Setlist à La Gare à Paris les 15 et 16 juin avec Festen
