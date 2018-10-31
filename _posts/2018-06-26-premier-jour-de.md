@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-26 19:54:49 +0200
+date: 2018-06-26 18:54:49 +0100
 guid: http://kapsa.micro.blog/2018/06/26/premier-jour-de.html
 ---
 Premier jour de résidence à Limoges avec Festen.
