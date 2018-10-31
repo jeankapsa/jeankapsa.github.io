@@ -3,7 +3,7 @@ layout: post
 title: "Péristyle de l'Opéra de Lyon"
 microblog: false
 audio: 
-date: 2012-07-23 17:51:44 +0200
+date: 2012-07-23 16:51:44 +0100
 guid: http://kapsa.micro.blog/2012/07/23/pristyle-de-lopra.html
 ---
 La semaine dernière nous avons joué deux soirs au Péristyle de l'Opéra de Lyon avec le trio Kapsa Reininger Fleau. Le cadre et la formule - 3 sets de 45min par soir - nous ont permis de jouer et rejouer le nouveau répertoire en explorant de plusieurs façons les détails des compositions.
