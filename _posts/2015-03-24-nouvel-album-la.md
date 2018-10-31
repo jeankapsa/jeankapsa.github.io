@@ -3,7 +3,7 @@ layout: post
 title: "Nouvel album : La Ligne de Kármán"
 microblog: false
 audio: 
-date: 2015-03-24 09:59:19 +0200
+date: 2015-03-24 08:59:19 +0100
 guid: http://kapsa.micro.blog/2015/03/24/nouvel-album-la.html
 ---
 Le nouvel album du trio <a title="Kapsa – Reininger – Fleau" href="http://jeankapsa.com/kapsareiningerfleau/">Kapsa Reininger Fleau</a> paraitra le 21 avril 2015 chez Mélisse / Harmonia Mundi. Concert de sortie le <a href="http://www.sunset-sunside.com/2015/5/artiste/1864/2992/">14 mai au Sunside</a> à Paris.
