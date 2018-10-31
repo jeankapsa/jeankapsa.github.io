@@ -3,7 +3,7 @@ layout: post
 title: "France Musique"
 microblog: false
 audio: 
-date: 2015-04-29 13:46:25 +0200
+date: 2015-04-29 12:46:25 +0100
 guid: http://kapsa.micro.blog/2015/04/29/france-musique.html
 ---
 Nous étions aujourd'hui en live sur France Musique dans la Matinale Culturelle, invités par Nicolas Lafitte et Vincent Josse pour présenter notre nouvel album "La Ligne de Kármán".
