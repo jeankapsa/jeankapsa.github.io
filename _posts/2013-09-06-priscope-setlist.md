@@ -3,7 +3,7 @@ layout: post
 title: "Périscope : setlist"
 microblog: false
 audio: 
-date: 2013-09-06 09:59:48 +0200
+date: 2013-09-06 08:59:48 +0100
 guid: http://kapsa.micro.blog/2013/09/06/priscope-setlist.html
 ---
 Je jouerai un répertoire de nouvelles compositions pour le concert piano solo au Périscope à Lyon le 12 septembre à 21h.
