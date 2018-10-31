@@ -3,7 +3,7 @@ layout: post
 title: "La Poste aux Chevaux des Ormes"
 microblog: false
 audio: 
-date: 2018-09-02 19:42:44 +0200
+date: 2018-09-02 18:42:44 +0100
 guid: http://kapsa.micro.blog/2018/09/02/la-poste-aux.html
 ---
 Setlist du concert avec le ReBop Quintet au Relais de la Poste aux Chevaux des Ormes le 1er septembre.
