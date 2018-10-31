@@ -3,7 +3,7 @@ layout: post
 title: "Inside Stanley Kubrick"
 microblog: false
 audio: 
-date: 2018-09-08 11:02:20 +0200
+date: 2018-09-08 10:02:20 +0100
 guid: http://kapsa.micro.blog/2018/09/08/inside-stanley-kubrick.html
 ---
 Le nouvel album de Festen _Inside Stanley Kubrick_ sortira le 28 septembre sur le label Laborie Jazz. Nous l'avons enregistré sur cinq jours fin juillet 2017 au studio [Black Box](www.studioblackbox.fr) près d'Angers. Je jouais sur un [piano droit Steinway de 1935](http://www.jeankapsa.com/uploads/2018/1b3c0b2234.jpg) enregistré avec deux micros Neumann de 1966.  
