@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-06-27 23:05:08 +0200
+date: 2018-06-27 22:05:08 +0100
 guid: http://kapsa.micro.blog/2018/06/27/deuxime-jour-de.html
 ---
 Deuxième jour de résidence à Limoges avec Festen.
