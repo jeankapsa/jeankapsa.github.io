@@ -3,7 +3,7 @@ layout: post
 title: "Parhélie : nouvel album en trio"
 microblog: false
 audio: 
-date: 2012-02-06 17:50:00 +0200
+date: 2012-02-06 16:50:00 +0100
 guid: http://kapsa.micro.blog/2012/02/06/parhlie-nouvel-album.html
 ---
 Mélisse Music présente _Parhélie_, album du trio Kapsa Reininger Fleau. Révélation Jazz Magazine, Élu Citizen Jazz.
