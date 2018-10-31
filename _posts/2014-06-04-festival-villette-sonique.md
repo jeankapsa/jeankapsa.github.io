@@ -3,7 +3,7 @@ layout: post
 title: "Festival Villette Sonique"
 microblog: false
 audio: 
-date: 2014-06-05 00:02:03 +0200
+date: 2014-06-04 23:02:03 +0100
 guid: http://kapsa.micro.blog/2014/06/04/festival-villette-sonique.html
 ---
 Le morceau <em>Hammers</em> joué à quatre mains avec Nils Frahm, le 2 juin à la Cité de la Musique (Philharmonie de Paris) dans le cadre du festival Villette Sonique.
