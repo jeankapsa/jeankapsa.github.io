@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-05-10 19:05:30 +0200
+date: 2018-05-10 18:05:30 +0100
 guid: http://kapsa.micro.blog/2018/05/10/sance-de-travail.html
 ---
 Séance de travail à la Maison de la Radio à Paris.
