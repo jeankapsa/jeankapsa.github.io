@@ -3,7 +3,7 @@ layout: post
 title: "É de fazer chorar"
 microblog: false
 audio: 
-date: 2013-12-23 23:37:44 +0200
+date: 2013-12-23 22:37:44 +0100
 guid: http://kapsa.micro.blog/2013/12/23/de-fazer-chorar.html
 ---
 Souvenirs d'un beau concert à Recife (Brésil) - Teatro Barreto Junior - le 22 mars 2012. Avec Alex Corezzi (saxophone soprano), Enoque Souza (batterie) et Lucas Dos Prazeres (percussions).
