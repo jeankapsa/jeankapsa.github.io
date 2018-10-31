@@ -3,7 +3,7 @@ layout: post
 title: "La Grande Maison"
 microblog: false
 audio: 
-date: 2018-08-17 16:19:50 +0200
+date: 2018-08-17 15:19:50 +0100
 guid: http://kapsa.micro.blog/2018/08/17/setlist-et-photo.html
 ---
 Setlist du concert piano solo à La Grande Maison à Mirmande le 16 août :
