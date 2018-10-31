@@ -3,7 +3,7 @@ layout: post
 title: "Festen : deuxième album"
 microblog: false
 audio: 
-date: 2012-11-29 19:07:17 +0200
+date: 2012-11-29 18:07:17 +0100
 guid: http://kapsa.micro.blog/2012/11/29/festen-deuxime-album.html
 ---
 Vous êtes nombreux à l'attendre, tout comme Damien, Oliver, Maxime et moi. Après un an de péripéties, le deuxième album de Festen est sur le point de sortir. Je peux déjà vous en dire un peu plus sur la séance en studio.
