@@ -3,7 +3,7 @@ layout: post
 title: "Saveurs Jazz Festival"
 microblog: false
 audio: 
-date: 2018-07-10 11:17:16 +0200
+date: 2018-07-10 10:17:16 +0100
 guid: http://kapsa.micro.blog/2018/07/10/saveurs-jazz-festival.html
 ---
 Setlist et photos au Saveurs Jazz Festival avec Festen le 7 juillet :
