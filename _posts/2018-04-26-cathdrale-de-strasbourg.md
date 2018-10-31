@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-04-26 16:20:31 +0200
+date: 2018-04-26 15:20:31 +0100
 guid: http://kapsa.micro.blog/2018/04/26/cathdrale-de-strasbourg.html
 ---
 Cathédrale de Strasbourg
