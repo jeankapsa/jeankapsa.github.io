@@ -65,6 +65,7 @@ blockquote { color: #dddddd; font-size: 12px; letter-spacing: normal; border-lef
 .site-title, .site-title:visited, .site-title:hover { color: #eeeeee; }
 .site-header { border-top: 1px solid #4a525a; border-bottom: 1px solid #eeeeee; min-height: 56px; position: relative; }
 .site-footer { border-top: 1px solid #eeeeee; padding: 30px 0; }
+.footer-col-wrapper { display: none; }
 .post-meta { font-family: 'Trebuchet MS', Verdana, sans-serif; font-size: 10px; color: #aaaaaa; }
 .post-meta:hover { color: white ;}
 li.h-entry { border-bottom: 1px solid #eeeeee; padding-bottom: 20px; }
