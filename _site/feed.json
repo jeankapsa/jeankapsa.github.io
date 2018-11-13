@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/11/13/134133.html",
+	      	
+			"content_html": "<p>En écoute : Keith Jarrett - <em>La Fenice</em></p>\n",
+			"date_published": "2018-11-13T14:41:33+01:00",
+			"url": "https://www.jeankapsa.com/2018/11/13/134133.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/10/18/nancy-jazz-pulsations.html",
 	      	
 			"title": "Nancy Jazz Pulsations",
@@ -218,16 +226,6 @@
 			"content_html": "<p>Festen à La Gare à Paris le 16 juin 2018. Photo © <a href=\"https://www.instagram.com/eglantine_egs/\">Eglantine Marques</a></p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/a9dc82e0f3.jpg\" width=\"600\" height=\"565\" /></p>\n",
 			"date_published": "2018-06-25T19:10:03+02:00",
 			"url": "https://www.jeankapsa.com/2018/06/25/festen-la-gare.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/06/25/170008.html",
-	      	
-			"title": "#20 - Piano solo",
-			
-			"content_html": "<audio controls=\"controls\" src=\"http://www.jeankapsa.com/uploads/2018/9c96035901.mp3\" />\n\n",
-			"date_published": "2018-06-25T19:00:08+02:00",
-			"url": "https://www.jeankapsa.com/2018/06/25/170008.html"
 		}
 		
 	]
