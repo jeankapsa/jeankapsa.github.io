@@ -3,6 +3,7 @@ layout: post
 title: "Vidéo : Auditorium Parco della Musica"
 microblog: false
 audio: 
+photo: 
 date: 2012-11-07 11:24:31 +0100
 guid: http://kapsa.micro.blog/2012/11/07/vido-auditorium-parco.html
 ---
