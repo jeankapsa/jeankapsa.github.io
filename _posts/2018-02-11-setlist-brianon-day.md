@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-02-11 23:12:12 +0100
 guid: http://kapsa.micro.blog/2018/02/11/setlist-brianon-day.html
 ---
