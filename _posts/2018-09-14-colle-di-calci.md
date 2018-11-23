@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/67b559e2b0.jpg
 date: 2018-09-14 09:09:30 +0100
 guid: http://kapsa.micro.blog/2018/09/14/colle-di-calci.html
 ---
