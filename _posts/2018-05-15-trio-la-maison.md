@@ -3,6 +3,7 @@ layout: post
 title: "#15 - Trio à la Maison de la Radio : 'Memories of Tomorrow'"
 microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/862fdd63cd.mp3
+photo: 
 date: 2018-05-15 23:02:29 +0100
 guid: http://kapsa.micro.blog/2018/05/15/trio-la-maison.html
 ---
