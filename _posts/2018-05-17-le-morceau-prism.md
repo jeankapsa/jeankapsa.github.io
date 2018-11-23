@@ -3,6 +3,7 @@ layout: post
 title: "#16 - Trio à la Maison de la Radio : ‘Prism'"
 microblog: false
 audio: http://www.jeankapsa.com/uploads/2018/e6111334b0.mp3
+photo: 
 date: 2018-05-17 16:17:21 +0100
 guid: http://kapsa.micro.blog/2018/05/17/le-morceau-prism.html
 ---
