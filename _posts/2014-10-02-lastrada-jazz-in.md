@@ -3,6 +3,7 @@ layout: post
 title: "L&#039;Astrada - Jazz in Marciac"
 microblog: false
 audio: 
+photo: 
 date: 2014-10-02 20:47:11 +0100
 guid: http://kapsa.micro.blog/2014/10/02/lastrada-jazz-in.html
 ---
