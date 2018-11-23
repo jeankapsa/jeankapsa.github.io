@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/beb8a1e46d.jpg
 date: 2018-08-03 15:29:35 +0100
 guid: http://kapsa.micro.blog/2018/08/03/la-voie-lacte.html
 ---
