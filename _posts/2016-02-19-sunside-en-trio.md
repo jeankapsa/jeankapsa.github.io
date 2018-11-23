@@ -3,6 +3,7 @@ layout: post
 title: "Sunside en trio"
 microblog: false
 audio: 
+photo: 
 date: 2016-02-19 13:28:35 +0100
 guid: http://kapsa.micro.blog/2016/02/19/sunside-en-trio.html
 ---
