@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-07-01 19:37:09 +0100
 guid: http://kapsa.micro.blog/2017/07/01/setlist-dhier-ping.html
 ---
