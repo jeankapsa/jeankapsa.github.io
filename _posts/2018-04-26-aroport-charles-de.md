@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/7b794f3f9d.jpg
 date: 2018-04-26 04:55:54 +0100
 guid: http://kapsa.micro.blog/2018/04/26/aroport-charles-de.html
 ---
