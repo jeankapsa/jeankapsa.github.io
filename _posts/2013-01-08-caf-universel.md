@@ -3,6 +3,7 @@ layout: post
 title: "Café Universel"
 microblog: false
 audio: 
+photo: 
 date: 2013-01-08 09:38:00 +0100
 guid: http://kapsa.micro.blog/2013/01/08/caf-universel.html
 ---
