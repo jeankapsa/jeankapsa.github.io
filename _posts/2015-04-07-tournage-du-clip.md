@@ -3,6 +3,7 @@ layout: post
 title: "Tournage du clip"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/8a6d9e5c25.jpg
 date: 2015-04-07 13:28:20 +0100
 guid: http://kapsa.micro.blog/2015/04/07/tournage-du-clip.html
 ---
