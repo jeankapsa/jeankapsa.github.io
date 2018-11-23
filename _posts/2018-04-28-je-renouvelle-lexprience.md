@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-04-28 21:04:21 +0100
 guid: http://kapsa.micro.blog/2018/04/28/je-renouvelle-lexprience.html
 ---
