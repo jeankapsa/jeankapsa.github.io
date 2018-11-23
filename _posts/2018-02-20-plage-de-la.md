@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/b5a53dfdef.jpg
 date: 2018-02-20 19:14:37 +0100
 guid: http://kapsa.micro.blog/2018/02/20/plage-de-la.html
 ---
