@@ -3,6 +3,7 @@ layout: post
 title: "Jazz in Marciac"
 microblog: false
 audio: 
+photo: 
 date: 2012-08-01 13:28:06 +0100
 guid: http://kapsa.micro.blog/2012/08/01/jazz-in-marciac.html
 ---
