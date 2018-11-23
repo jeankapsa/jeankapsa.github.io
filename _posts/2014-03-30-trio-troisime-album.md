@@ -3,6 +3,7 @@ layout: post
 title: "Trio : troisième album"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/1c708a2fa3.jpg
 date: 2014-03-30 13:41:24 +0100
 guid: http://kapsa.micro.blog/2014/03/30/trio-troisime-album.html
 ---
