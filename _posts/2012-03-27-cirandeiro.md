@@ -3,6 +3,7 @@ layout: post
 title: "Cirandeiro"
 microblog: false
 audio: 
+photo: 
 date: 2012-03-27 17:28:21 +0100
 guid: http://kapsa.micro.blog/2012/03/27/cirandeiro.html
 ---
