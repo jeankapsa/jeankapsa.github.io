@@ -3,6 +3,7 @@ layout: post
 title: "Music for the Funeral of Queen Mary"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/0fef690a7d.jpg
 date: 2018-09-04 17:18:57 +0100
 guid: http://kapsa.micro.blog/2018/09/04/music-for-the.html
 ---
