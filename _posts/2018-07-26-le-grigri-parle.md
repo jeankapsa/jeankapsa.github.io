@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-07-26 11:55:30 +0100
 guid: http://kapsa.micro.blog/2018/07/26/le-grigri-parle.html
 ---
