@@ -3,6 +3,7 @@ layout: post
 title: "Shadow Boxing"
 microblog: false
 audio: 
+photo: 
 date: 2014-05-19 12:19:08 +0100
 guid: http://kapsa.micro.blog/2014/05/19/shadow-boxing.html
 ---
