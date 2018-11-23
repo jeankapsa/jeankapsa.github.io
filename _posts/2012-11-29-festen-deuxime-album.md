@@ -3,6 +3,7 @@ layout: post
 title: "Festen : deuxième album"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/51ce8daf6e.jpg
 date: 2012-11-29 18:07:17 +0100
 guid: http://kapsa.micro.blog/2012/11/29/festen-deuxime-album.html
 ---
