@@ -3,6 +3,7 @@ layout: post
 title: "Péristyle de l'Opéra de Lyon"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-23 16:51:44 +0100
 guid: http://kapsa.micro.blog/2012/07/23/pristyle-de-lopra.html
 ---
