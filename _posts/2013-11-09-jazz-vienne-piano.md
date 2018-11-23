@@ -3,6 +3,7 @@ layout: post
 title: "Jazz à Vienne - Piano Solo"
 microblog: false
 audio: 
+photo: 
 date: 2013-11-09 18:53:09 +0100
 guid: http://kapsa.micro.blog/2013/11/09/jazz-vienne-piano.html
 ---
