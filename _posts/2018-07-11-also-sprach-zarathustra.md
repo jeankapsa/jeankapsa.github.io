@@ -3,6 +3,7 @@ layout: post
 title: "Also Sprach Zarathustra"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/d627214692.jpg
 date: 2018-07-11 10:53:17 +0100
 guid: http://kapsa.micro.blog/2018/07/11/also-sprach-zarathustra.html
 ---
