@@ -3,6 +3,7 @@ layout: post
 title: "France Musique"
 microblog: false
 audio: 
+photo: 
 date: 2015-04-29 12:46:25 +0100
 guid: http://kapsa.micro.blog/2015/04/29/france-musique.html
 ---
