@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-29 18:31:14 +0100
 guid: http://kapsa.micro.blog/2017/06/29/cet-article-de.html
 ---
