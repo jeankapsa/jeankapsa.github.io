@@ -3,6 +3,7 @@ layout: post
 title: "Aan Het Vrijthof"
 microblog: false
 audio: 
+photo: 
 date: 2013-12-27 13:46:16 +0100
 guid: http://kapsa.micro.blog/2013/12/27/aan-het-vrijthof.html
 ---
