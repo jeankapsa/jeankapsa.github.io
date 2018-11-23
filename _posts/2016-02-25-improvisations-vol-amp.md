@@ -3,6 +3,7 @@ layout: post
 title: "Improvisations, Vol. 1 & 2"
 microblog: false
 audio: 
+photo: 
 date: 2016-02-25 14:25:50 +0100
 guid: http://kapsa.micro.blog/2016/02/25/improvisations-vol-amp.html
 ---
