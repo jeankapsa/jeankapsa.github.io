@@ -3,6 +3,7 @@ layout: post
 title: "Brésil : retour dans le Nordeste"
 microblog: false
 audio: 
+photo: 
 date: 2015-03-20 22:25:49 +0100
 guid: http://kapsa.micro.blog/2015/03/20/brsil-retour-dans.html
 ---
