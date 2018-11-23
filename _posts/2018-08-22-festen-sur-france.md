@@ -3,6 +3,7 @@ layout: post
 title: "Festen sur France Musique"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-22 01:43:31 +0100
 guid: http://kapsa.micro.blog/2018/08/22/festen-sur-france.html
 ---
