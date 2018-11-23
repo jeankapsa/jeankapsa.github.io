@@ -3,6 +3,7 @@ layout: post
 title: "Vic-Fezensac"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/4989afddf3.jpg
 date: 2013-05-07 13:44:40 +0100
 guid: http://kapsa.micro.blog/2013/05/07/vicfezensac.html
 ---
