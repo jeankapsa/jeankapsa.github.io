@@ -3,6 +3,7 @@ layout: post
 title: "Saveurs Jazz Festival"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/fc295901bc.jpg
 date: 2018-07-10 10:17:16 +0100
 guid: http://kapsa.micro.blog/2018/07/10/saveurs-jazz-festival.html
 ---
