@@ -3,6 +3,7 @@ layout: post
 title: "Overlook Hotel"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/c7f164d4ad.jpg
 date: 2018-05-11 14:29:49 +0100
 guid: http://kapsa.micro.blog/2018/05/11/overlook-hotel.html
 ---
