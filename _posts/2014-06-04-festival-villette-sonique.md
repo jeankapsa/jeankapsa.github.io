@@ -3,6 +3,7 @@ layout: post
 title: "Festival Villette Sonique"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/7dc35f0133.jpg
 date: 2014-06-04 23:02:03 +0100
 guid: http://kapsa.micro.blog/2014/06/04/festival-villette-sonique.html
 ---
