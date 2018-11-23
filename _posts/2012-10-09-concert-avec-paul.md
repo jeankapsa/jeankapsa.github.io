@@ -3,6 +3,7 @@ layout: post
 title: "Concert avec Paul Jarret Trio"
 microblog: false
 audio: 
+photo: 
 date: 2012-10-09 09:10:39 +0100
 guid: http://kapsa.micro.blog/2012/10/09/concert-avec-paul.html
 ---
