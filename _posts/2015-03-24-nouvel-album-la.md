@@ -3,6 +3,7 @@ layout: post
 title: "Nouvel album : La Ligne de Kármán"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/807879b2f8.jpg
 date: 2015-03-24 08:59:19 +0100
 guid: http://kapsa.micro.blog/2015/03/24/nouvel-album-la.html
 ---
