@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/a9dc82e0f3.jpg
 date: 2018-06-25 18:10:03 +0100
 guid: http://kapsa.micro.blog/2018/06/25/festen-la-gare.html
 ---
