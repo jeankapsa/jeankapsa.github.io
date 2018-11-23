@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/01b401a3f0.jpg
 date: 2018-03-18 18:47:23 +0100
 guid: http://kapsa.micro.blog/2018/03/18/setlist-meudon-day.html
 ---
