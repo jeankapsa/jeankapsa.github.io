@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/c7bfe5195c.jpg
 date: 2018-05-10 18:05:30 +0100
 guid: http://kapsa.micro.blog/2018/05/10/sance-de-travail.html
 ---
