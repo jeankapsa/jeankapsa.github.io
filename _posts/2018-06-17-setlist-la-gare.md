@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-06-17 16:29:50 +0100
 guid: http://kapsa.micro.blog/2018/06/17/setlist-la-gare.html
 ---
