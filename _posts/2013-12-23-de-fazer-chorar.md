@@ -3,6 +3,7 @@ layout: post
 title: "É de fazer chorar"
 microblog: false
 audio: 
+photo: 
 date: 2013-12-23 22:37:44 +0100
 guid: http://kapsa.micro.blog/2013/12/23/de-fazer-chorar.html
 ---
