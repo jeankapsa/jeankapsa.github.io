@@ -3,6 +3,7 @@ layout: post
 title: "Concert pour Amnesty"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/147a2e5daf.jpg
 date: 2013-09-28 22:16:42 +0100
 guid: http://kapsa.micro.blog/2013/09/28/concert-pour-amnesty.html
 ---
