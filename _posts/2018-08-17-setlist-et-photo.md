@@ -3,6 +3,7 @@ layout: post
 title: "La Grande Maison"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/09fa521be6.jpg
 date: 2018-08-17 15:19:50 +0100
 guid: http://kapsa.micro.blog/2018/08/17/setlist-et-photo.html
 ---
