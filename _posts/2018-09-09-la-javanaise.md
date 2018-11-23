@@ -3,6 +3,7 @@ layout: post
 title: "La Javanaise"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-09 13:10:43 +0100
 guid: http://kapsa.micro.blog/2018/09/09/la-javanaise.html
 ---
