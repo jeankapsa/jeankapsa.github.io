@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/c78a7ba447.jpg
 date: 2018-04-03 00:43:48 +0100
 guid: http://kapsa.micro.blog/2018/04/02/match-kaloum.html
 ---
