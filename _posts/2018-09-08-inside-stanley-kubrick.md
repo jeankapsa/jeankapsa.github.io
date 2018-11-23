@@ -3,6 +3,7 @@ layout: post
 title: "Inside Stanley Kubrick"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/66aef92127.jpg
 date: 2018-09-08 10:02:20 +0100
 guid: http://kapsa.micro.blog/2018/09/08/inside-stanley-kubrick.html
 ---
