@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2017-06-30 16:52:42 +0100
 guid: http://kapsa.micro.blog/2017/06/30/concert-cheverny-retransmis.html
 ---
