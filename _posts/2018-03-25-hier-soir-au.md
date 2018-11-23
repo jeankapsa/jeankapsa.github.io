@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/a665f7837c.jpg
 date: 2018-03-25 18:10:12 +0100
 guid: http://kapsa.micro.blog/2018/03/25/hier-soir-au.html
 ---
