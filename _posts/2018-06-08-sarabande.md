@@ -3,6 +3,7 @@ layout: post
 title: "Sarabande"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/abba4c6c35.jpg
 date: 2018-06-08 23:04:21 +0100
 guid: http://kapsa.micro.blog/2018/06/08/sarabande.html
 ---
