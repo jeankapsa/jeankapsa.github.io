@@ -3,6 +3,7 @@ layout: post
 title: "Piano Bleu: suite"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-16 00:01:36 +0100
 guid: http://kapsa.micro.blog/2013/05/15/piano-bleu-suite.html
 ---
