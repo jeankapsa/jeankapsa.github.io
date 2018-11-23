@@ -3,6 +3,7 @@ layout: post
 title: "Église Saint-Sulpice"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/9fba2f52ef.jpg
 date: 2013-04-14 21:00:06 +0100
 guid: http://kapsa.micro.blog/2013/04/14/glise-saintsulpice.html
 ---
