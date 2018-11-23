@@ -3,6 +3,7 @@ layout: post
 title: "Duo avec Damien Fleau"
 microblog: false
 audio: 
+photo: 
 date: 2012-07-17 08:55:36 +0100
 guid: http://kapsa.micro.blog/2012/07/17/duo-avec-damien.html
 ---
