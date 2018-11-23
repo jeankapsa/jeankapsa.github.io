@@ -3,6 +3,7 @@ layout: post
 title: "Paris-Liège-Maastricht"
 microblog: false
 audio: 
+photo: 
 date: 2013-06-09 11:43:51 +0100
 guid: http://kapsa.micro.blog/2013/06/09/parisligemaastricht.html
 ---
