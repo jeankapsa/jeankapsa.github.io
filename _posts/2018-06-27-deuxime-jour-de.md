@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/3461b5bdc5.jpg
 date: 2018-06-27 22:05:08 +0100
 guid: http://kapsa.micro.blog/2018/06/27/deuxime-jour-de.html
 ---
