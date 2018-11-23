@@ -3,6 +3,7 @@ layout: post
 title: "Enregistrement au Studio Davout"
 microblog: false
 audio: 
+photo: 
 date: 2013-05-14 17:16:11 +0100
 guid: http://kapsa.micro.blog/2013/05/14/enregistrement-au-studio.html
 ---
