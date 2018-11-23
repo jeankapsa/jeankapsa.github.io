@@ -3,6 +3,7 @@ layout: post
 title: "Périscope : setlist"
 microblog: false
 audio: 
+photo: 
 date: 2013-09-06 08:59:48 +0100
 guid: http://kapsa.micro.blog/2013/09/06/priscope-setlist.html
 ---
