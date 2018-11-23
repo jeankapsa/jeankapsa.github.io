@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/6f4c243aae.jpg
 date: 2018-04-26 15:20:31 +0100
 guid: http://kapsa.micro.blog/2018/04/26/cathdrale-de-strasbourg.html
 ---
