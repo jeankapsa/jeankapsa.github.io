@@ -3,6 +3,7 @@ layout: post
 title: "Château de Grignan"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/9065d99142.jpg
 date: 2013-12-03 19:48:21 +0100
 guid: http://kapsa.micro.blog/2013/12/03/chteau-de-grignan.html
 ---
