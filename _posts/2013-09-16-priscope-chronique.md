@@ -3,6 +3,7 @@ layout: post
 title: "Périscope : chronique"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/584e97a938.jpg
 date: 2013-09-16 11:04:29 +0100
 guid: http://kapsa.micro.blog/2013/09/16/priscope-chronique.html
 ---
