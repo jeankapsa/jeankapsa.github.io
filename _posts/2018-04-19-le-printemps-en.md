@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/7556afb91f.jpg
 date: 2018-04-19 20:58:08 +0100
 guid: http://kapsa.micro.blog/2018/04/19/le-printemps-en.html
 ---
