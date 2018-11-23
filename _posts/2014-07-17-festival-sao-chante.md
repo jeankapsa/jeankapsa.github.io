@@ -3,6 +3,7 @@ layout: post
 title: "Festival Saoû Chante Mozart"
 microblog: false
 audio: 
+photo: 
 date: 2014-07-17 16:55:46 +0100
 guid: http://kapsa.micro.blog/2014/07/17/festival-sao-chante.html
 ---
