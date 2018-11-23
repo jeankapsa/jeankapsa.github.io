@@ -3,6 +3,7 @@ layout: post
 title: "Nancy Jazz Pulsations"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/6407cfc189.jpg
 date: 2018-10-18 14:15:15 +0100
 guid: http://kapsa.micro.blog/2018/10/18/nancy-jazz-pulsations.html
 ---
