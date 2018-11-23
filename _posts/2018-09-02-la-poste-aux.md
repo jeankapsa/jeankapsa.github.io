@@ -3,6 +3,7 @@ layout: post
 title: "La Poste aux Chevaux des Ormes"
 microblog: false
 audio: 
+photo: http://www.jeankapsa.com/uploads/2018/0af2a52a7f.jpg
 date: 2018-09-02 18:42:44 +0100
 guid: http://kapsa.micro.blog/2018/09/02/la-poste-aux.html
 ---
