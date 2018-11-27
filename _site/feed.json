@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/11/24/nous-serons-en.html",
+	      	
+			"content_html": "<p>Nous serons en direct sur <a href=\"http://www.tsfjazz.com\">TSF Jazz</a> dans l’émission Deli Express avec Festen le 3 décembre de 12h à 13h, pour parler du nouvel album <a href=\"https://jeankapsa.com/2018/09/08/inside-stanley-kubrick.html\"><em>Inside Stanley Kubrick</em></a>.</p>\n",
+			"date_published": "2018-11-24T20:20:38+01:00",
+			"url": "https://www.jeankapsa.com/2018/11/24/nous-serons-en.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/11/13/134133.html",
 	      	
 			"content_html": "<p>En écoute : Keith Jarrett - <em>La Fenice</em></p>\n",
@@ -53,7 +61,7 @@
 		{
 			"id": "http://kapsa.micro.blog/2018/09/28/en-concert-en.html",
 	      	
-			"content_html": "<p>La diffusion live sur France Musique du concert d’hier soir au Studio de l’Ermitage avec Festen est <a href=\"https://itunes.apple.com/fr/podcast/lactualit%C3%A9-du-jazz-festen-live-au-studio-de-lermitage/id504513627?i=1000420665421&amp;mt=2\">disponible en podcast</a>.</p>\n\n<p>L’album <em>Inside Stanley Kubrick</em> est maintenant disponible sur <a href=\"https://idol.lnk.to/InsideStanleyKubrick\">toutes les plateformes numériques</a>.\nL’album au format physique est disponible sur ledisquaire.com (<a href=\"https://www.ledisquaire.com/accueil/18716-festen-3341348161969.html\">CD</a> ou <a href=\"https://www.ledisquaire.com/accueil/18987-festen-3341342161965.html\">vinyle</a>), <a href=\"https://www.lesallumesdujazz.com/produit-inside-stanley-kubrick,2539.html\">Les Allumés du Jazz</a>, <a href=\"https://www.amazon.fr/Inside-Stanley-Kubrick-Festen/dp/B07FDPF46Z/ref=tmm_acd_swatch_0?_encoding=UTF8&amp;qid=1538210167&amp;sr=1-1\">Amazon</a>, ou encore <a href=\"https://musique.fnac.com/a12663542/Festen-Inside-Stanley-Kubrick-CD-album\">Fnac</a>.</p>\n",
+			"content_html": "<p>La diffusion live sur France Musique du concert d’hier soir au Studio de l’Ermitage avec Festen est <a href=\"https://itunes.apple.com/fr/podcast/lactualit%C3%A9-du-jazz-festen-live-au-studio-de-lermitage/id504513627?i=1000420665421&amp;mt=2\">disponible en podcast</a>.</p>\n\n<p>L’album <em>Inside Stanley Kubrick</em> est maintenant disponible sur <a href=\"https://idol.lnk.to/InsideStanleyKubrick\">toutes les plateformes numériques</a>.<br />\nL’album au format physique est disponible sur :</p>\n<ul>\n  <li><a href=\"http://festen.bigcartel.com\">notre site de vente</a></li>\n  <li>ledisquaire.com (<a href=\"https://www.ledisquaire.com/accueil/18716-festen-3341348161969.html\">CD</a> et <a href=\"https://www.ledisquaire.com/accueil/18987-festen-3341342161965.html\">vinyle</a>)</li>\n  <li><a href=\"https://www.lesallumesdujazz.com/produit-inside-stanley-kubrick,2539.html\">Les Allumés du Jazz</a></li>\n  <li><a href=\"https://www.amazon.fr/Inside-Stanley-Kubrick-Festen/dp/B07FDPF46Z/ref=tmm_acd_swatch_0?_encoding=UTF8&amp;qid=1538210167&amp;sr=1-1\">Amazon</a></li>\n  <li><a href=\"https://musique.fnac.com/a12663542/Festen-Inside-Stanley-Kubrick-CD-album\">Fnac</a></li>\n</ul>\n",
 			"date_published": "2018-09-28T13:59:20+02:00",
 			"url": "https://www.jeankapsa.com/2018/09/28/en-concert-en.html"
 		},
@@ -99,7 +107,7 @@
 	      	
 			"title": "Inside Stanley Kubrick",
 			
-			"content_html": "<p>Le nouvel album de Festen <em>Inside Stanley Kubrick</em> sortira le 28 septembre sur le label Laborie Jazz. Nous l’avons enregistré sur cinq jours fin juillet 2017 au studio <a href=\"www.studioblackbox.fr\">Black Box</a> près d’Angers. Je jouais sur un <a href=\"http://www.jeankapsa.com/uploads/2018/1b3c0b2234.jpg\">piano droit Steinway de 1935</a> enregistré avec deux micros Neumann de 1966.</p>\n\n<blockquote>\n  <p>Je suis un hôtel particulier au milieu des montagnes, un travelling optique interminable, un écrivain aliéné dans un labyrinthe de glace. Je suis un masque vénitien, un fantasme interdit, un fragment de rêve. Je suis une bande de droogs sadiques et intrépides, un jeune lord tout droit sorti d’un tableau de Hogarth, une recrue obèse armée d’un fusil. Je suis le dernier album de Festen « Inside Stanley Kubrick ». Exploration d’un univers énigmatique et tourmenté. Voyage vers Jupiter, dans les méandres de la folie, dans l’inracontable. Là où l’énergie est brute et progressive. Là où la musique se substitue à l’image et contient sa propre narration.</p>\n</blockquote>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/66aef92127.jpg\" width=\"600\" height=\"538\" /></p>\n",
+			"content_html": "<p>Le nouvel album de Festen <em>Inside Stanley Kubrick</em> sortira le 28 septembre sur le label Laborie Jazz. Nous l’avons enregistré sur cinq jours fin juillet 2017 au studio <a href=\"www.studioblackbox.fr\">Black Box</a> près d’Angers. Je jouais sur un <a href=\"http://www.jeankapsa.com/uploads/2018/1b3c0b2234.jpg\">piano droit Steinway de 1935</a> enregistré avec deux micros Neumann de 1966.</p>\n\n<blockquote>\n  <p>Je suis un hôtel particulier au milieu des montagnes, un travelling optique interminable, un écrivain aliéné dans un labyrinthe de glace. Je suis un masque vénitien, un fantasme interdit, un fragment de rêve. Je suis une bande de droogs sadiques et intrépides, un jeune lord tout droit sorti d’un tableau de Hogarth, une recrue obèse armée d’un fusil. Je suis le dernier album de Festen « Inside Stanley Kubrick ». Exploration d’un univers énigmatique et tourmenté. Voyage vers Jupiter, dans les méandres de la folie, dans l’inracontable. Là où l’énergie est brute et progressive. Là où la musique se substitue à l’image et contient sa propre narration.</p>\n</blockquote>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/66aef92127.jpg\" width=\"600\" height=\"538\" /></p>\n\n<p>L’album disponible sur <a href=\"https://idol.lnk.to/InsideStanleyKubrick\">toutes les plateformes numériques</a>.<br />\nL’album au format physique est disponible sur :</p>\n<ul>\n  <li><a href=\"http://festen.bigcartel.com\">Notre propre site de vente</a></li>\n  <li>ledisquaire.com (<a href=\"https://www.ledisquaire.com/accueil/18716-festen-3341348161969.html\">CD</a> et <a href=\"https://www.ledisquaire.com/accueil/18987-festen-3341342161965.html\">vinyle</a>)</li>\n  <li><a href=\"https://www.lesallumesdujazz.com/produit-inside-stanley-kubrick,2539.html\">Les Allumés du Jazz</a></li>\n  <li><a href=\"https://www.amazon.fr/Inside-Stanley-Kubrick-Festen/dp/B07FDPF46Z/ref=tmm_acd_swatch_0?_encoding=UTF8&amp;qid=1538210167&amp;sr=1-1\">Amazon</a></li>\n  <li><a href=\"https://musique.fnac.com/a12663542/Festen-Inside-Stanley-Kubrick-CD-album\">Fnac</a></li>\n</ul>\n",
 			"date_published": "2018-09-08T11:02:20+02:00",
 			"url": "https://www.jeankapsa.com/2018/09/08/inside-stanley-kubrick.html"
 		},
@@ -218,14 +226,6 @@
 			"content_html": "<p>Premier jour de résidence à Limoges avec Festen.</p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/a6bd6e7977.jpg\" width=\"600\" height=\"450\" /></p>\n",
 			"date_published": "2018-06-26T19:54:49+02:00",
 			"url": "https://www.jeankapsa.com/2018/06/26/premier-jour-de.html"
-		},
-		
-		{
-			"id": "http://kapsa.micro.blog/2018/06/25/festen-la-gare.html",
-	      	
-			"content_html": "<p>Festen à La Gare à Paris le 16 juin 2018. Photo © <a href=\"https://www.instagram.com/eglantine_egs/\">Eglantine Marques</a></p>\n\n<p><img src=\"http://www.jeankapsa.com/uploads/2018/a9dc82e0f3.jpg\" width=\"600\" height=\"565\" /></p>\n",
-			"date_published": "2018-06-25T19:10:03+02:00",
-			"url": "https://www.jeankapsa.com/2018/06/25/festen-la-gare.html"
 		}
 		
 	]
