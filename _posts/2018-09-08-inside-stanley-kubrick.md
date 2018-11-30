@@ -13,8 +13,7 @@ Le nouvel album de Festen _Inside Stanley Kubrick_ sortira le 28 septembre sur l
 
 <img src="http://www.jeankapsa.com/uploads/2018/66aef92127.jpg" width="600" height="538" />
 
-L'album disponible sur [toutes les plateformes numériques](https://idol.lnk.to/InsideStanleyKubrick).  
-L'album au format physique est disponible sur : 
+L'album est disponible sur [toutes les plateformes numériques](https://idol.lnk.to/InsideStanleyKubrick), et au format physique sur : 
 * [Notre propre site de vente](http://festen.bigcartel.com)
 * ledisquaire.com ([CD](https://www.ledisquaire.com/accueil/18716-festen-3341348161969.html) et [vinyle](https://www.ledisquaire.com/accueil/18987-festen-3341342161965.html)) 
 * [Les Allumés du Jazz](https://www.lesallumesdujazz.com/produit-inside-stanley-kubrick,2539.html)
