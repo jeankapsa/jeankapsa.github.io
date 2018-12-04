@@ -6,7 +6,7 @@ photo:
 date: 2018-09-28 12:59:20 +0100
 guid: http://kapsa.micro.blog/2018/09/28/en-concert-en.html
 ---
-La diffusion live sur France Musique du concert d'hier soir au Studio de l'Ermitage avec Festen est [disponible en podcast](https://itunes.apple.com/fr/podcast/lactualit%C3%A9-du-jazz-festen-live-au-studio-de-lermitage/id504513627?i=1000420665421&mt=2).
+La diffusion live sur France Musique du concert d'hier soir au Studio de l'Ermitage avec Festen est [disponible en podcast](https://overcast.fm/+B6PLUmoyo).
 
 L'album _Inside Stanley Kubrick_ est maintenant disponible sur [toutes les plateformes numériques](https://idol.lnk.to/InsideStanleyKubrick).  
 L'album au format physique est disponible sur : 
