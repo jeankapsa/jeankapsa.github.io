@@ -7,7 +7,7 @@ photo: https://www.jeankapsa.com/uploads/2018/f331d3a939.jpg
 date: 2018-12-08 12:32:40 +0100
 guid: http://kapsa.micro.blog/2018/12/08/la-petite-halle.html
 ---
-Setlist et photo de notre concert de sortie d'album avec Festen à la Petite Halle de la Villette à Paris le 4 décembre.
+Setlist et photo de notre concert avec Festen à la Petite Halle de la Villette à Paris le 4 décembre.
 
 1. _Fidelio_ (Festen)
 2. _Music For The Funeral of Queen Mary_ (Purcell)
@@ -27,3 +27,5 @@ Bis :
 2. _My God is the Sun_ (QOTSA)
 
 <img src="https://www.jeankapsa.com/uploads/2018/f331d3a939.jpg" width="600" height="450" alt="" />
+
+Les albums de Festen sont disponibles sur [toutes les plateformes numériques](https://idol.lnk.to/InsideStanleyKubrick), mais aussi au format CD sur notre [magasin en ligne](http://festen.bigcartel.com).
