@@ -7,6 +7,16 @@
 	"items": [
 		
 		{
+			"id": "http://kapsa.micro.blog/2018/12/08/la-petite-halle.html",
+	      	
+			"title": "La Petite Halle",
+			
+			"content_text": "Setlist et photo de notre concert avec Festen à la...",
+			"date_published": "2018-12-08T12:32:40+01:00",
+			"url": "https://www.jeankapsa.com/2018/12/08/la-petite-halle.html"
+		},
+		
+		{
 			"id": "http://kapsa.micro.blog/2018/12/04/cette-semaine-dans.html",
 	      	
 			"content_text": "Cette semaine dans Télérama, Louis-Julien Nicolaou parle de notre nouvel...",
