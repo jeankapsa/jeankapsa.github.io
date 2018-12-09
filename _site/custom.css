@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 body {
 	font-family: 'Verdana', sans-serif;
 	font-size: 12px;
@@ -7,7 +9,13 @@ body {
     line-height: 1.8em;
 }
 
-a.site-title, .site-nav {
+a.site-title {
+	font-family: 'Playfair Display', serif;
+  	font-weight: 500;
+    letter-spacing: normal;
+}
+
+.site-nav {
 	font-family: 'Palatino', serif;
   	font-weight: 500;
     letter-spacing: normal;
