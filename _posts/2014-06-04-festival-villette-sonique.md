@@ -11,7 +11,7 @@ Le morceau <em>Hammers</em> joué à quatre mains avec Nils Frahm, le 2 juin à
 
 Quelques chroniques du concert : <a href="http://pelecanus.net/live-reports/nils-frahm-chassol-02062014-villette-sonique-2014-paris">ici</a>, <a href="http://www.redbull.com/fr/fr/music/stories/1331656210337/rbma-festival-villette-sonique-chassol-nils-frahm">ici</a> et <a href="http://gwendalperrin.net/blog/2014/06/03/video-nils-frahm-jean-kapsa-impro-on-piano/">ici</a>.
 <blockquote>C'est entouré de deux pianos, d'un clavier Rhodes et d'un synthétiseur que Nils Frahm s'est emparé de la grande salle de la Cité de la Musique. Pendant près d'une heure et demie, le pianiste jonglera entre ses claviers pour faire résonner la salle au son de ses pièces, entre classique et ambient, avant d'être rejoint sur scène le temps d'un morceau par le français Jean Kapsa. « J'étais à une Soirée de Poche de la <a href="http://www.blogotheque.net/">Blogothèque</a> hier quand j'ai entendu quelqu'un jouer du piano » expliquera Nils Frahm, « je me suis tout de suite demandé : qui joue ça ? Il est bien meilleur que moi ! On a discuté un peu et je lui ai proposé de se joindre à moi ce soir ». Sans répéter, les deux pianistes improviseront à quatre mains en b mineur.</blockquote>
-<iframe src="//player.vimeo.com/video/119605541?title=0&byline=0&portrait=0" width="545" height="307" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//player.vimeo.com/video/119605541?title=0&byline=0&portrait=0" width="100%" height="430" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <img src="http://www.jeankapsa.com/uploads/2018/7dc35f0133.jpg" alt="Nils Frahm & Jean Kapsa - Festival Villette Sonique - Philharmonie de Paris"/>
 
