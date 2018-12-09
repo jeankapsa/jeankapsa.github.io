@@ -20,4 +20,4 @@ Nicolas Charlier - batterie
 
 Invité: Rosario Giuliani, sax alto  
 
-<iframe src="http://www.youtube.com/embed/szXy9zk1TJc?rel=0&showinfo=0" width="545" height="306" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/szXy9zk1TJc?rel=0&showinfo=0" width="100%" height="430" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
