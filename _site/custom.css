@@ -25,7 +25,9 @@ a.site-title {
 
 .site-nav .page-link { color: #eeeeee ; font-size: 13px ; border-width: 0 0 0 0; }
 @media screen and (max-width: 600px) {
-  .site-nav { background-color: #333333; } }
+  .site-nav { background-color: #333333; } 
+  .site-nav .menu-icon > svg path {fill: #F3A751; } 
+}
 
 .site-nav .page-link:hover { color: white; }
 
@@ -65,7 +67,7 @@ h1 a:link { color:#cccccc }
 h1 a:visited {color: #cccccc }
 h1 a:hover { color: white; }
 
-img { width: 560px; height: auto; padding-bottom: 5px; }
+img { width: 560px; height: auto; margin-bottom: 5px; border-radius: 5px; }
 audio { padding-bottom: 5px; }
 
 blockquote { color: #dddddd; font-size: 12px; letter-spacing: normal; border-left: 1px solid #F3a751; font-style: normal; }
@@ -74,9 +76,12 @@ blockquote { color: #dddddd; font-size: 12px; letter-spacing: normal; border-lef
 .site-title:link { border-width: 0 0 0 0;}
 .post-title { letter-spacing: normal; }
 .site-title, .site-title:visited, .site-title:hover { color: #F3a751; }
-.site-header { border-top: 1px solid #4a525a; border-bottom: 1px solid #eeeeee; min-height: 56px; position: relative; }
-.site-footer { border-top: 1px solid #eeeeee; padding: 30px 0; }
+.site-header { border-top: 1px solid #4a525a; border-bottom: 1px solid #F3A751; min-height: 56px; position: relative; }
+.site-footer { border-top: 1px solid #F3A751; padding: 30px 0; }
 .footer-col-wrapper { display: none; }
-.post-meta { font-family: 'Helvetica', Verdana, sans-serif; font-size: 10px; color: #aaaaaa; }
+.post-meta { font-family: 'Helvetica Neue', Verdana, sans-serif; font-size: 10px; color: #aaaaaa; }
 .post-meta:hover { color: white ;}
 li.h-entry { border-bottom: 1px solid #eeeeee; padding-bottom: 20px; }
+a.u-url:hover {background: none; border: none;}
+a.u-url:link {background: none; border: none;}
+a.u-url:visited {background: none; border: none;}
