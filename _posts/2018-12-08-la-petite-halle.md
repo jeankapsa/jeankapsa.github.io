@@ -27,5 +27,3 @@ Bis :
 2. _My God is the Sun_ (QOTSA)
 
 <img src="https://www.jeankapsa.com/uploads/2018/f331d3a939.jpg" width="600" height="450" alt="" />
-
-Les albums de Festen sont disponibles sur [toutes les plateformes numériques](https://idol.lnk.to/InsideStanleyKubrick), mais aussi au format CD sur notre [magasin en ligne](http://festen.bigcartel.com).
